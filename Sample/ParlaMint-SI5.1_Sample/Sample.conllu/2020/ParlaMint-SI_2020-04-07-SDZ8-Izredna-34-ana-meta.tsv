@@ -1,0 +1,1197 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Pozitiven	mešano pozitiven	3.920	54	1028	1198	21	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg1.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	4.019	1	8	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg2.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.266	1	6	7	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg2.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno negativen	1.644	1	12	14	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg2.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.953	1	6	7	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg3.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	pozitiven	4.814	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg4.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.233	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg5.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	4.329	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg6.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.966	1	16	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg6.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno negativen	2.428	1	59	69	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg6.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.445	1	35	40	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg6.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.520	1	58	63	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg6.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.966	1	32	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg6.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.747	1	43	51	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg6.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.571	1	31	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.137	1	12	14	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.727	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.754	1	29	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.443	1	19	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.265	1	17	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno negativen	1.522	1	9	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.542	1	13	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.391	1	29	33	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.537	1	29	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg7.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.345	1	17	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.827	1	27	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	4.296	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.804	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	4.359	1	19	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	4.123	1	32	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.534	1	45	50	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.715	1	22	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Negativen	mešano negativen	1.281	1	31	38	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.273	1	26	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno negativen	2.074	1	18	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.834	1	14	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno negativen	1.710	1	27	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	4.385	1	24	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	4.491	1	27	32	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	pozitiven	4.541	1	33	40	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg8.16	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	pozitiven	4.978	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg9.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.090	1	10	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg9.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.055	1	13	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg9.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.882	1	16	17	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg9.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.594	1	15	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg9.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.996	1	15	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg9.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.338	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg9.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.149	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg10.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.326	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg10.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Pozitiven	mešano pozitiven	3.814	1	6	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg12.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.361	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg13.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.270	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg13.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	2.542	1	25	27	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg14.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.047	1	8	9	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg14.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u1	s	slovenski	Nevtralen	nevtralno pozitiven	3.001	1	11	13	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	2.330	42	873	1014	26	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg15.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	pozitiven	4.880	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg16.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	mešano pozitiven	4.359	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg16.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.814	1	27	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg16.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	pozitiven	4.566	1	45	53	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg16.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	mešano pozitiven	3.544	1	13	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg16.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	mešano pozitiven	3.946	1	28	30	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg16.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	mešano pozitiven	4.024	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg16.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.878	1	34	40	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg16.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.849	1	11	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg17.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.868	1	14	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg17.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.686	1	36	39	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg17.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	3.121	1	19	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg17.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.678	1	40	46	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg17.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.704	1	25	28	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.719	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno negativen	2.390	1	17	19	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.869	1	16	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.919	1	14	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.812	1	43	49	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno negativen	2.434	1	21	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.532	1	81	94	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	3.008	1	21	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	mešano pozitiven	3.528	1	22	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.768	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.781	1	22	27	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.824	1	21	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	mešano pozitiven	3.887	1	8	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg18.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	pozitiven	4.797	1	16	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.750	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno negativen	2.396	1	24	26	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.815	1	22	25	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	3.261	1	37	48	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.674	1	21	25	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.667	1	15	17	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno negativen	2.397	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	3.057	1	16	17	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.527	1	14	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg19.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Nevtralen	nevtralno pozitiven	2.718	1	21	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg20.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	mešano pozitiven	3.736	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg20.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	mešano pozitiven	3.559	1	32	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg20.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Negativen	negativen	0.205	1	26	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg20.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u2	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	24	28	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg21.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u3	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg22.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u3	s	slovenski	Nevtralen	nevtralno pozitiven	2.980	1	13	15	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg22.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u3	s	slovenski	Nevtralen	nevtralno pozitiven	3.123	1	9	10	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	2.100	27	691	775	42	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg23.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Pozitiven	mešano pozitiven	3.914	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg23.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Pozitiven	mešano pozitiven	3.867	1	5	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg24.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno negativen	2.494	1	48	51	5	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg24.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.930	1	20	22	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg24.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.775	1	14	16	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg24.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.587	1	27	31	5	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.936	1	45	49	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.945	1	82	94	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	3.353	1	16	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.837	1	15	17	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno negativen	2.275	1	23	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.501	1	26	28	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.764	1	16	17	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.563	1	18	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg25.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno negativen	2.459	1	29	32	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg26.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.983	1	47	56	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg26.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.634	1	42	48	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg26.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.792	1	28	30	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg26.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.766	1	27	31	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg27.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Pozitiven	mešano pozitiven	3.902	1	21	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg27.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	3.131	1	52	58	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg28.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.858	1	20	24	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg28.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno negativen	2.481	1	10	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg28.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.977	1	21	22	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg28.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	2.955	1	25	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg28.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Nevtralen	nevtralno pozitiven	3.191	1	8	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg29.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u4	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	4	15	19	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg30.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u5	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg31.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u5	s	slovenski	Nevtralen	nevtralno pozitiven	2.999	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg31.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u5	s	slovenski	Nevtralen	nevtralno pozitiven	3.375	1	5	6	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg32.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u5	s	slovenski	Pozitiven	mešano pozitiven	3.665	1	3	4	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.000	36	670	758	10	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg33.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Pozitiven	mešano pozitiven	3.695	1	5	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg33.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Pozitiven	mešano pozitiven	4.028	1	2	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	1.225	1	23	25	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	0.727	1	11	12	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.043	1	38	42	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.039	1	15	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno pozitiven	2.880	1	9	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.413	1	14	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.254	1	24	27	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	0.870	1	19	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.197	1	16	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	1.496	1	21	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno negativen	1.582	1	12	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	0.574	1	13	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.135	1	21	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.141	1	32	40	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	1.165	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.16	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.027	1	31	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.17	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno negativen	1.983	1	16	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.18	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno negativen	2.388	1	34	37	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.19	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno negativen	2.387	1	25	28	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg34.20	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno pozitiven	2.831	1	15	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	1.016	1	24	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	negativen	0.317	1	16	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	0.725	1	26	29	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno pozitiven	2.955	1	11	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno pozitiven	3.030	1	15	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno pozitiven	2.802	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	1.445	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno negativen	1.622	1	57	68	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno negativen	2.175	1	14	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno negativen	2.064	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Nevtralen	nevtralno negativen	2.031	1	24	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg35.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	1.311	1	8	9	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg36.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Negativen	mešano negativen	0.523	1	30	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg36.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u6	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	12	16	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg37.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u7	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg38.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u7	s	slovenski	Nevtralen	nevtralno pozitiven	3.076	1	8	10	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg39.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u7	s	slovenski	Nevtralen	nevtralno pozitiven	3.420	1	3	4	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Pozitiven	mešano pozitiven	3.640	24	520	610	10	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg40.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Pozitiven	mešano pozitiven	3.877	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg40.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Pozitiven	mešano pozitiven	3.888	1	7	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Pozitiven	pozitiven	4.522	1	30	34	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Pozitiven	pozitiven	4.602	1	43	51	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Pozitiven	mešano pozitiven	3.992	1	31	37	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno pozitiven	2.834	1	11	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno pozitiven	3.186	1	39	45	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno pozitiven	3.403	1	27	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno pozitiven	2.732	1	58	65	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno pozitiven	2.864	1	9	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Negativen	mešano negativen	0.851	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno negativen	2.438	1	16	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg41.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno pozitiven	2.647	1	25	30	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno negativen	2.284	1	31	37	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Pozitiven	mešano pozitiven	3.503	1	39	46	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno negativen	2.395	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Pozitiven	mešano pozitiven	3.638	1	30	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Pozitiven	mešano pozitiven	3.796	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno negativen	2.077	1	29	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Negativen	mešano negativen	1.101	1	16	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno pozitiven	3.494	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Negativen	mešano negativen	1.448	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg42.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Negativen	mešano negativen	1.366	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg43.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u8	s	slovenski	Nevtralen	nevtralno pozitiven	3.364	1	27	29	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	13	16	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg44.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u9	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg45.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u9	s	slovenski	Nevtralen	nevtralno pozitiven	3.465	1	7	8	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg46.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u9	s	slovenski	Nevtralen	nevtralno pozitiven	3.328	1	4	5	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Pozitiven	mešano pozitiven	3.550	28	531	591	13	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg47.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg47.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Pozitiven	mešano pozitiven	4.253	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	3.207	1	20	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	3.206	1	15	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.953	1	17	19	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.725	1	33	37	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.958	1	13	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	3.160	1	11	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.977	1	22	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno negativen	2.460	1	14	16	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg48.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.761	1	54	62	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.547	1	34	38	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.716	1	18	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.870	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.729	1	18	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Negativen	mešano negativen	1.326	1	8	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno negativen	1.707	1	17	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	3.030	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	3.118	1	24	27	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Pozitiven	mešano pozitiven	4.172	1	14	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Pozitiven	mešano pozitiven	4.221	1	17	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	3.063	1	8	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Pozitiven	mešano pozitiven	4.043	1	31	35	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg49.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.578	1	18	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg50.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Pozitiven	mešano pozitiven	4.173	1	37	41	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg50.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	2.654	1	31	33	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg50.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Nevtralen	nevtralno pozitiven	3.349	1	17	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg51.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u10	s	slovenski	Pozitiven	pozitiven	4.627	1	10	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	13	16	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg52.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u11	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg53.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u11	s	slovenski	Nevtralen	nevtralno pozitiven	3.251	1	11	13	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Pozitiven	mešano pozitiven	3.680	19	498	555	11	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg54.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Pozitiven	mešano pozitiven	3.792	1	6	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg54.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Pozitiven	mešano pozitiven	3.666	1	6	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg55.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno pozitiven	3.368	1	26	29	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg55.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Negativen	mešano negativen	0.800	1	21	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg55.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno negativen	1.603	1	45	50	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg55.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno pozitiven	3.488	1	27	30	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg56.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno pozitiven	2.880	1	22	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg56.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno pozitiven	2.833	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg56.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Pozitiven	mešano pozitiven	3.613	1	71	78	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg57.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno pozitiven	2.983	1	21	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg57.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno negativen	2.230	1	37	42	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg57.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Pozitiven	mešano pozitiven	4.003	1	50	56	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg57.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno pozitiven	2.757	1	29	32	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg57.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno negativen	2.292	1	13	14	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg57.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno pozitiven	3.119	1	34	38	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg58.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Nevtralen	nevtralno pozitiven	3.100	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg58.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Pozitiven	mešano pozitiven	4.133	1	50	55	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg59.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Pozitiven	mešano pozitiven	4.443	1	17	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg59.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u12	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	12	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg60.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u13	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg61.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u13	s	slovenski	Nevtralen	nevtralno pozitiven	3.157	1	10	12	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.120	10	235	269	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg62.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg63.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Nevtralen	nevtralno pozitiven	2.888	1	25	28	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg63.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Nevtralen	nevtralno negativen	1.615	1	33	39	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg63.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Negativen	negativen	0.037	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg63.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Nevtralen	nevtralno pozitiven	2.764	1	23	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg63.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Nevtralen	nevtralno pozitiven	2.878	1	14	16	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg63.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Negativen	negativen	-0.037	1	50	56	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg63.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Negativen	mešano negativen	0.797	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg63.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Nevtralen	nevtralno pozitiven	2.772	1	29	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg64.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u14	s	slovenski	Pozitiven	mešano pozitiven	4.421	1	42	49	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	12	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg65.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u15	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg66.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u15	s	slovenski	Nevtralen	nevtralno pozitiven	3.253	1	11	13	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	2.490	24	401	460	9	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg67.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Pozitiven	mešano pozitiven	3.766	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno negativen	1.523	1	16	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Negativen	mešano negativen	0.989	1	21	25	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Pozitiven	mešano pozitiven	4.429	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno negativen	1.582	1	16	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Negativen	mešano negativen	0.890	1	20	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Negativen	mešano negativen	0.637	1	8	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	3.433	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Negativen	mešano negativen	0.565	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	2.740	1	13	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	3.170	1	21	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	2.857	1	26	29	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	2.769	1	17	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	2.909	1	26	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	2.811	1	10	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno negativen	2.123	1	24	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.16	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	2.810	1	26	30	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg68.17	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	2.530	1	23	25	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg69.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Pozitiven	pozitiven	4.556	1	17	21	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg69.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Pozitiven	mešano pozitiven	3.566	1	36	40	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg69.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	2.683	1	6	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg69.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Negativen	mešano negativen	1.351	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg69.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Negativen	mešano negativen	1.210	1	9	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg69.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u16	s	slovenski	Nevtralen	nevtralno pozitiven	3.442	1	14	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u17	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	11	14	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg70.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u17	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg71.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u17	s	slovenski	Nevtralen	nevtralno pozitiven	3.353	1	9	11	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	2.440	18	552	622	20	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg72.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Pozitiven	mešano pozitiven	3.877	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg73.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Negativen	mešano negativen	1.074	1	42	50	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg73.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno pozitiven	2.523	1	19	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg73.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno pozitiven	2.712	1	22	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg73.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno negativen	2.166	1	50	55	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg73.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno negativen	1.755	1	29	32	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg73.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Pozitiven	mešano pozitiven	3.624	1	37	41	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg73.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Negativen	mešano negativen	0.884	1	51	58	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg73.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno negativen	2.414	1	31	34	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg74.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno pozitiven	2.876	1	16	18	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg74.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno negativen	2.479	1	33	39	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg74.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno pozitiven	2.622	1	14	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg74.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno pozitiven	2.713	1	32	36	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg74.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno pozitiven	2.831	1	47	51	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg74.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno pozitiven	2.579	1	41	45	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg74.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Pozitiven	mešano pozitiven	3.565	1	31	34	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg75.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Nevtralen	nevtralno negativen	2.289	1	17	19	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg75.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u18	s	slovenski	Pozitiven	mešano pozitiven	4.315	1	35	38	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u19	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	11	14	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg76.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u19	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg77.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u19	s	slovenski	Nevtralen	nevtralno pozitiven	3.326	1	9	11	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.390	18	344	399	7	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg78.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Pozitiven	mešano pozitiven	3.921	1	5	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg78.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Pozitiven	mešano pozitiven	3.798	1	6	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Negativen	mešano negativen	1.101	1	33	39	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno pozitiven	2.563	1	12	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno pozitiven	3.027	1	29	31	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Negativen	mešano negativen	1.095	1	27	31	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno pozitiven	2.655	1	14	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno pozitiven	2.909	1	15	17	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno negativen	2.048	1	19	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno negativen	1.698	1	30	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno negativen	2.144	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno negativen	2.399	1	35	39	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Negativen	mešano negativen	0.638	1	23	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Nevtralen	nevtralno pozitiven	2.565	1	28	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Pozitiven	mešano pozitiven	3.889	1	27	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg79.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Negativen	mešano negativen	1.232	1	12	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg80.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Pozitiven	mešano pozitiven	4.485	1	10	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg80.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u20	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u21	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	12	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg81.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u21	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg82.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u21	s	slovenski	Nevtralen	nevtralno pozitiven	3.383	1	10	12	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	2.010	25	707	787	14	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg83.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Pozitiven	pozitiven	4.653	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	2.972	1	17	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	3.037	1	16	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Negativen	mešano negativen	0.641	1	26	27	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	3.397	1	31	34	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	2.679	1	49	54	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	2.406	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	2.325	1	19	21	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	2.878	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	2.630	1	27	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg84.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	2.532	1	31	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg85.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	1.715	1	45	51	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg85.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	2.343	1	29	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg85.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Negativen	mešano negativen	0.812	1	29	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg85.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	2.477	1	34	39	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg85.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	2.270	1	19	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg86.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	2.974	1	38	43	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg86.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	1.555	1	35	40	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg86.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	1.749	1	40	45	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg86.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	2.234	1	20	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg87.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	2.541	1	28	30	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg87.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	3.084	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg87.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	2.390	1	53	57	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg87.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno pozitiven	2.747	1	28	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg88.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u22	s	slovenski	Nevtralen	nevtralno negativen	1.874	1	49	54	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u23	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	7	46	57	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg89.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u23	s	slovenski	Pozitiven	mešano pozitiven	4.262	1	4	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg90.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u23	s	slovenski	Nevtralen	nevtralno pozitiven	3.079	1	14	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg91.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u23	s	slovenski	Nevtralen	nevtralno pozitiven	3.114	1	10	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg91.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u23	s	slovenski	Nevtralen	nevtralno pozitiven	3.165	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg91.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u23	s	slovenski	Nevtralen	nevtralno pozitiven	2.813	1	6	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg91.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u23	s	slovenski	Nevtralen	nevtralno pozitiven	2.878	1	6	7	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg92.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u23	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	1.100	20	462	531	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg93.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Pozitiven	mešano pozitiven	3.501	1	4	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	3.061	1	18	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	2.672	1	24	28	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Pozitiven	mešano pozitiven	4.108	1	37	44	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Pozitiven	mešano pozitiven	4.095	1	36	42	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	2.961	1	12	14	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	2.574	1	22	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Negativen	negativen	0.316	1	42	47	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Negativen	mešano negativen	0.702	1	28	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Negativen	mešano negativen	0.798	1	25	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	2.846	1	11	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg94.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno negativen	2.484	1	23	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg95.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	2.915	1	20	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg95.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	2.865	1	16	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg95.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	2.911	1	53	61	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg95.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno pozitiven	2.730	1	28	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg95.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno negativen	1.723	1	33	37	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg95.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Nevtralen	nevtralno negativen	2.315	1	27	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg95.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Pozitiven	mešano pozitiven	4.175	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg95.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u24	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u25	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	2.850	6	32	41	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg96.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u25	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg97.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u25	s	slovenski	Nevtralen	nevtralno pozitiven	2.902	1	11	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg97.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u25	s	slovenski	Nevtralen	nevtralno pozitiven	3.417	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg98.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u25	s	slovenski	Nevtralen	nevtralno pozitiven	3.345	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg98.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u25	s	slovenski	Nevtralen	nevtralno pozitiven	2.870	1	11	13	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg99.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u25	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	0.610	30	678	783	9	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg100.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Pozitiven	mešano pozitiven	4.177	1	4	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.824	1	37	42	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.555	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.877	1	15	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Pozitiven	mešano pozitiven	4.329	1	11	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	3.409	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno negativen	2.478	1	42	46	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.810	1	24	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.747	1	24	30	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg101.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno negativen	1.918	1	24	26	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno negativen	1.786	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Negativen	negativen	0.365	1	20	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Negativen	mešano negativen	0.668	1	54	57	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.932	1	29	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Negativen	mešano negativen	0.809	1	33	37	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno negativen	1.911	1	33	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno negativen	1.871	1	11	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno negativen	2.455	1	30	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Negativen	negativen	0.299	1	70	82	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg102.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno negativen	1.908	1	44	54	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.989	1	11	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Negativen	mešano negativen	0.679	1	21	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Pozitiven	mešano pozitiven	3.563	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Negativen	negativen	0.417	1	26	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.710	1	20	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno pozitiven	2.977	1	10	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Nevtralen	nevtralno negativen	2.333	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Pozitiven	mešano pozitiven	3.591	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Negativen	mešano negativen	0.588	1	20	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg103.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u26	s	slovenski	Pozitiven	mešano pozitiven	3.607	1	24	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u27	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	14	18	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg104.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u27	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg105.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u27	s	slovenski	Nevtralen	nevtralno pozitiven	2.946	1	11	13	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg106.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u27	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.080	47	1425	1667	24	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg107.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Pozitiven	mešano pozitiven	4.024	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg108.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	3.101	1	21	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg108.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	2.337	1	23	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg108.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.616	1	25	28	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg108.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	2.366	1	23	25	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg108.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	3.057	1	57	70	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg108.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	2.428	1	23	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg108.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.364	1	52	59	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	2.086	1	23	29	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.161	1	38	43	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	mešano negativen	0.708	1	58	65	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.524	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	1.870	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	1.537	1	81	94	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.836	1	27	31	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Pozitiven	mešano pozitiven	3.652	1	4	5	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg109.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	3.434	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg110.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.969	1	26	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg110.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	3.406	1	15	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg110.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.258	1	51	61	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg110.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.418	1	31	34	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg110.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	mešano negativen	1.094	1	18	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg110.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	mešano negativen	0.864	1	28	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg111.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.281	1	49	58	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg111.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	1.586	1	44	52	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg111.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.499	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg111.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.444	1	25	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg111.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.608	1	20	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg111.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.495	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg111.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.763	1	47	55	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg112.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.410	1	100	122	7	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg112.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	1.832	1	42	49	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg112.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	2.374	1	25	29	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg112.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.489	1	45	55	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg112.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.174	1	55	63	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg112.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	3.314	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg112.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.714	1	27	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg113.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	mešano negativen	1.063	1	10	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg113.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.730	1	28	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg113.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno negativen	2.321	1	85	95	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg113.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Nevtralen	nevtralno pozitiven	2.845	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg113.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Pozitiven	mešano pozitiven	3.705	1	22	27	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg113.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.449	1	12	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg113.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.147	1	18	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg113.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Negativen	negativen	0.172	1	49	59	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg114.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Pozitiven	pozitiven	4.577	1	41	49	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg114.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u28	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u29	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	9	12	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg115.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u29	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg116.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u29	s	slovenski	Nevtralen	nevtralno pozitiven	2.994	1	6	7	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg117.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u29	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.170	30	691	822	12	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg118.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg119.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno negativen	2.369	1	20	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg119.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno negativen	2.168	1	34	38	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg119.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	mešano negativen	0.826	1	84	100	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg119.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno negativen	1.983	1	32	39	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg119.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	negativen	0.056	1	31	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg119.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	2.968	1	35	40	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg120.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	2.656	1	30	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg120.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	mešano negativen	0.776	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg120.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Pozitiven	mešano pozitiven	3.803	1	21	25	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg120.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	negativen	0.388	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg120.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	3.120	1	21	26	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg120.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	negativen	0.323	1	41	49	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg120.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	negativen	0.260	1	36	42	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg120.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	2.538	1	17	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	2.991	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	2.840	1	54	63	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	negativen	0.423	1	24	28	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	negativen	0.222	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno negativen	2.446	1	20	25	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	negativen	0.101	1	20	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	mešano negativen	0.585	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	2.616	1	22	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	negativen	0.383	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	mešano negativen	0.917	1	17	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	2.741	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Negativen	mešano negativen	0.554	1	12	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg121.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno negativen	2.471	1	10	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg122.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Nevtralen	nevtralno pozitiven	3.485	1	54	66	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg122.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u30	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u31	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	12	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg123.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u31	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg124.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u31	s	slovenski	Nevtralen	nevtralno pozitiven	2.989	1	7	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg125.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u31	s	slovenski	Pozitiven	mešano pozitiven	3.664	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	0.620	14	331	383	13	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg126.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg127.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno pozitiven	2.994	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg127.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno negativen	2.101	1	38	43	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg127.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno pozitiven	3.133	1	25	30	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg127.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno pozitiven	2.843	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg127.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno pozitiven	3.143	1	54	61	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg127.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno pozitiven	3.249	1	8	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg128.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno negativen	2.344	1	71	83	5	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg128.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Negativen	mešano negativen	1.091	1	12	13	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg128.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno negativen	2.428	1	37	40	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg128.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno pozitiven	3.041	1	8	9	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg128.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Nevtralen	nevtralno pozitiven	2.521	1	21	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg128.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Negativen	mešano negativen	0.534	1	40	46	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg128.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u32	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u33	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	7	9	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg129.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u33	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg130.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u33	s	slovenski	Nevtralen	nevtralno pozitiven	3.495	1	6	7	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.300	29	522	617	9	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg131.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	3.865	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno negativen	1.590	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Negativen	negativen	0.012	1	41	46	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	3.611	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	2.906	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	3.637	1	41	47	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno negativen	1.579	1	23	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Negativen	negativen	0.153	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno negativen	1.980	1	36	43	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	3.215	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg132.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	2.881	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Negativen	negativen	0.150	1	29	33	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	3.205	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno negativen	2.108	1	23	29	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	2.577	1	10	12	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	2.506	1	22	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Negativen	negativen	0.141	1	11	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	4.172	1	28	33	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno negativen	1.663	1	9	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	2.526	1	27	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	3.133	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	3.360	1	10	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	4.123	1	10	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	4.445	1	40	47	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Nevtralen	nevtralno pozitiven	3.000	1	13	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	4.040	1	26	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.16	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	4.468	1	30	33	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.17	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	mešano pozitiven	3.879	1	38	46	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg133.18	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u34	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u35	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	6	8	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg134.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u35	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg135.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u35	s	slovenski	Nevtralen	nevtralno pozitiven	3.465	1	5	6	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	2.670	25	588	675	6	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg136.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno pozitiven	2.601	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	mešano pozitiven	3.746	1	19	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	pozitiven	4.529	1	25	28	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno negativen	1.543	1	30	34	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno pozitiven	2.758	1	23	28	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Negativen	negativen	0.127	1	26	30	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno negativen	1.759	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno negativen	2.377	1	18	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno pozitiven	2.800	1	43	50	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	mešano pozitiven	4.425	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg137.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Negativen	mešano negativen	1.413	1	54	63	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno pozitiven	2.742	1	66	73	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	mešano pozitiven	3.595	1	35	42	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno negativen	2.024	1	38	43	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Negativen	mešano negativen	0.764	1	44	49	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno pozitiven	3.047	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno negativen	2.008	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	mešano pozitiven	4.143	1	53	61	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Nevtralen	nevtralno negativen	1.861	1	21	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Negativen	mešano negativen	0.918	1	8	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg138.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Negativen	negativen	0.360	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg139.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	mešano pozitiven	3.780	1	14	17	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg139.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	pozitiven	4.538	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg139.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u36	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u37	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	6	9	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg140.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u37	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg141.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u37	s	slovenski	Nevtralen	nevtralno pozitiven	2.919	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg142.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u37	s	slovenski	Pozitiven	mešano pozitiven	3.532	1	2	3	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.000	45	747	889	11	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg143.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Pozitiven	mešano pozitiven	3.701	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg143.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Pozitiven	mešano pozitiven	4.028	1	2	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno pozitiven	3.188	1	12	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.368	1	30	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno pozitiven	2.922	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.240	1	12	14	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.233	1	13	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.297	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	mešano negativen	0.902	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno negativen	1.600	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno negativen	2.425	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno pozitiven	2.640	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	mešano negativen	0.626	1	30	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.289	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	mešano negativen	0.775	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.188	1	7	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.130	1	31	35	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.16	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	mešano negativen	0.658	1	50	58	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.17	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.020	1	32	38	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.18	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.273	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.19	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.097	1	10	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg144.20	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.093	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.258	1	32	39	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.169	1	18	21	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Pozitiven	mešano pozitiven	4.145	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno negativen	1.513	1	6	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.040	1	47	56	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	mešano negativen	0.514	1	46	54	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	mešano negativen	0.576	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.185	1	19	24	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	mešano negativen	1.236	1	19	22	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.125	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno pozitiven	3.154	1	6	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.215	1	15	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	mešano negativen	1.319	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.052	1	33	36	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.198	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.16	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno negativen	2.261	1	15	16	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.17	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.479	1	4	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.18	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Nevtralen	nevtralno pozitiven	2.696	1	14	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.19	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.141	1	28	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg145.20	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.144	1	40	46	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg146.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Pozitiven	mešano pozitiven	3.932	1	25	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg146.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Negativen	negativen	0.165	1	23	27	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg146.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u38	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u39	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	10	15	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg147.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u39	s	slovenski	Pozitiven	mešano pozitiven	4.262	1	4	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg148.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u39	s	slovenski	Nevtralen	nevtralno pozitiven	3.075	1	5	7	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg148.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u39	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u40	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.000	7	190	218	12	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg149.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u40	s	slovenski	Negativen	mešano negativen	1.007	1	30	34	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg149.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u40	s	slovenski	Negativen	negativen	0.381	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg149.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u40	s	slovenski	Nevtralen	nevtralno negativen	2.292	1	12	14	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg149.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u40	s	slovenski	Negativen	negativen	0.021	1	80	90	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg149.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u40	s	slovenski	Negativen	negativen	0.155	1	19	21	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg149.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u40	s	slovenski	Negativen	negativen	0.017	1	39	46	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg149.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u40	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u41	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	11	14	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg150.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u41	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg151.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u41	s	slovenski	Nevtralen	nevtralno pozitiven	2.692	1	8	9	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg152.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u41	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.210	24	884	1031	21	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg153.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Pozitiven	mešano pozitiven	4.402	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg153.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Pozitiven	pozitiven	4.675	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	mešano negativen	0.759	1	8	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Pozitiven	pozitiven	4.994	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.442	1	86	100	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Nevtralen	nevtralno pozitiven	2.698	1	23	28	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.026	1	46	49	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.208	1	31	39	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Nevtralen	nevtralno negativen	2.364	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.140	1	31	38	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	mešano negativen	1.066	1	40	47	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.356	1	49	57	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg154.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.145	1	65	77	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Pozitiven	pozitiven	4.629	1	35	43	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Nevtralen	nevtralno pozitiven	3.162	1	72	82	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Nevtralen	nevtralno negativen	1.964	1	58	66	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.308	1	90	101	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Nevtralen	nevtralno pozitiven	2.569	1	31	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	mešano negativen	0.584	1	68	78	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	mešano negativen	1.495	1	25	29	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.057	1	30	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg155.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Negativen	negativen	0.061	1	52	60	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg156.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Pozitiven	pozitiven	4.640	1	14	17	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg156.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u42	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u43	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	2.980	3	32	38	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg157.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u43	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg158.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u43	s	slovenski	Nevtralen	nevtralno pozitiven	2.793	1	16	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg158.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u43	s	slovenski	Nevtralen	nevtralno pozitiven	3.066	1	14	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.250	13	189	224	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg159.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Nevtralen	nevtralno pozitiven	2.800	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Nevtralen	nevtralno pozitiven	2.560	1	15	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Negativen	mešano negativen	0.641	1	9	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Nevtralen	nevtralno pozitiven	2.797	1	15	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Nevtralen	nevtralno pozitiven	3.290	1	19	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Negativen	mešano negativen	1.385	1	11	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Negativen	mešano negativen	0.729	1	30	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Nevtralen	nevtralno pozitiven	3.426	1	16	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Negativen	negativen	0.221	1	15	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Nevtralen	nevtralno negativen	2.331	1	15	16	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Nevtralen	nevtralno pozitiven	2.769	1	29	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg160.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u44	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u45	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	6	30	40	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg161.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u45	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg162.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u45	s	slovenski	Nevtralen	nevtralno pozitiven	2.950	1	10	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg162.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u45	s	slovenski	Nevtralen	nevtralno pozitiven	3.417	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg163.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u45	s	slovenski	Nevtralen	nevtralno pozitiven	3.131	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg163.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u45	s	slovenski	Nevtralen	nevtralno pozitiven	2.877	1	11	13	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg164.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u45	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.450	20	461	547	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg165.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Pozitiven	mešano pozitiven	3.701	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg165.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Pozitiven	pozitiven	4.707	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg166.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Negativen	negativen	0.385	1	26	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg166.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Pozitiven	mešano pozitiven	4.006	1	49	60	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg166.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Pozitiven	mešano pozitiven	4.327	1	19	22	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg166.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno pozitiven	2.929	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg166.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Pozitiven	pozitiven	4.830	1	10	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg166.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno negativen	1.646	1	34	39	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg167.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno pozitiven	2.784	1	12	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg167.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno negativen	2.441	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg167.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno pozitiven	3.453	1	53	62	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg167.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno pozitiven	3.259	1	39	44	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg167.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno negativen	2.087	1	21	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg167.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno pozitiven	2.911	1	15	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg167.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno pozitiven	2.706	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg167.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Negativen	negativen	0.021	1	46	53	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg168.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Pozitiven	mešano pozitiven	3.618	1	33	41	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg168.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Nevtralen	nevtralno pozitiven	3.202	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg168.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Negativen	mešano negativen	0.764	1	44	50	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg168.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u46	s	slovenski	Pozitiven	mešano pozitiven	4.349	1	22	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u47	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	8	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg169.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u47	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg170.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u47	s	slovenski	Nevtralen	nevtralno pozitiven	2.937	1	5	6	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg171.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u47	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.000	18	333	392	12	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg172.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Pozitiven	mešano pozitiven	3.914	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Negativen	negativen	0.077	1	34	41	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Nevtralen	nevtralno pozitiven	2.501	1	14	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Negativen	mešano negativen	0.744	1	24	29	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Negativen	negativen	0.246	1	13	15	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Nevtralen	nevtralno pozitiven	2.737	1	9	10	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Nevtralen	nevtralno pozitiven	2.850	1	18	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Nevtralen	nevtralno negativen	2.101	1	22	26	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Nevtralen	nevtralno negativen	1.913	1	15	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Nevtralen	nevtralno negativen	1.965	1	32	36	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Nevtralen	nevtralno negativen	1.626	1	16	19	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Nevtralen	nevtralno pozitiven	3.063	1	24	27	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Negativen	negativen	0.117	1	19	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Negativen	negativen	0.059	1	37	44	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Negativen	negativen	0.272	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg173.15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Negativen	negativen	0.209	1	31	37	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg174.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Negativen	mešano negativen	0.861	1	15	17	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg174.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u48	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	2.910	9	77	89	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg175.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg176.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Nevtralen	nevtralno pozitiven	3.265	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg177.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Nevtralen	nevtralno pozitiven	2.815	1	4	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg178.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Nevtralen	nevtralno pozitiven	2.783	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg179.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Nevtralen	nevtralno pozitiven	3.105	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg179.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Nevtralen	nevtralno pozitiven	2.821	1	15	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg180.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Nevtralen	nevtralno pozitiven	2.933	1	19	20	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg180.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Nevtralen	nevtralno pozitiven	2.985	1	10	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg181.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u49	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.340	20	542	609	13	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg182.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg182.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Pozitiven	mešano pozitiven	3.854	1	2	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg183.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno negativen	2.165	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg183.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	2.991	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg183.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	3.110	1	6	7	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg183.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno negativen	2.177	1	55	60	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg183.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Negativen	mešano negativen	0.505	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg183.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno negativen	2.104	1	33	38	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg184.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	3.131	1	19	21	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg184.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	2.558	1	18	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg184.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	2.609	1	29	31	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg184.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno negativen	2.447	1	27	29	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg184.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	3.490	1	67	76	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg185.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno negativen	2.496	1	62	67	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg185.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	3.448	1	24	29	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg185.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	3.237	1	50	56	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg185.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	3.243	1	40	45	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg185.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Pozitiven	mešano pozitiven	3.538	1	37	42	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg185.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Nevtralen	nevtralno pozitiven	3.358	1	28	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg185.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u50	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u51	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	20	24	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg186.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u51	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg187.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u51	s	slovenski	Nevtralen	nevtralno pozitiven	3.010	1	17	19	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg188.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u51	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	1.740	19	414	461	24	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg189.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Pozitiven	mešano pozitiven	3.873	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg189.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Pozitiven	mešano pozitiven	3.906	1	4	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg190.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno negativen	2.452	1	47	49	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg190.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.921	1	19	21	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg190.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.927	1	25	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg190.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.713	1	18	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg190.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.568	1	15	18	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg190.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.512	1	26	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg191.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.846	1	22	24	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg191.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.856	1	11	14	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg191.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.830	1	14	16	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg191.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	3.011	1	15	18	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg191.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Pozitiven	mešano pozitiven	3.559	1	42	46	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg192.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.924	1	30	32	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg192.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno negativen	2.158	1	43	49	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg192.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.776	1	25	26	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg192.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	2.947	1	37	39	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg192.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Nevtralen	nevtralno pozitiven	3.114	1	14	15	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg192.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u52	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u53	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	4	21	26	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg193.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u53	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg194.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u53	s	slovenski	Nevtralen	nevtralno pozitiven	2.999	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg194.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u53	s	slovenski	Nevtralen	nevtralno pozitiven	3.000	1	13	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg195.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u53	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Pozitiven	pozitiven	5.000	9	198	221	6	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg196.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Pozitiven	mešano pozitiven	3.701	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg196.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Pozitiven	mešano pozitiven	3.733	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg197.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Pozitiven	pozitiven	4.564	1	35	38	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg197.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Nevtralen	nevtralno pozitiven	2.862	1	52	58	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg197.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Nevtralen	nevtralno pozitiven	3.377	1	15	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg198.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Pozitiven	mešano pozitiven	4.020	1	32	37	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg198.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Nevtralen	nevtralno pozitiven	3.075	1	31	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg198.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Nevtralen	nevtralno pozitiven	3.485	1	17	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg199.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u54	s	slovenski	Pozitiven	pozitiven	4.710	1	7	8	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u55	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	12	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg200.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u55	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg201.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u55	s	slovenski	Nevtralen	nevtralno pozitiven	3.107	1	9	10	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg202.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u55	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Pozitiven	mešano pozitiven	4.020	27	562	646	8	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg203.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	mešano pozitiven	3.710	1	4	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg203.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	mešano pozitiven	3.987	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg204.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	2.909	1	37	43	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg204.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno negativen	1.536	1	16	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg204.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno negativen	1.703	1	20	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg204.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno negativen	2.083	1	22	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg204.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	2.629	1	23	27	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg204.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	2.663	1	26	28	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg204.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	mešano pozitiven	3.621	1	33	37	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg205.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	3.432	1	10	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg205.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	mešano pozitiven	3.743	1	20	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg205.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	3.231	1	40	47	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg205.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	mešano pozitiven	4.278	1	29	33	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg205.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	2.857	1	38	44	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg206.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno negativen	1.959	1	29	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg206.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	2.709	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg206.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	3.153	1	21	23	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg206.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	2.992	1	24	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg206.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	2.849	1	26	29	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg206.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	2.848	1	13	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg206.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	3.397	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg206.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Nevtralen	nevtralno pozitiven	3.340	1	22	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg207.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	pozitiven	4.673	1	22	25	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg207.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	mešano pozitiven	3.556	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg207.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	pozitiven	5.158	1	33	37	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg208.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	mešano pozitiven	4.279	1	14	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg208.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u56	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u57	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	12	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg209.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u57	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg210.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u57	s	slovenski	Nevtralen	nevtralno pozitiven	3.115	1	9	10	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg211.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u57	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	2.210	29	516	593	15	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg212.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Pozitiven	mešano pozitiven	3.548	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg212.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Pozitiven	mešano pozitiven	4.097	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg213.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno negativen	1.931	1	52	61	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg213.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	3.052	1	27	31	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg213.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.971	1	24	26	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg213.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.614	1	39	42	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Pozitiven	pozitiven	4.509	1	22	26	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Pozitiven	mešano pozitiven	4.166	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Negativen	mešano negativen	1.108	1	37	41	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.865	1	22	24	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno negativen	2.178	1	21	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.859	1	9	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.515	1	16	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Negativen	mešano negativen	0.860	1	15	18	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno negativen	2.259	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.632	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.949	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.782	1	11	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.13	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	3.103	1	9	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.14	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	2.619	1	11	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.15	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	3.016	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.16	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	3.149	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg214.17	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Negativen	mešano negativen	1.137	1	11	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg215.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno pozitiven	3.178	1	39	44	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg215.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Nevtralen	nevtralno negativen	2.483	1	32	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg215.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Pozitiven	mešano pozitiven	4.426	1	24	26	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg215.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Pozitiven	pozitiven	4.780	1	12	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg216.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Pozitiven	pozitiven	4.552	1	45	49	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg216.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u58	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u59	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	13	16	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg217.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u59	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg218.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u59	s	slovenski	Nevtralen	nevtralno pozitiven	3.081	1	10	11	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg219.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u59	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	0.710	14	403	479	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg220.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg221.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Pozitiven	mešano pozitiven	3.558	1	32	41	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg221.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Pozitiven	mešano pozitiven	3.927	1	32	38	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg221.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Nevtralen	nevtralno pozitiven	3.390	1	34	41	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg221.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Nevtralen	nevtralno pozitiven	3.019	1	44	54	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg221.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Pozitiven	mešano pozitiven	3.974	1	19	21	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg222.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Negativen	mešano negativen	1.095	1	30	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg222.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Negativen	mešano negativen	1.356	1	24	29	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg222.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Negativen	negativen	0.336	1	76	89	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg222.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Nevtralen	nevtralno negativen	1.527	1	19	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg222.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Negativen	mešano negativen	0.710	1	42	47	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg223.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Pozitiven	pozitiven	4.632	1	12	13	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg223.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Nevtralen	nevtralno pozitiven	2.702	1	35	42	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg223.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u60	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u61	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	13	16	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg224.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u61	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg225.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u61	s	slovenski	Nevtralen	nevtralno pozitiven	3.085	1	10	11	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg226.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u61	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	0.800	20	564	653	16	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg227.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno pozitiven	3.475	1	6	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg227.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Pozitiven	mešano pozitiven	4.443	1	7	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Pozitiven	pozitiven	4.708	1	29	32	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno negativen	2.493	1	22	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Negativen	mešano negativen	0.800	1	27	33	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Negativen	negativen	0.185	1	23	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno negativen	1.907	1	61	69	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Pozitiven	pozitiven	4.602	1	51	58	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno pozitiven	2.530	1	30	34	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno pozitiven	2.506	1	17	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg228.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno pozitiven	2.550	1	17	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg229.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno negativen	1.847	1	28	33	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg229.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno negativen	1.641	1	19	22	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg229.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Negativen	mešano negativen	1.276	1	18	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg229.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Nevtralen	nevtralno pozitiven	2.968	1	43	48	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg229.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Pozitiven	mešano pozitiven	3.950	1	49	57	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg230.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Pozitiven	mešano pozitiven	3.900	1	29	33	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg230.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Negativen	negativen	0.182	1	25	29	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg230.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Negativen	negativen	0.242	1	62	73	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg230.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u62	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u63	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	13	16	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg231.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u63	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg232.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u63	s	slovenski	Nevtralen	nevtralno pozitiven	2.926	1	10	11	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg233.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u63	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Pozitiven	pozitiven	4.540	14	420	471	13	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg234.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Pozitiven	mešano pozitiven	4.036	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg235.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Pozitiven	pozitiven	4.592	1	17	21	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg235.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Nevtralen	nevtralno pozitiven	3.082	1	32	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg235.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Nevtralen	nevtralno negativen	1.801	1	64	71	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg235.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Negativen	mešano negativen	0.618	1	13	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg236.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Nevtralen	nevtralno pozitiven	3.325	1	47	54	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg236.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Nevtralen	nevtralno pozitiven	2.920	1	35	39	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg236.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Pozitiven	mešano pozitiven	4.304	1	45	50	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg237.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Nevtralen	nevtralno pozitiven	3.115	1	32	34	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg237.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Pozitiven	mešano pozitiven	3.933	1	27	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg237.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Pozitiven	mešano pozitiven	3.908	1	15	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg237.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Nevtralen	nevtralno pozitiven	3.200	1	47	51	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg237.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Pozitiven	mešano pozitiven	4.438	1	36	41	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg238.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u64	s	slovenski	Pozitiven	pozitiven	4.755	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u65	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	12	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg239.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u65	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg240.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u65	s	slovenski	Nevtralen	nevtralno pozitiven	3.087	1	9	10	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg241.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u65	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	0.810	22	524	583	20	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg242.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Pozitiven	mešano pozitiven	3.858	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Negativen	mešano negativen	0.822	1	33	38	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno pozitiven	2.859	1	31	33	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno pozitiven	2.552	1	25	29	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno pozitiven	2.871	1	9	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno negativen	2.111	1	19	21	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno negativen	2.180	1	21	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Negativen	mešano negativen	1.362	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Pozitiven	mešano pozitiven	3.787	1	33	36	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno negativen	2.099	1	38	42	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Negativen	mešano negativen	0.580	1	14	16	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg243.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Negativen	negativen	0.472	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg244.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno pozitiven	2.738	1	41	45	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg244.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno negativen	1.809	1	62	67	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg244.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno pozitiven	3.328	1	28	30	4	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg244.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno negativen	1.970	1	24	26	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg244.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Negativen	mešano negativen	1.175	1	37	42	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg244.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno pozitiven	2.722	1	8	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg244.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno negativen	2.263	1	37	41	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg244.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Nevtralen	nevtralno pozitiven	3.082	1	19	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg245.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Pozitiven	mešano pozitiven	4.291	1	15	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg245.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u66	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u67	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	12	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg246.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u67	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg247.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u67	s	slovenski	Nevtralen	nevtralno pozitiven	2.983	1	9	10	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg248.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u67	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	2.040	32	649	725	22	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg249.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Pozitiven	mešano pozitiven	4.253	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Pozitiven	mešano pozitiven	4.241	1	15	16	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Pozitiven	mešano pozitiven	3.649	1	20	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	2.101	1	29	33	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Pozitiven	mešano pozitiven	3.649	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Pozitiven	pozitiven	4.592	1	20	22	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Negativen	mešano negativen	0.732	1	22	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Negativen	mešano negativen	0.960	1	14	15	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	1.631	1	6	7	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	3.486	1	22	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg250.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	1.675	1	40	46	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg251.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Negativen	mešano negativen	1.290	1	27	32	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg251.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	2.506	1	25	28	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg251.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	3.111	1	32	38	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg251.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	3.103	1	18	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg251.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	3.149	1	15	17	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg251.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	2.545	1	13	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg251.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	2.632	1	18	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	2.195	1	24	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	2.726	1	10	11	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	2.494	1	24	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	2.690	1	28	32	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	1.976	1	15	16	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	3.102	1	24	26	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	1.735	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Negativen	mešano negativen	1.289	1	31	34	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg252.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	3.374	1	11	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg253.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Pozitiven	pozitiven	4.695	1	25	29	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg253.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	2.288	1	40	45	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg253.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno negativen	2.418	1	47	52	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg253.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Nevtralen	nevtralno pozitiven	2.637	1	20	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg253.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u68	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u69	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	3	14	17	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg254.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u69	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg255.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u69	s	slovenski	Nevtralen	nevtralno pozitiven	3.013	1	11	12	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg256.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u69	s	slovenski	Nevtralen	nevtralno pozitiven	3.427	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.000	23	654	782	10	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg257.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Pozitiven	pozitiven	4.601	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	mešano negativen	0.914	1	32	39	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno pozitiven	3.327	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno negativen	1.834	1	42	50	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno negativen	1.966	1	28	35	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Pozitiven	mešano pozitiven	3.850	1	13	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno negativen	1.566	1	36	43	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno negativen	2.470	1	34	38	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	negativen	0.436	1	21	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg258.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	negativen	0.477	1	62	73	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg259.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno negativen	2.006	1	41	49	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg259.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno negativen	2.081	1	42	49	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg259.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno pozitiven	2.682	1	11	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg259.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	negativen	0.498	1	44	51	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg259.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno pozitiven	2.582	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg259.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	mešano negativen	1.130	1	19	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg259.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	mešano negativen	0.687	1	37	47	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg259.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	negativen	0.015	1	40	45	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg260.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	mešano negativen	0.556	1	41	51	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg260.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	negativen	0.256	1	20	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg260.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	negativen	0.033	1	31	35	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg260.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Negativen	negativen	0.222	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg261.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u70	s	slovenski	Nevtralen	nevtralno negativen	1.694	1	36	44	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.030	42	461	533	19	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg262.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg263.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.226	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg263.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.972	1	20	22	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg263.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.932	1	18	19	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg263.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.601	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg264.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.032	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg264.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.920	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg264.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.196	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg265.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.929	1	29	31	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg266.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.924	1	20	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg266.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.915	1	30	34	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg267.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.875	1	11	12	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg268.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.326	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg268.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.236	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg268.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.004	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg270.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno negativen	1.896	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg270.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.160	1	12	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg271.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.122	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg272.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno negativen	2.294	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg272.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.934	1	26	29	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg273.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.326	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg273.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.236	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg273.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.212	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg275.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Pozitiven	mešano pozitiven	3.957	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg275.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Pozitiven	mešano pozitiven	3.598	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg275.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.914	1	23	25	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg276.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.894	1	18	20	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg276.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno negativen	2.327	1	10	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg276.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.592	1	25	27	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg277.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.326	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg277.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.236	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg277.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.321	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg279.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Pozitiven	mešano pozitiven	3.525	1	10	12	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg279.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Pozitiven	mešano pozitiven	3.598	1	7	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg280.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.131	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg280.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.501	1	20	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg281.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno negativen	2.480	1	35	39	5	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg282.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.201	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg282.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	2.547	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg282.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.069	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg282.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Pozitiven	mešano pozitiven	3.701	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg283.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u71	s	slovenski	Nevtralen	nevtralno pozitiven	3.101	1	8	9	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	0.960	11	265	305	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg284.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Pozitiven	pozitiven	4.525	1	3	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Negativen	mešano negativen	0.754	1	12	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Nevtralen	nevtralno negativen	2.124	1	51	58	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Negativen	negativen	0.312	1	12	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Negativen	negativen	0.172	1	22	26	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Negativen	negativen	0.340	1	17	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Negativen	mešano negativen	1.309	1	14	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Nevtralen	nevtralno pozitiven	2.596	1	20	24	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Nevtralen	nevtralno negativen	2.114	1	18	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Negativen	negativen	0.074	1	64	73	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg285.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u72	s	slovenski	Nevtralen	nevtralno negativen	2.107	1	32	36	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u73	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	11	13	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg286.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u73	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg287.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u73	s	slovenski	Nevtralen	nevtralno pozitiven	3.332	1	10	11	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u74	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.180	5	83	98	3	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg288.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u74	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg289.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u74	s	slovenski	Negativen	negativen	0.194	1	38	42	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg289.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u74	s	slovenski	Negativen	negativen	0.234	1	7	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg289.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u74	s	slovenski	Negativen	negativen	0.368	1	35	42	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg289.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u74	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u75	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	3.000	2	9	11	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg290.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u75	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg291.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u75	s	slovenski	Nevtralen	nevtralno pozitiven	3.201	1	8	9	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.120	13	217	260	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg292.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Negativen	negativen	-0.019	1	19	23	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Nevtralen	nevtralno pozitiven	3.356	1	26	32	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Nevtralen	nevtralno pozitiven	3.486	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Negativen	negativen	0.227	1	12	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Negativen	mešano negativen	0.751	1	27	32	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Nevtralen	nevtralno negativen	2.217	1	24	27	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Negativen	negativen	0.140	1	10	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Nevtralen	nevtralno negativen	1.878	1	24	27	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.9	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Nevtralen	nevtralno negativen	2.444	1	6	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.10	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Negativen	negativen	0.108	1	37	44	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.11	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Negativen	negativen	0.338	1	22	25	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg293.12	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u76	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u77	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	2.510	5	43	50	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg294.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u77	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg295.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u77	s	slovenski	Nevtralen	nevtralno pozitiven	2.919	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg296.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u77	s	slovenski	Nevtralen	nevtralno pozitiven	3.219	1	6	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg297.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u77	s	slovenski	Nevtralen	nevtralno pozitiven	2.533	1	29	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg297.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u77	s	slovenski	Nevtralen	nevtralno negativen	2.454	1	4	6	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.000	9	199	234	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg298.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Nevtralen	nevtralno negativen	2.463	1	23	28	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg298.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Negativen	negativen	0.112	1	17	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg298.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Negativen	mešano negativen	0.602	1	10	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg298.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Negativen	negativen	0.187	1	37	45	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg298.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Pozitiven	mešano pozitiven	3.719	1	10	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg298.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Negativen	negativen	0.046	1	34	37	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg298.7	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Negativen	mešano negativen	0.868	1	13	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg298.8	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Negativen	mešano negativen	1.450	1	19	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg299.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u78	s	slovenski	Negativen	negativen	0.234	1	36	43	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u79	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	2.320	3	11	15	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg300.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u79	s	slovenski	Nevtralen	nevtralno pozitiven	2.671	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg301.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u79	s	slovenski	Pozitiven	mešano pozitiven	3.798	1	2	3	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg301.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u79	s	slovenski	Nevtralen	nevtralno pozitiven	2.796	1	6	8	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u80	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	0.840	6	70	90	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg302.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u80	s	slovenski	Nevtralen	nevtralno negativen	1.971	1	7	12	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg302.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u80	s	slovenski	Nevtralen	nevtralno negativen	2.479	1	17	20	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg302.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u80	s	slovenski	Nevtralen	nevtralno negativen	2.473	1	25	31	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg302.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u80	s	slovenski	Nevtralen	nevtralno negativen	2.458	1	7	9	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg302.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u80	s	slovenski	Nevtralen	nevtralno pozitiven	3.064	1	5	7	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg302.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u80	s	slovenski	Negativen	mešano negativen	0.969	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	2.720	9	121	145	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg303.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Negativen	mešano negativen	0.992	1	9	11	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg303.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Nevtralen	nevtralno negativen	2.492	1	33	41	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg303.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Nevtralen	nevtralno negativen	2.490	1	37	41	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg303.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Nevtralen	nevtralno pozitiven	2.935	1	16	19	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg303.5	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Nevtralen	nevtralno pozitiven	2.534	1	11	13	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg303.6	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Nevtralen	nevtralno negativen	2.383	1	8	10	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg304.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Nevtralen	nevtralno pozitiven	3.355	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg304.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Pozitiven	mešano pozitiven	3.701	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg305.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u81	s	slovenski	Nevtralen	nevtralno pozitiven	3.362	1	2	3	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u82	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno negativen	1.780	3	18	22	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg306.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u82	s	slovenski	Nevtralen	nevtralno pozitiven	2.750	1	12	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg306.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u82	s	slovenski	Negativen	negativen	0.311	1	5	6	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg306.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u82	s	slovenski	Pozitiven	pozitiven	4.511	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u83	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Nevtralen	nevtralno pozitiven	2.980	1	3	4	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg307.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u83	s	slovenski	Nevtralen	nevtralno pozitiven	3.243	1	3	4	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u84	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	negativen	0.480	5	36	43	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg308.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u84	s	slovenski	Pozitiven	mešano pozitiven	3.701	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg309.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u84	s	slovenski	Nevtralen	nevtralno pozitiven	2.638	1	4	5	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg309.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u84	s	slovenski	Negativen	mešano negativen	1.446	1	12	14	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg309.3	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u84	s	slovenski	Negativen	negativen	0.109	1	14	16	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg309.4	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u84	s	slovenski	Negativen	negativen	0.134	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u85	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34	u	slovenski	Negativen	mešano negativen	0.860	7	64	75	2	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg310.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u85	s	slovenski	Pozitiven	mešano pozitiven	4.085	1	2	3	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg311.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u85	s	slovenski	Negativen	mešano negativen	0.527	1	14	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg312.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u85	s	slovenski	Negativen	mešano negativen	0.675	1	3	4	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg313.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u85	s	slovenski	Nevtralen	nevtralno pozitiven	3.326	1	1	2	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg313.2	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u85	s	slovenski	Nevtralen	nevtralno pozitiven	3.041	1	12	15	0	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg315.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u85	s	slovenski	Nevtralen	nevtralno pozitiven	2.984	1	19	22	1	
+ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.seg316.1	ParlaMint-SI_2020-04-07-SDZ8-Izredna-34.ana.u85	s	slovenski	Nevtralen	nevtralno pozitiven	3.054	1	13	14	1	
