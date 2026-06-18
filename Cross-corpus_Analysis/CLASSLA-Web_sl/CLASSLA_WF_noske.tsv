@@ -1,0 +1,26 @@
+method name: freqml			
+corpus: classlaweb2_sl			
+subcorpus: -			
+concordance size: 19533			
+"query: Query:([lemma=""""naš""""][]{1,3}[lemma=""""vaš""""])|([lemma=""""vaš""""][]{1,3}[lemma=""""naš""""])within<s/>"			
+Word (token)	Frequency	Freq. per million	% of concordance
+naše  in  vaše	705	0.25649	3.60928
+vaše  in  naše	398	0.1448	2.03758
+Vaše  zadovoljstvo  je  naša	177	0.0644	0.90616
+Vaše  zadovoljstvo  je  naše	173	0.06294	0.88568
+naših  in  vaših	157	0.05712	0.80377
+vaš  dom  z  našimi	131	0.04766	0.67066
+Naše  nasilje  in  vaše	115	0.04184	0.58875
+naši  in  vaši	112	0.04075	0.57339
+vašega  obiska  v  naši	110	0.04002	0.56315
+naš  in  vaš	107	0.03893	0.54779
+"naše  ""  in  ""  vaše"	104	0.03784	0.53243
+vaš  in  naš	95	0.03456	0.48636
+našo  in  vašo	92	0.03347	0.471
+vaš  avto  oblikovan  kot  naša	89	0.03238	0.45564
+našega  in  vašega	87	0.03165	0.4454
+vašo  in  našo	78	0.02838	0.39932
+naši  -  vaši	72	0.0262	0.36861
+vaših  in  naših	68	0.02474	0.34813
+vašega  in  našega	68	0.02474	0.34813
+naši  trgovini  vaši	68	0.02474	0.34813

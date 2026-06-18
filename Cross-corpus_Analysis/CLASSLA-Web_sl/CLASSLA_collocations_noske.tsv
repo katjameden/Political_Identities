@@ -1,0 +1,26 @@
+method name: collx					
+corpus: classlaweb2_sl					
+subcorpus: -					
+concordance size: 19533					
+"query: Query:([lemma=""""naš""""][]{1,3}[lemma=""""vaš""""])|([lemma=""""vaš""""][]{1,3}[lemma=""""naš""""])within<s/>"					
+Collocate	Freq	Coll. freq.	T-score	MI	logDice
+marijana@alphaluxegroup.com	197	210	14.03556	17.01023	8.353
+povzdigniti	315	13922	17.74266	11.63655	8.26927
+delitev	334	89291	18.24095	9.0399	6.65207
+prenrediti	59	379	7.6808	14.41901	6.60129
+featuring	65	5160	8.05771	10.79163	6.43055
+pridih	145	37637	12.01938	9.08247	6.37694
+prioriteta	163	50354	12.73912	8.83133	6.25599
+poslovalnica	109	27413	10.42165	9.12803	6.24947
+prednosten	161	57862	12.65617	8.61301	6.09096
+mladost	155	56506	12.41765	8.59243	6.06167
+poslanstvo	195	77444	13.92483	8.46888	6.04198
+frljić	40	999	6.32343	12.46001	5.99634
+ootdty	68	16712	8.23181	9.16129	5.94197
+cockta	37	1350	6.08119	11.91313	5.85941
+zadovoljstvo	223	108087	14.88175	8.18149	5.8394
+okrasek	99	38209	9.92258	8.51015	5.81202
+nadgradnja	175	82772	13.18429	8.21678	5.80869
+uljepšati	31	585	5.56702	12.86432	5.658
+radovati	31	981	5.56651	12.11851	5.62988
+budućoj	29	34	5.38512	16.87294	5.60185

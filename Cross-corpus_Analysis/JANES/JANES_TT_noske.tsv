@@ -1,0 +1,1865 @@
+method name: freqs			
+corpus: janes			
+subcorpus: -			
+concordance size: 2499			
+"query: Query:([lemma=""""naš""""][]{1,3}[lemma=""""vaš""""])|([lemma=""""vaš""""][]{1,3}[lemma=""""naš""""])within<s/>"			
+group.type	Frequency	Relative density	Relative in text types
+tweet	1091	72.89957	7.20336
+forum	946	203.40817	20.09919
+blog	266	77.95055	7.70246
+news	187	127.54221	12.60271
+wiki	9	18.18705	1.7971
+group.platform	Frequency	Relative density	Relative in text types
+twitter	1091	72.89957	7.20336
+medovernet	906	664.45228	65.65593
+rtvslo	340	95.76151	9.4624
+publishwall	68	63.47069	6.27167
+mladina	41	184.12472	18.19375
+avtomobilizem	23	9.082	0.89741
+kvarkadabra	17	22.52444	2.22569
+usertalk	7	20.45819	2.02152
+reporter	4	117.37668	11.59824
+pagetalk	2	13.09788	1.29423
+group.title	Frequency	Relative density	Relative in text types
+ -	1091	72.89809	7.20321
+Zdravstvene posvetovalnice Manualna terapija, kiropraksa,…	863	26689.03895	2637.20011
+Vprašanja &amp; odgovori O zgodovini časa, vesolju in sploh v…	8	30.96549	3.05976
+Prismrad preteklosti	6	21873.66918	2161.38329
+Radikalizacija muslimanov: nerazumljiva novost, fikcija ali…	6	4724.29049	466.81709
+Vprašanja &amp; odgovori Dosjeji X	6	77.2516	7.63339
+Zdravstvene posvetovalnice Ginekologija in porodništvo …	5	37.31052	3.68673
+Peklenske muke	4	9761.4831	964.55269
+Zapis na spletni strani SDS-a: Janković na oblast s strašen…	4	461.55189	45.60691
+Avstrija bo gospodarsko rast spodbujala z nižanjem davka na…	4	4356.52932	430.47783
+Eksplozija pred hišo nekdanje državne tožilke	4	16860.00434	1665.97251
+Brščič po novem svetuje Elesu	4	12471.00136	1232.28589
+&#34;Vlada nam mafija&#34;	4	1177.07745	116.3095
+Starševstvo in medsebojni odnosi Ko starši žalujejo	4	290.62712	28.71748
+Starševstvo in medsebojni odnosi Vrtci in varstvo otrok	4	564.76792	55.80591
+A.com Splošna debata	4	10.67367	1.05469
+Obesil bom žalno...	3	3424.00505	338.33315
+Intervju z Basharjem	3	16980.23088	1677.85235
+REQUIEM ZA KNJIGO	3	10940.77579	1081.08108
+Bel hudič	3	10552.88593	1042.75287
+Pismo indijanskega poglavarja Seattle-a leta 1854	3	32857.84937	3246.75325
+SREČEN VAM 1. MAJ »PRAŠIČKI«	3	54802.62242	5415.16245
+Vroč boj za prestol v prestolnici	3	2767.10288	273.42326
+Slovenski in svetovni politični hlev na dan 3.6.15	3	30330.3225	2997.003
+Slovenska kultura odraža tranzicijsko korupcijo	3	3274.44487	323.55479
+Quod licet Iovi, non licet bovi*	3	122421.98718	12096.77419
+A.com Galerija	3	11.39993	1.12645
+ODPRTO PISMO G. ROUGIERJU in njemu podobnim	3	1273.73103	125.86004
+Starševstvo in medsebojni odnosi Starši in otroci	3	103.52317	10.22934
+A.com Obvestila in predlogi	2	52.94981	5.23208
+Koprive	2	6539.72059	646.20355
+STISKA	2	6358.91775	628.33805
+A.com Kupovanje avtomobilov	2	9.30444	0.91939
+A.com Pravni nasveti	2	17.2976	1.70921
+Janša in Matoz zavajala z &#34;očitno ponarejenim&#34; dokumentom?	2	801.69665	79.21733
+IZPOVED NEKDANJEGA UDBAŠA	2	4846.84751	478.9272
+MURA	2	7086.98712	700.28011
+PETICIJA - ZA PIVŠKO KOTLINO BREZ STRELJANJA!	2	27278.21457	2695.41779
+Le kam nas pelje usoda ...	2	16089.37616	1589.82512
+Odprto pismo ministru za okolje in prostor	2	13920.5194	1375.51582
+PISMO SINDIKATA DUŠANU SEMOLIČU - ZSSS	2	8971.82412	886.52482
+Slavoj Žižek o Siriji	2	6417.38593	634.11541
+&#34;Slovenija je dovolj majhna in bogata, da bi lahko ubrala s…	2	842.15841	83.21544
+Pravica do groba	2	2779.89771	274.68754
+Zdravstvene posvetovalnice Genetika Genetska posvetoval…	2	443.65515	43.8385
+Juncker za slovensko komisarko izbral Alenko Bratušek	2	1087.6107	107.4691
+Ko otrok rajši kot igračo pograbi liter mleka	2	1555.64024	153.71609
+pomanjakanje humorja in razumevanja	2	95926.23324	9478.67299
+Video: Janši vročili sodbo, konec pravde SDS-a proti Dejanu…	2	1006.88664	99.49259
+Vse o svetu	2	2012.37177	198.84669
+Hrvati niso vzdržali danskega pritiska	2	1284.21009	126.8955
+Gnev. Zbudite se ljudje!	2	10395.70376	1027.22137
+ZAKAJ SO V TRSTU PROTESTIRALI – Proti plinskim terminalom	2	1721.71106	170.12589
+UO Prešernovega sklada stoji za svojo odločitvijo o Možini,…	2	2248.93725	222.22222
+Tudi vrhovna sodnica Zobčeva ni izločena iz zadeve Patria	2	10823.76215	1069.51872
+Napačno dojemanje Rusije	2	8444.06976	834.3763
+Kandidati za ministre: Veber, Židan, Kopač Mrakova, Kolarje…	2	4772.56195	471.58689
+ASTROLOŠKA ZAKONSKA POSVETOVALNICA	2	8646.06374	854.33575
+&#34;Če bi hoteli biti pravični, bi morali izvesti neko drugo l…	2	706.59575	69.82021
+Video: Ministrica naj bi odšla v sredo. Razlog: moževo podj…	2	6262.5109	618.81188
+Shod v podporo Majniški deklaraciji. Pa tudi Janši in volit…	2	365.85271	36.15068
+Patria na Finskem: Obtoženi oproščeni, pri očitkih ostaja &#34;…	2	282.03377	27.86835
+Janša v zaporu. &#34;Pred 25 leti smo se osamosvojili, ne tudi …	2	466.07952	46.0543
+Šivala je Svetlana zvezdo	2	8877.38387	877.19298
+Stožice po 5. mestu rajale, kot bi bila medalja	2	1279.74426	126.45422
+Marcel Štefančič jr.: Politiki so zadnji, ki bi lahko določ…	2	1906.9564	188.43037
+A.com Srečanja	2	18.88296	1.86586
+STRESNI TESTI.SI	2	4439.66554	438.6927
+Ustavimo janšizem danes!	2	23105.51965	2283.10502
+BOG IN VSI SVETI, POMAGAJTE SLOVENSKEMU NARODU	2	3604.0661	356.12536
+Namesto domoljubja, uničevanje narodne zavesti!	2	6454.22041	637.7551
+Zdravstvene posvetovalnice Psihiatrija in terapevtska pom…	2	82.71024	8.17277
+Starševstvo in medsebojni odnosi Starši, učitelji in učen…	2	116.34774	11.49657
+Ostalo Nima veze z avtomobilizmom	2	19.31665	1.90872
+Firma	1	12120.02109	1197.60479
+Kdo se boji Josipa Broza?	1	7778.79908	768.63951
+BOSANSKI HAIKU TER PERCEPCIJA ADMINISTRATORJA PORTALA RTV	1	10010.10644	989.11968
+Video: Cena vinjete bo odvisna od višine vašega avtomobila	1	638.09695	63.0517
+Koncert ob 100-letnici	1	10952.61646	1082.25108
+Žiga Turk o Cerarjevem izobčenju SDS	1	9353.25102	924.21442
+Recept	1	3682.7575	363.90102
+Legitimnost nove evropske pogodbe	1	2976.53459	294.11765
+KAJ JE ŠE TREBA NAPRAVITI ZA RAZVOJNI PREBOJ OBČINE LENART?	1	4995.17157	493.58342
+O etičnosti malce drugače ...	1	3965.60251	391.84953
+OBLAST IN PREVARE!	1	9787.44449	967.11799
+Danes, bom porabil €86400s, nič, nula, zero.	1	17723.67357	1751.31349
+Naš Tito in Fidel Castro	1	6096.51663	602.40964
+Na svidenje	1	44978.74492	4444.44444
+Normalizacija kvizlingov?	1	2394.18444	236.5744
+Participativni proračun - ko vzamemo demokracijo zares	1	1732.61729	171.20356
+Dom, tehnika in prosti čas Slovenci po svetu	1	43.74211	4.32225
+SAMO EN PAR VAS SE ZIVI	1	7981.24417	788.64353
+ABC Med.Over.Net Zdravstvo pri nas?	1	82.64506	8.16633
+Je suis ...	1	2380.10762	235.18344
+UPOKOJENCI IN INVALIDI SMO VSI ALI BOMO NEKOČ VSI!	1	2064.92912	204.03999
+Maska	1	18501.3119	1828.15356
+Silvestrovanje in otroci	1	7072.1297	698.81202
+Nikoli ne storimo drugemu tisto, kar ne želimo sebi ...	1	9656.69619	954.19847
+Nova vlada in nove krize	1	6038.31599	596.65871
+ROPANJE UMIRAJOČIH STAROSTNIKOV PO DOMOVIH	1	1503.74704	148.58841
+MOČ JE SLADKA	1	10337.30093	1021.45046
+NAROD SE JE ZAŽELEL JANŠE, VENDAR PREPOZNO!	1	1621.56988	160.23073
+Zimski žar	1	67468.11738	6666.66667
+Biti inu obstati ali ...	1	1170.23793	115.63367
+OZRI SE V SVOJEM BESU, IZDAJALEC!	1	4485.91206	443.26241
+postajam stari morski volk	1	11539.58678	1140.25086
+ZASTRAŠUJOČA PRIHODNOST EVROPE!	1	1055.61882	104.30792
+15. zadnje poglavje romana: POGLED SKOZI OKNO	1	6231.66109	615.76355
+Čestitke Ukrajincem	1	3174.47227	313.67629
+Share International	1	1662.86849	164.31153
+Novoletna poslanica	1	16428.92469	1623.37662
+Starševstvo in medsebojni odnosi Starševski čvek	1	100.02093	9.88328
+Namišljeni politiki in namišljena politika cinizem in slove…	1	16296.64671	1610.30596
+V ustavi ni naših in vaših	1	84335.14673	8333.33333
+Sedaj je pravi čas, da začnete razmišljati o nakupu bazena	1	45382.14174	4484.30493
+Prenaseljenost – kdo od nas je preveč?	1	3054.69895	301.84123
+Konec ali začetek pravne države	1	9117.31316	900.9009
+Janša si zaporniško sobo deli še z dvema obsojencema in tvi…	1	349.97467	34.58173
+GREMO PO VRSTI, KAKO REŠITI DRŽAVO PRED...	1	3956.30086	390.93041
+Zakaj Cerkvi NE - hrvaški protest v Piranskem zalivu	1	8038.29834	794.28118
+Biti Elza. Danes. Leta 2014.	1	3505.44427	346.38033
+»Vklopi razum, spodi politike, ki žrejo na tvoj račun«	1	8302.06531	820.34454
+Patetika postafriškega slavljenja	1	1747.57686	172.68175
+A ti me-me- mene,ja pa za-za-zajebavaš?	1	4098.91357	405.02228
+JUTRO POD LIPO	1	6567.30539	648.92927
+Merkur Naklo – vzorčen primer dovoljenega izživljanja nad d…	1	2891.49074	285.71429
+Je vaš ljubljenček že zaščiten proti zunanjim parazitom?	1	177547.67732	17543.85965
+Verniki potencialni morilci?	1	913.29461	90.24456
+Grenak priokus osamosvojitve	1	2077.64681	205.29665
+Vam, ženskam, mamam ... in mamam po srcu	1	26562.25094	2624.67192
+Katalonci v pričakovanju škotskega referenduma zahtevajo sa…	1	5002.57914	494.31537
+V Kopru obeležili 25. let Policijskega sindikata Slovenije	1	35887.29648	3546.09929
+O spravi - ob obletnici konca 2. svet. vojne na naših tleh	1	7228.72686	714.28571
+GRADNJA LESENE HIŠE	1	7546.76928	745.71216
+V LENARTU JE TREBA OŽIVITI POSLOVNO-INDUSTRIJSKO CONO!	1	15150.02636	1497.00599
+24 ur po primopredaji je Andrej Baričič že spet &#34;odsoten&#34;, …	1	8963.87742	885.73959
+Zakaj postati komunist?	1	392.28691	38.76269
+V protest bodeča žica tudi v Ljubljani	1	56223.43115	5555.55556
+PREDSEDNIK CIPRA: &#34;HVALA, GOSPOD TUPAMAROSS!&#34;	1	5090.65272	503.01811
+8.2. - Praznik Franceta Prešerna - največjega slovenskega k…	1	27802.79562	2747.25275
+Kadrovanje!	1	13281.12547	1312.33596
+Podajmo slovensko strankarstvo, ki je slovenski narod povse…	1	9242.20786	913.24201
+Žerjav: &#34;Ulica&#34; se bo skoraj gotovo zgodila po vsej Sloveni…	1	1674.14683	165.42597
+Poziv medijem, pravniku in kandidatu Miru Cerarju in vsem a…	1	13620.75048	1345.89502
+Hvala, Aleš Primc	1	11864.26449	1172.33294
+Znosili so jih na senik in zažgali	1	3418.99243	337.83784
+Utopična jugonostalgija	1	1653.36017	163.372
+Od kje heteroseksualcem ideja, da imajo samo oni pravico do…	1	7943.65589	784.92936
+ŽIVI SMO IN NE BOSTE NAS OMRTVILI	1	6356.92061	628.1407
+Zahtevamo odstop dr.Anje Kopač Mrak, ministrice za delo dru…	1	24269.10697	2398.08153
+Predvolilni čas, ko se državljani odločamo, komu zaupati sv…	1	4558.65658	450.45045
+Tresite se hetero svinje, ko mi pridemo med vas brez mask	1	7731.25868	763.94194
+Na zdravje našemu atu!	1	3855.32099	380.95238
+KARDELJEVA STOLETNICA ROJSTVA	1	10597.0865	1047.12042
+Voščilo	1	2508.10845	247.83147
+Programski svet o Nataši Pirc Musar: Naj odloči sodišče	1	7820.87914	772.79753
+Kulturni praznik - praznovanje smrti?	1	12974.63796	1282.05128
+Mehmedalija Alić: Nihče 2 - od Srebrenice do Hude jame	1	2512.46713	248.26216
+KONTINUITETA DESNIČARSKE NEKULTURE	1	5351.78086	528.82073
+Zahrbtnost vlade RS in izbrancev	1	12697.88909	1254.70514
+Uganka	1	6107.55438	603.5003
+Nespodobna povabila Alenke Bratušek	1	110002.36529	10869.56522
+Kanglerjev scenarij: Kanglerju sodbo razveljavili, Janši jo…	1	17211.25443	1700.68027
+Mramor predal Cerarju predlog strategije o upravljanju prem…	1	3730.26819	368.59565
+NIČ NE RAZUMEMO	1	14540.54254	1436.78161
+J. J.? Ne, hvala!	1	1315.50989	129.9883
+ODLOČITEV USTAVNEGA SODIŠČA JE REŠILO DRŽAVO!	1	1095.14312	108.2134
+Kaj JE in NI &#34;BIO-HUMANIZEM&#34;!	1	8642.372	853.97096
+Neprijazni in neučinkoviti svetovalec	1	14688.26939	1451.37881
+Tisočletne sanje	1	2583.00603	255.23226
+Sporni razpis za premierovo hčerko	1	8591.01664	848.89643
+Žakelj v Dražgošah: Smo potomci najbojevitejšega plemena sl…	1	164.75731	16.28002
+Neonacizem v Sloveniji: Povej mi, s kom se družiš	1	34897.30209	3448.27586
+Spodrezana Slovenija	1	8900.80704	879.50748
+&#34;Množično&#34; grobišče ali krasen kraj?? - Lajše na Cerkljansk…	1	2939.36033	290.44438
+Vprašanja &amp; odgovori Moč čistega uma	1	9.25602	0.91461
+Slovenski škofje se pridružujejo pozivu k udeležbi na evrop…	1	12296.74071	1215.06683
+Pridiga: za koga?	1	24743.80833	2444.98778
+Dr. Spomenka Hribar: »Slovenska zveza komunistov konec osem…	1	28669.17169	2832.86119
+Časarja na Dobu niso dočakali. Sodnik zanj odredil privedbo.	1	3820.3917	377.50094
+RTV Slovenija bo prvič vodila generalna direktorica - Nataš…	1	1084.34776	107.14668
+Nezaupnica Janši, odpoklic Jankovića?	1	3165.53569	312.79324
+Razkritje - Družinski zakonik	1	3709.75719	366.56891
+Država dveh domovin	1	3073.25163	303.67446
+ZAMISLI	1	4722.45339	466.63556
+Ob 1. maju, prazniku dela – razmislek v kakšni družbi živim…	1	14354.91859	1418.43972
+Kmetje, obrtniki in avtoprevozniki zadovoljni z obljubami	1	2620.46028	258.9332
+Rušenje vlade	1	11000.23653	1086.95652
+PRISTRANSKO NERAZISKOVALNO NOVINARSTVO	1	15310.46537	1512.8593
+Hrvaško zajela košarkarska evforija: zdaj po finale!	1	2024.44841	200.04001
+TEMELJI SVOBODNE SLOVENIJE	1	10337.30093	1021.45046
+IS: Iran očita ZDA neresnost, Obama pa napoveduje ofenzivo	1	2853.17666	281.92839
+Zbornik Blogozija 4	1	38334.1576	3787.87879
+Laži in manipulacije okoli dokumentarca &#34;Sovjetska zgodba&#34;	1	1353.69417	133.76137
+Ščap poskrbel za napet finiš, a ni preprečil novega naslova…	1	1893.39899	187.09074
+Preldžić za rojstni dan &#34;poračunal&#34; z Avstralci, Srbija &#34;st…	1	911.9778	90.11445
+Slaba banka bo morala razkriti slaba posojila, a ne vseh	1	899.5749	88.88889
+Razklani SD o vstopu v koalicijo šele prihodnje leto?	1	488.59256	48.27886
+Nedostojno in šokantno na športni prireditvi ...	1	3323.55258	328.40722
+V puljskem amfiteatru zmaga hokeja in Olimpije	1	2286.53809	225.93764
+ODGOVOR direktorice RTVSLO Ljerke Bizilj	1	20611.44115	2036.65988
+Nekako tako podobno mi je zvenelo ...	1	17240.57514	1703.57751
+Uporabniški pogovor:Samo Cerar	1	24623.4005	2433.09002
+Starševstvo in medsebojni odnosi Nezvestoba - varanje	1	45.81751	4.52732
+Slovenska srčnost premalo za ameriški &#34;stroj&#34;	1	335.92968	33.19392
+Predsednik DZ-ja: S funkcije se bom umaknil, če bi bilo to …	1	1876.19904	185.39118
+Madridski protesti proti varčevanju so se sprevrgli v hude …	1	4070.88399	402.25261
+Levica in Zver	1	8823.20628	871.83958
+Žreb: Monaška ruleta se bo zavrtela ob 17.45. Kdo bodo tekm…	1	1528.04131	150.98898
+Priporočamo namestitev - Terme Olimia - Hotel Sotelia	1	9777.98803	966.18357
+ZAKAJ MI	1	39074.19925	3861.00386
+THE OLYMPIC HANDSHAKE - JOIN IN NOW! - Olimpijsko virtualn…	1	66580.37899	6578.94737
+Ljubljana je bila zadnja, ki je slavila domače zlato	1	63251.36004	6250
+Barva partizanov nekoč in danes…….	1	5374.51811	531.06745
+SDS koaliciji in levici očita: Vaša stališča odražajo popol…	1	20695.74153	2044.98978
+Starševstvo in medsebojni odnosi Ločitev	1	51.39306	5.07826
+avtorske pravice	1	15862.41004	1567.39812
+&#34;Vsi vemo, da smo v socializmu živeli bolje&#34;	1	127.73537	12.6218
+Noč Modrijanov: koncertni spektakel narodno-zabavne glasbe	1	2682.98452	265.11135
+Megliču zaradi napada Baričevičevih psov 86.000 evrov odško…	1	19094.7502	1886.79245
+Foto: Janković v Stožicah le dočakal Hej, brigade	1	853.16284	84.30282
+Anja Hlača Ferjančič: V športnem novinarstvu je preveč navi…	1	11795.12542	1165.50117
+Slovenski radio Narodnjak in simbolika, ki jo nosi	1	15763.57883	1557.6324
+Kdo voli samo zato, ker je proti? MONA!!!!	1	5060.1088	500
+Kitajski horoskop od 30. 11. do 5. 12. 2015	1	7233.89393	714.79628
+&#34;Politični grafit bo vedno ostal medij tistih, ki nimajo dr…	1	6056.38397	598.44405
+Ravnovesje III	1	12842.91574	1269.03553
+Starševstvo in medsebojni odnosi Mejna osebnostna motnja	1	130.80117	12.92474
+Uporabniški pogovor:Sporting21	1	28347.94848	2801.12045
+Prenesenih 3,3 milijarde evrov, na bankah še 6,6 milijarde …	1	2384.03242	235.57126
+Prevara stoletja III.	1	2522.48694	249.25224
+ZVOK Grega Repovž o kandidaturi Alenke Bratušek in evrops…	1	17269.99592	1706.48464
+Preštevanje po Janševo	1	3520.07569	347.82609
+Zahvala Urške Bačovnik Janša	1	19203.44897	1897.53321
+Juncker izbral Bratuškovo za podpredsednico Evropske komisi…	1	539.68737	53.32765
+Video: Skrajno desničarske stranke &#34;zatresle&#34; EU	1	1315.33891	129.97141
+Islamska država naj bi načrtovala napade na ZDA in Pariz	1	1727.88417	170.73587
+Spet zarota proti Janši ali kdo bo koga ...	1	19727.5197	1949.31774
+Demokracija	1	7157.15531	707.21358
+Idrija- Porka fiks	1	5932.13224	586.16647
+Vsebinska degradacija članka	1	11699.67353	1156.06936
+Španci že v uvodni četrtini prizemljili Brazilce	1	1207.5191	119.3175
+Okrožno sodišče neusmiljeno do Ivana Črnkoviča	1	1169.56173	115.56686
+IS ne popušča: v svarilo Zahodu obglavili Kurda	1	1742.76177	172.20596
+Najugodnejši ponudnik ne bo mogel graditi novomeške urgence	1	5388.82727	532.48136
+Vzpon SDS	1	2774.18246	274.12281
+&#34;S tem, kaj bo, če škotski referendum pade, se vsi bolj mal…	1	9353.25102	924.21442
+Janša navzočim na shodu: Slovenci se bomo uprli levemu faši…	1	148.07546	14.63165
+Disobey	1	8769.68597	866.55113
+Največ slabih posojil pod vodstvom Marjana Kramarja in Matj…	1	941.32803	93.0146
+Pica	1	13316.0758	1315.78947
+PRITOŽBA	1	27956.40223	2762.43094
+Pirc Musarjeva kot informacijska pooblaščenka oglobila vse …	1	10664.08599	1053.74078
+Geopedija - kršitev moralnih avtorskih pravic?	1	2161.05437	213.53833
+Tanka rdeča črta	1	24386.06652	2409.63855
+Vedno uporabno Tovarna znanja Avtomobilizem.com	1	179.56383	17.74308
+Predsednik Borut odhaja na olimpiado	1	4874.86397	481.69557
+Primc meče slabo luč na sodelavce	1	3181.45791	314.36655
+NAŠI ZAKONI, PO KATERIH TUJCEM BOMO SUŽNJI	1	2893.14397	285.87764
+Malo poezije, prazne, nične	1	5315.24034	525.21008
+TITO, REŠI NAS!	1	2495.12268	246.54832
+Milovanovič: Vse bolj vroče prvenstvo	1	7192.76305	710.73205
+Prekletstvo Slovenskega Risa . . . Odgovor Amselu . . . in …	1	2777.99001	274.49904
+Rašo: Olimpija je še vedno poznano ime, toda tako ne gre na…	1	1566.8397	154.82273
+Balić zavrnil srebro in se posmehoval Karabatiću	1	655.24232	64.74587
+Protestniki: Svoboda Janši, svoboda narodu	1	381.67896	37.7145
+O prekarnem delu: Izgubljena generacija osemdesetih let	1	5672.76772	560.53812
+Bo Obamov &#34;čudežni prah&#34; deloval na muslimane?	1	5340.48423	527.70449
+Špela na Švedskem spoznava: Tu otrok pri 30 letih, ki bi ži…	1	1704.88841	168.46361
+Resnica o &#34;500 podjetnic&#34;	1	2164.28948	213.858
+Mediana: SDS-u 29, Virantu 20 ter Jankoviću 18 odstotkov gl…	1	987.72376	97.59906
+Trojka obeta prisilni zaseg zasebnih prihrankov	1	8995.74898	888.88889
+KOMUNISTIČNI MANIFEST JE BIBLIJA NAŠE LEVICE	1	329.26268	32.53514
+Ljubljanski nadškof Stanislav Zore podprl delovanje Koalici…	1	19022.96543	1879.69925
+Francozi po zgodovinskem preobratu v nedeljo po prvi naslov	1	433.6183	42.84674
+Foto: Sava prebila nasip pri Obrenovcu, v BiH-u v torek dan…	1	2250.43754	222.37047
+Pavel Rupar mora v zapor in občini povrniti denar	1	5085.53649	502.51256
+Boem pa ne	1	17943.64824	1773.04965
+Starševstvo in medsebojni odnosi Obporodne stiske	1	64.27045	6.3507
+Pages	1	8800.18922	869.56522
+Se res Primc in druščina borijo za ljubezen in srečo otrok …	1	3241.58155	320.3075
+Slovenci bomo podalpski Hrvati?	1	10608.19456	1048.21803
+Pri Lovšinu odkrili za 1,6 milijona evrov nenapovedanih pri…	1	2170.32331	214.45421
+Kazijo nam pogled	1	16672.51665	1647.44646
+Foto: Pogled na življenje odprtega oddelka Doba, kjer kazen…	1	1105.79301	109.26573
+Ivan Vilibor Sinčić novi predsednik Hrvaške?	1	23105.51965	2283.10502
+Vrhovni sodnik Šorli: Masleša ne more pregnati senc, ki so …	1	479.40396	47.37091
+Janković po zaslišanju: Pojasnil sem, kar je zanimalo krimi…	1	1113.8254	110.05943
+Antikomunizem	1	2525.63454	249.56326
+Čebela in »toti« bloger	1	4685.28593	462.96296
+Ustavno načelo ločenosti države in cerkve in razumevanje na…	1	1431.43106	141.44272
+Lepa duša v bordelu	1	2558.19454	252.78059
+MZZ: Ob grozodejstvih Islamske države ne moremo mirno stati	1	1327.41574	131.16474
+Trije kandidati za direktorja Radia Slovenija	1	82952.60334	8196.72131
+Foto: Janša ni podal zahtevka za zadržanje kazni	1	227.27761	22.45778
+Ministrstva potrebujejo dodatna sredstva, vendar jih ni na …	1	2951.36122	291.63021
+&#34;Poljaki se lahko zahvalijo tistemu zgoraj&#34;	1	4452.36146	439.94721
+Jakič bo &#34;držal besedo&#34; in odstopil, če bo &#34;vložen pravnomo…	1	709.04628	70.06236
+&#34;Kot družba smo nazadovali v zagotavljanju socialnih in eko…	1	5113.80374	505.30571
+Čigava priložnost	1	1593.73506	157.48031
+Pretep pred začetkom tribune Zbora za republiko v Mariboru	1	434.38139	42.92214
+50% popusta na vašo prvo masažo	1	49853.2887	4926.10837
+Zakaj bo Kučan vedno premagal Janšo	1	6801.22151	672.04301
+Medicina v primežu	1	4568.947	451.46727
+CPL: Mimoviću odrejen 30-dnevni pripor, Petrič mora v hišni…	1	3207.67595	316.95721
+Erjavec ogorčen zaradi samopotrjevanja Alenke Bratušek	1	3035.45819	299.94001
+Svetniki za novo glasovanje o direktorju RTV SLO. Pirc Musa…	1	1832.70873	181.09381
+Foto s Parade ponosa: &#34;Družinski zakonik bo prišel v veljav…	1	612.67815	60.54002
+Potomci Kajna in Abela	1	2137.77305	211.23785
+Dan Slovenske vojske	1	4724.65808	466.85341
+OJ, DRAGE SLOVENKE IN SLOVENCI	1	3998.50557	395.10075
+zaljubi sanje v sanjača: postani veter, ne pahljača	1	7349.46812	726.21641
+Zgodovinski ne!	1	2024.44841	200.04001
+KOZLOVSKA SODBA V VIŠNJI GORI	1	757.61473	74.86151
+KPK: Izjava Janeza Janše je v celoti neresnična	1	179.83505	17.76988
+Četniki = nacistični kolaboranti	1	3978.07296	393.08176
+Janša, NIKOLI VEČ! Za vedno!	1	7424.95789	733.67572
+Z ruskimi ujetniki 4	1	3116.79015	307.97659
+Adria Airways Tehnika z roba insolventnosti v letu dni do l…	1	21486.66159	2123.14225
+Nekaj je narobe	1	3762.16268	371.74721
+Zaokroženo ...	1	42167.57336	4166.66667
+ZZZS ne dovoli prostovoljnih prispevkov za ambulanto v Jurš…	1	8547.48109	844.59459
+Zdravstvene posvetovalnice Pediatrija Pediatrija	1	84.4555	8.34523
+Parada ponosa: razočaranje nad politiki in poziv k enakim p…	1	1421.97803	140.50864
+SDS zahteva odpoklic veleposlanika v Avstraliji, Milana Bal…	1	3363.31592	332.33632
+Patologija laži III	1	6056.38397	598.44405
+Turk uzakonja cenzuro	1	16428.92469	1623.37662
+Ustavno sodišče: Ni razlogov, da bi naredili izjemo	1	139.17265	13.75194
+250 evrov kazni, ker naj bi s traktorjem divjala po Ljublja…	1	4006.42027	395.88282
+Pismo morilki	1	43434.41033	4291.84549
+Danilo Türk: Državni zbor je izvoljen, ustanovna seja bo v …	1	1025.97502	101.37875
+Sum vohunjenja veleposlanika pri Natu? Nato: Nobene preiska…	1	443.32476	43.80585
+Janša obsojen. Odvetnik Matoz: &#34;Sodbo bomo razveljavili.&#34;	1	152.77414	15.09593
+Napake velikega govornika	1	5438.05352	537.34551
+Božo Repe: Rovte s pomenljivim imenom niso le slovenske, pa…	1	767.7883	75.86678
+A.com Zavarovanje in registracija vozil	1	16.46311	1.62675
+Jesenski piknik	1	73334.9102	7246.37681
+In druge zgodbe	1	2279.32829	225.22523
+O Janši na prvi seji novega DZ-ja ne bodo glasovali	1	1008.39155	99.64129
+»Trojka, pridi!«	1	3200.57483	316.25553
+Starševstvo in medsebojni odnosi Vzgoja otrok in družine	1	61.61097	6.08791
+Komu je v interesu javni linč Janeza Zemljariča, Silva Gore…	1	7096.92679	701.26227
+Nepremičninski zakon razveljavljen. Bratuškova kljub pozivo…	1	193.62167	19.13216
+Verbalni delikt	1	3704.32562	366.03221
+Kdo so najhujši zločinci ?	1	1842.38442	182.04988
+Antična modrost in slovenske volitve 2008	1	11157.90254	1102.53583
+Duh, ki živi	1	1010.80879	99.88014
+KDO JE UNIČIL DRŽAVO SLO?	1	11461.17509	1132.50283
+JANŠA IN VSI NJEGOVI DRŽAVNI UDARI!	1	2104.43286	207.94344
+Grims in njegov zavrnjeni zahtevek	1	6389.02627	631.31313
+Izjave o lojalnosti knezje-škofa	1	7157.15531	707.21358
+REVOLUCIJA V GLAVI!	1	2699.44455	266.7378
+Izguba	1	44582.45642	4405.28634
+Vrnimo &#34;deželi&#34; ponos	1	3918.00914	387.14673
+Slovenski politiki in elita letijo visoko in poceni….., b…	1	6865.81927	678.42605
+Zaimki	1	210837.86681	20833.33333
+Oto	1	24743.80833	2444.98778
+Tabu tema	1	2372.8529	234.46659
+RESETIRATI ZAKONODAJO!	1	2510.59727	248.0774
+Proti obsodbi REVOLUCIJE!	1	787.38175	77.80285
+Rešitev - povečajmo novinarstvo... ...zakaj prihaja do krat…	1	2174.98767	214.91511
+Sodba z dne 05.06.2013	1	4534.14767	448.02867
+Mir	1	8363.8162	826.44628
+Kazenski zakonik	1	17211.25443	1700.68027
+KAJ SE GREDO GOSPODJE PRI VTA	1	6103.87069	603.13631
+Fašistična lustracija	1	6041.92096	597.01493
+Dobro jutro Slovenija!	1	20569.54798	2032.52033
+Isra el	1	33846.88163	3344.48161
+Krščanska mentalna okupacija	1	1114.43867	110.12003
+KATOLIŠKA AKCIJA	1	11282.29388	1114.8272
+Moj predlog ob morebitni spremembi Ustave RS	1	37621.62679	3717.47212
+EM: APOKALIPSA SLOVENSKEGA VSTAJNIŠTVA?	1	2303.19017	227.58307
+O, pa ti si naša	1	3277.27254	323.8342
+Zdravstvene posvetovalnice Hujšanje tako in drugače Ura…	1	249.42003	24.64572
+Desničarska &#34;logika&#34;	1	14075.40696	1390.82058
+Draga Domovina	1	11592.46003	1145.47537
+ALI SO TO ŽE ČASI, KO ŽIVI ZAVIDAJO MRTVIM?	1	7086.98712	700.28011
+SLOVENISTAN - PRAVNOMEDIJSKI DREKAČI	1	2359.02508	233.10023
+Za kaj se sploh gre?	1	8634.99796	853.24232
+Alenka Bratušek je volk iz Rdeče kapice	1	13263.71901	1310.61599
+Titov prvi &#34;Ne!&#34;	1	2286.53809	225.93764
+Moja Mura 2013	1	2841.1616	280.74116
+Zdravstvene posvetovalnice Pediatrija Neonatologija	1	71.57257	7.07224
+Spisek	1	4560.71095	450.65345
+Slovenski neoliberalizem	1	12120.02109	1197.60479
+Moderni templarji	1	10284.77399	1016.26016
+Verouk v šolah	1	18039.60358	1782.53119
+Mesićeva izjava in njeno povzemanje.......	1	4257.55894	420.69836
+Izdajalski škof Rožman - moj pogled	1	688.54386	68.03647
+Ali je Majerju dokončna delitev naroda uspela?	1	3749.61749	370.5076
+Triumviratu Solidarnosti na pot	1	4731.28453	467.50818
+Kaj v resnici maši žile?	1	2497.58579	246.79171
+STANJE DUHA IN POLITIKE V SLOVENIJI	1	8731.85298	862.81277
+PTUJSKI RDEČI LÜK	1	11740.39166	1160.09281
+ŽižekŽižek	1	794.86472	78.54226
+Onkologija Rak debelega črevesa in danke	1	336.18635	33.21928
+CINIZMI ALI CERIZMI	1	17661.81083	1745.2007
+Arsen Dedić † 17. avgust 2015, Zagreb	1	17943.64824	1773.04965
+KPK + Štefanec et al = farsa na kvadrat	1	16402.29758	1620.74554
+Ni daleč...	1	4090.62959	404.20372
+SMC ali država prijazna politikom	1	4489.89246	443.65572
+Idrija- Terenske vaje	1	10411.74651	1028.80658
+Dan družine	1	22589.77144	2232.14286
+Pogled skozi okno - roman	1	104.1614	10.29241
+Bevški župnik volivce opozarjal na smrtni greh	1	2612.34321	258.13113
+Prekop	1	2771.14392	273.82256
+Depra	1	841.87818	83.18775
+Opanke se ponovno vračajo v modo	1	18333.72755	1811.5942
+Zdravstvene posvetovalnice Interna medicina Kardiologija	1	36.7647	3.6328
+Starševstvo in medsebojni odnosi Porod po meri ženske	1	82.78026	8.17969
+ABC Med.Over.Net O Med.Over.Net	1	287.74324	28.43252
+Dom, tehnika in prosti čas Domače živali	1	54.47802	5.38309
+Zdravstvene posvetovalnice Kirurgija Urologija	1	77.75213	7.68285
+Dom, tehnika in prosti čas Politični čvek	1	72.60465	7.17422
+Lepota, nega in stil Transplantacijska medicina Darovan…	1	433.95299	42.87981
+Zdravstvene posvetovalnice Onkologija Limfom in levkemi…	1	98.65875	9.74868
+Starševstvo in medsebojni odnosi Sex v mestu	1	180.04301	17.79043
+A.com Vozila prihodnosti	1	3.77746	0.37326
+A.com Avtokozmetika	1	21.29841	2.10454
+Ostalo Zabavni kotiček	1	7.47155	0.73828
+Vprašanja &amp; odgovori Nebo in Zemlja	1	123.69031	12.2221
+A.com Tuning	1	7.35737	0.727
+Vprašanja &amp; odgovori Živa sila	1	31.03819	3.06695
+text.type	Frequency	Relative density	Relative in text types
+tweet	1091	72.89957	7.20336
+post	1078	167.01088	16.5027
+comment	330	92.44897	9.13508
+text.lang	Frequency	Relative density	Relative in text types
+slv	2468	107.16083	10.58879
+hbs	27	142.93681	14.12389
+eng	3	1.88457	0.18622
+und	1	5.60459	0.5538
+text.source	Frequency	Relative density	Relative in text types
+private	2137	99.5219	9.83397
+corporate	362	102.91897	10.16964
+text.sex	Frequency	Relative density	Relative in text types
+male	1860	118.4994	11.70918
+neutral	363	101.22628	10.00238
+female	276	48.35587	4.77815
+text.sentiment	Frequency	Relative density	Relative in text types
+positive	1056	180.74198	17.8595
+negative	808	75.04687	7.41554
+neutral	635	75.76832	7.48683
+Technical standardness	Frequency	Relative density	Relative in text types
+T1	2032	129.30692	12.77709
+T2	378	50.59613	4.99951
+T3	89	49.32048	4.87346
+Linguistic standardness	Frequency	Relative density	Relative in text types
+L1	1940	155.82875	15.39777
+L2	515	51.09582	5.04889
+L3	44	17.87648	1.76641
+text.year	Frequency	Relative density	Relative in text types
+2014	592	90.66788	8.95908
+2013	414	121.65622	12.02111
+2015	340	70.19537	6.93615
+2016	271	74.77868	7.38904
+2012	255	280.09122	27.6764
+2011	212	236.61286	23.38021
+2010	159	191.20748	18.89361
+2017	115	82.74209	8.17592
+2009	98	136.72912	13.51049
+2008	20	36.93038	3.64917
+2003	6	40.44067	3.99603
+2004	5	20.55906	2.03148
+2006	4	14.66996	1.44957
+2005	4	17.49141	1.72836
+2007	4	11.48799	1.13515
+text.month	Frequency	Relative density	Relative in text types
+2014-08	69	129.07377	12.75405
+2014-09	63	84.06915	8.30705
+2013-12	62	132.65976	13.10839
+2014-01	62	112.77072	11.14311
+2014-07	60	89.70732	8.86417
+2014-03	56	94.86234	9.37355
+2013-10	54	115.55171	11.41791
+2014-05	52	101.82509	10.06155
+2013-09	51	104.21421	10.29763
+2014-02	47	87.84188	8.67984
+2014-06	47	75.67062	7.47717
+2013-11	47	122.67867	12.12214
+2014-04	44	116.46024	11.50768
+2013-08	43	102.76628	10.15455
+2012-02	42	608.97124	60.17373
+2015-11	40	91.7007	9.06114
+2015-06	39	101.47183	10.02665
+2016-01	38	107.52189	10.62446
+2014-10	35	70.633	6.9794
+2013-06	34	104.02272	10.2787
+2015-12	32	73.36212	7.24907
+2015-03	32	88.83157	8.77763
+2015-09	32	72.65145	7.17884
+2015-05	31	70.48316	6.96459
+2014-12	31	69.11844	6.82974
+2011-12	30	344.02343	33.99368
+2012-03	30	416.91709	41.19645
+2016-06	29	98.54589	9.73753
+2016-03	28	82.07387	8.10989
+2015-01	28	71.43306	7.05845
+2016-05	27	83.26006	8.2271
+2015-04	26	62.66886	6.19244
+2013-05	26	281.92015	27.85712
+2012-06	26	373.01307	36.85821
+2014-11	26	58.07155	5.73817
+2017-02	24	97.48124	9.63233
+2011-11	24	304.67709	30.10578
+2016-11	24	86.61184	8.5583
+2015-08	24	63.22215	6.24711
+2017-03	23	88.13494	8.7088
+2011-02	23	282.56513	27.92086
+2010-11	23	298.63184	29.50844
+2017-01	23	83.5932	8.26002
+2015-10	23	50.92194	5.0317
+2013-07	23	64.21183	6.34491
+2011-09	22	243.52965	24.06368
+2016-02	21	64.94801	6.41765
+2012-10	21	294.99274	29.14885
+2016-10	21	74.47921	7.35945
+2011-10	21	319.33851	31.55451
+2012-05	20	294.03424	29.05414
+2016-04	20	62.02906	6.12922
+2016-07	20	68.96667	6.81474
+2012-04	20	289.89576	28.64521
+2013-04	20	218.27631	21.56834
+2012-07	20	311.98552	30.82795
+2015-02	20	59.25762	5.85537
+2017-04	20	92.9144	9.18107
+2013-03	20	208.92015	20.64384
+2016-09	19	67.45209	6.66508
+2013-02	19	202.48172	20.00765
+2011-05	19	324.11117	32.02611
+2011-01	19	216.60668	21.40336
+2010-09	18	258.91812	25.58424
+2012-01	18	217.53019	21.49462
+2012-11	17	203.12293	20.071
+2012-12	17	191.89248	18.9613
+2010-02	17	239.5121	23.66669
+2017-05	16	69.13484	6.83136
+2011-06	16	250.93911	24.79582
+2010-01	16	226.51963	22.38288
+2013-01	15	126.07962	12.45819
+2010-03	15	183.47887	18.12993
+2016-12	15	58.86083	5.81616
+2010-12	14	191.62905	18.93527
+2010-10	14	187.51388	18.52864
+2012-09	13	135.0849	13.34802
+2015-07	13	35.06646	3.46499
+2011-07	12	177.45376	17.53458
+2010-07	11	207.32049	20.48577
+2012-08	11	144.32132	14.26069
+2009-03	11	192.28127	18.99972
+2009-04	11	190.08933	18.78313
+2009-11	11	155.96483	15.41121
+2010-04	10	155.87719	15.40255
+2011-03	10	121.06334	11.96252
+2009-08	10	158.87362	15.69864
+2009-07	10	214.05946	21.15167
+2017-06	9	55.9456	5.5281
+2011-08	9	127.71656	12.61994
+2010-05	9	137.86615	13.62284
+2009-06	9	168.21362	16.62154
+2016-08	9	32.19406	3.18116
+2010-06	8	136.22882	13.46106
+2009-05	8	154.54843	15.27126
+2011-04	7	113.42502	11.20776
+2009-12	7	106.48809	10.52231
+2009-02	6	113.03128	11.16886
+2009-10	6	90.27808	8.92057
+2009-09	5	82.96484	8.19793
+2008-12	5	101.31869	10.01151
+2010-08	4	55.00619	5.43528
+2009-01	4	56.60124	5.59289
+2008-01	3	66.72084	6.59283
+2008-11	3	61.23902	6.05116
+2008-09	3	63.23832	6.24871
+2005-11	2	146.44061	14.4701
+2004-08	2	85.59952	8.45827
+2003-08	2	149.16784	14.73959
+2003-02	2	176.59037	17.44927
+2008-02	2	48.63139	4.80537
+2004-07	2	99.09201	9.79149
+2007-07	2	79.57647	7.86312
+2006-04	1	42.27538	4.17732
+2008-08	1	22.43836	2.21718
+2005-08	1	66.62289	6.58315
+2006-02	1	37.17907	3.67374
+2005-06	1	44.37913	4.3852
+2003-04	1	89.84568	8.87784
+2004-09	1	55.86867	5.5205
+2006-08	1	43.62746	4.31092
+2007-11	1	23.68405	2.34027
+2006-12	1	45.10042	4.45647
+2008-03	1	24.92947	2.46333
+2003-06	1	99.65258	9.84688
+2008-06	1	21.13963	2.08885
+2008-05	1	20.03476	1.97968
+2007-02	1	43.65644	4.31378
+text.date	Frequency	Relative density	Relative in text types
+2014-08-09	15	1780.64168	175.94895
+2013-12-14	14	807.78489	79.81893
+2014-07-10	13	479.48957	47.37937
+2014-09-05	13	466.02751	46.04916
+2012-02-27	12	4401.52989	434.92443
+2014-10-01	12	548.27116	54.17583
+2014-09-07	11	594.22651	58.71677
+2013-10-18	11	744.8257	73.59779
+2014-08-17	9	517.04403	51.09021
+2014-03-29	9	645.91637	63.82436
+2014-08-27	9	348.77258	34.46295
+2014-07-02	8	318.98185	31.51927
+2014-08-19	8	361.58162	35.72864
+2013-12-15	8	485.09713	47.93347
+2014-01-08	8	414.58249	40.96577
+2017-03-08	8	788.30173	77.89375
+2012-02-09	8	2773.4222	274.04768
+2011-12-03	8	4356.06052	430.43151
+2012-06-13	8	3228.52577	319.01743
+2014-05-09	8	560.72347	55.40627
+2011-09-24	8	4308.3089	425.71307
+2014-01-20	7	360.09517	35.58176
+2011-06-10	7	3975.84034	392.86115
+2011-02-05	7	2764.97886	273.21338
+2013-08-29	7	459.83969	45.43773
+2014-02-12	7	307.01616	30.33691
+2011-01-13	7	2025.7799	200.17158
+2013-10-09	6	371.96426	36.75457
+2009-08-15	6	2102.46548	207.74904
+2016-01-14	6	447.43428	44.21192
+2013-09-23	6	331.34327	32.74073
+2014-04-13	6	1080.02749	106.71979
+2013-05-07	6	1443.27119	142.61266
+2013-08-23	6	432.67283	42.75331
+2013-09-26	6	373.41221	36.89765
+2010-11-13	6	3334.13714	329.45311
+2014-01-27	6	316.00169	31.22479
+2011-10-25	6	1940.72186	191.76681
+2011-12-25	6	3935.2758	388.85288
+2014-03-20	6	286.46584	28.30629
+2012-11-11	6	1788.76173	176.75131
+2013-06-06	6	544.48803	53.80201
+2012-03-12	6	2245.77652	221.9099
+2011-12-11	6	650.16977	64.24464
+2012-06-06	6	3159.77029	312.22355
+2016-01-30	5	486.5115	48.07323
+2016-10-18	5	443.0802	43.78169
+2016-01-08	5	417.90415	41.29399
+2012-02-19	5	1769.57818	174.85574
+2015-06-11	5	307.918	30.42603
+2010-10-06	5	1519.91734	150.18623
+2013-11-03	5	420.04107	41.50514
+2017-02-21	5	549.89826	54.3366
+2013-12-21	5	631.84227	62.43366
+2015-11-13	5	331.45396	32.75166
+2012-02-23	5	2376.97708	234.87411
+2012-02-10	5	1799.1498	177.77778
+2010-01-12	5	1912.21707	188.95019
+2010-11-30	5	1839.50444	181.7653
+2014-02-27	5	226.12283	22.34367
+2014-09-16	5	195.08327	19.27659
+2016-05-09	5	490.00724	48.41865
+2017-04-11	5	580.10809	57.3217
+2016-06-03	5	446.78505	44.14777
+2011-10-04	5	2192.61149	216.65656
+2014-07-20	5	360.26292	35.59834
+2010-12-12	5	2238.58999	221.19979
+2011-09-07	5	1582.56984	156.37706
+2013-09-18	5	185.64846	18.34432
+2015-06-10	5	336.11042	33.21178
+2014-05-19	5	252.27762	24.92808
+2015-08-15	5	577.51932	57.0659
+2013-09-13	5	306.06854	30.24328
+2010-09-30	5	2109.96114	208.4897
+2014-05-20	5	265.82484	26.26671
+2012-05-23	5	2503.64099	247.39004
+2012-04-07	5	1144.53616	113.09403
+2011-03-13	5	2276.86681	224.982
+2009-03-30	5	2055.53431	203.11167
+2012-04-28	5	4871.10975	481.32461
+2011-11-02	5	1822.7401	180.10879
+2012-12-12	5	1495.08312	147.73231
+2013-12-11	5	292.90156	28.94222
+2014-08-18	5	285.81242	28.24173
+2015-04-30	5	368.10161	36.37289
+2011-11-14	4	1396.18095	137.95958
+2014-12-16	4	234.29277	23.15096
+2012-03-03	4	2219.2243	219.28622
+2014-12-03	4	245.58568	24.26684
+2014-10-15	4	203.32235	20.09071
+2015-11-12	4	276.95703	27.36671
+2013-11-02	4	319.974	31.6173
+2013-06-23	4	392.59126	38.79277
+2015-11-10	4	222.89387	22.02461
+2015-05-12	4	286.64097	28.3236
+2012-02-14	4	2079.35435	205.46538
+2013-09-20	4	193.91383	19.16103
+2013-06-04	4	400.65789	39.58985
+2013-06-11	4	406.20198	40.13767
+2010-04-10	4	3013.98782	297.81848
+2013-10-29	4	240.67391	23.7815
+2015-12-04	4	270.02368	26.68161
+2014-03-10	4	223.26513	22.0613
+2015-10-06	4	300.41462	29.6846
+2014-05-23	4	297.59	29.40549
+2016-04-18	4	355.98219	35.17535
+2014-02-04	4	201.32425	19.89327
+2014-04-16	4	526.95744	52.06977
+2011-11-05	4	1665.87944	164.60905
+2012-10-11	4	1596.06003	157.71005
+2012-05-10	4	1661.91274	164.21709
+2014-09-09	4	123.5993	12.21311
+2014-11-02	4	348.0878	34.39529
+2015-02-09	4	272.92008	26.96781
+2014-07-03	4	170.26439	16.82418
+2011-09-17	4	1465.58309	144.81735
+2013-11-12	4	465.00874	45.94849
+2011-12-18	4	1682.07722	166.20959
+2013-03-26	4	1082.6657	106.98048
+2016-12-14	4	394.85057	39.01602
+2014-04-27	4	416.20866	41.12645
+2014-07-17	4	195.87297	19.35462
+2015-01-28	4	187.84016	18.56088
+2011-06-14	4	1764.02608	174.30713
+2014-03-04	4	204.22708	20.18011
+2012-09-26	4	1096.18106	108.31596
+2014-01-31	4	205.50856	20.30673
+2016-11-15	4	428.369	42.32804
+2014-06-18	4	162.55093	16.062
+2012-01-29	4	2482.27069	245.27839
+2015-03-09	4	231.84654	22.90925
+2014-05-14	4	191.97165	18.96912
+2014-06-20	4	142.79823	14.11019
+2011-05-23	4	1810.33364	178.88288
+2013-05-20	4	1503.63533	148.57737
+2012-03-28	4	1873.94086	185.16804
+2012-03-20	4	1367.366	135.11231
+2012-10-29	4	1615.35796	159.61692
+2014-12-25	4	386.55555	38.19637
+2013-02-26	4	1427.29252	141.03378
+2012-03-29	4	1997.37852	197.36517
+2013-05-02	4	1118.50327	110.52166
+2011-04-11	4	1124.28124	111.0926
+2012-01-13	4	908.92674	89.81296
+2010-04-22	4	1877.33017	185.50294
+2012-04-22	4	2250.43754	222.37047
+2010-05-22	4	2933.60899	289.87608
+2015-06-02	4	261.63785	25.85299
+2014-01-10	4	212.76159	21.02342
+2012-07-30	4	2131.35736	210.60391
+2013-12-09	4	209.27593	20.67899
+2011-02-15	4	1373.25702	135.69442
+2012-11-19	4	1921.16513	189.83437
+2014-04-07	4	220.86659	21.82429
+2012-10-21	4	1647.10381	162.75379
+2010-09-13	4	1475.68061	145.81511
+2011-09-11	4	785.68543	77.63523
+2013-11-28	4	246.72325	24.37924
+2012-07-22	4	1343.22827	132.72721
+2013-10-23	4	225.81077	22.31284
+2012-12-21	4	1222.39614	120.78753
+2017-01-29	3	384.99921	38.04258
+2015-11-03	3	184.88918	18.26929
+2015-06-05	3	224.41166	22.17459
+2013-08-21	3	192.05879	18.97773
+2016-01-06	3	190.66211	18.83972
+2014-02-06	3	158.78089	15.68947
+2016-11-09	3	219.34511	21.67395
+2014-08-11	3	264.92947	26.17824
+2014-07-11	3	97.90159	9.67386
+2016-03-15	3	263.72132	26.05886
+2016-01-15	3	269.03309	26.58373
+2016-07-10	3	344.54541	34.04526
+2015-03-17	3	195.4905	19.31683
+2016-07-04	3	289.45783	28.60194
+2014-01-24	3	157.81113	15.59365
+2013-12-23	3	204.23017	20.18041
+2009-05-31	3	2316.36933	228.88533
+2016-01-05	3	222.75854	22.01124
+2017-01-10	3	336.01891	33.20274
+2014-04-29	3	125.22129	12.37338
+2014-09-06	3	125.17328	12.36863
+2014-09-18	3	102.63461	10.14154
+2015-05-09	3	202.44214	20.00373
+2016-01-27	3	255.94669	25.29063
+2014-06-05	3	146.03278	14.42981
+2013-08-19	3	208.01949	20.55484
+2014-05-28	3	149.81152	14.80319
+2013-11-26	3	145.86299	14.41303
+2015-02-06	3	164.02209	16.20737
+2016-12-15	3	301.27167	29.76929
+2015-05-26	3	195.68707	19.33625
+2013-11-19	3	169.47625	16.7463
+2013-05-27	3	1155.71575	114.19871
+2014-01-14	3	147.22886	14.54799
+2012-11-22	3	1114.23418	110.09982
+2014-08-26	3	112.67472	11.13363
+2012-10-01	3	1652.46029	163.28308
+2015-10-20	3	191.10014	18.88301
+2012-01-05	3	624.89766	61.74745
+2010-12-02	3	1488.48619	147.08045
+2013-10-22	3	173.8202	17.17554
+2012-12-03	3	466.29069	46.07516
+2013-06-25	3	264.29065	26.11512
+2014-02-23	3	197.86919	19.55187
+2017-01-13	3	266.88572	26.37154
+2016-02-25	3	239.35049	23.65073
+2012-09-02	3	1367.78181	135.1534
+2010-02-21	3	736.96271	72.82084
+2010-03-26	3	1332.3088	131.64824
+2014-09-20	3	143.60147	14.18956
+2013-04-13	3	1215.54441	120.1105
+2013-07-24	3	320.51701	31.67096
+2014-06-02	3	118.16794	11.67642
+2015-09-17	3	198.47326	19.61156
+2009-10-28	3	1036.23512	102.39257
+2014-02-03	3	159.51083	15.7616
+2013-12-04	3	166.18673	16.42126
+2015-12-18	3	158.78504	15.68988
+2013-12-31	3	232.77711	23.0012
+2013-11-27	3	202.38546	19.99813
+2014-04-28	3	151.883	15.00788
+2015-01-08	3	204.76461	20.23322
+2013-09-27	3	191.11819	18.88479
+2015-06-18	3	227.56892	22.48656
+2017-03-06	3	348.61239	34.44712
+2013-07-29	3	207.98672	20.55161
+2012-06-29	3	1889.04012	186.66003
+2013-04-07	3	656.04937	64.82562
+2014-08-22	3	134.70514	13.3105
+2013-10-26	3	226.81578	22.41214
+2014-06-24	3	124.96153	12.34771
+2014-06-23	3	134.7757	13.31747
+2014-06-14	3	177.15917	17.50547
+2009-04-04	3	2623.17719	259.20166
+2014-05-15	3	133.51563	13.19296
+2010-12-25	3	778.95764	76.97044
+2015-05-14	3	193.79841	19.14963
+2016-09-05	3	281.73541	27.83887
+2010-07-13	3	1890.80481	186.8344
+2011-08-23	3	1820.4013	179.87768
+2013-03-06	3	939.49291	92.83327
+2014-01-16	3	155.6334	15.37846
+2014-03-06	3	143.09318	14.13934
+2013-11-23	3	217.7546	21.51679
+2009-09-06	3	1415.28309	139.8471
+2013-08-11	3	304.99425	30.13712
+2012-07-10	3	1134.46875	112.09925
+2011-05-06	3	1709.68875	168.93794
+2015-04-13	3	189.88819	18.76325
+2015-11-19	3	185.95365	18.37447
+2013-10-24	3	165.4793	16.35136
+2015-09-03	3	201.63813	19.92429
+2014-03-24	3	158.17618	15.62972
+2010-07-28	3	1308.085	129.25463
+2011-12-06	3	1695.55751	167.54161
+2011-11-03	3	1390.33076	137.38151
+2014-02-20	3	134.53323	13.29351
+2010-02-20	3	908.07719	89.72902
+2015-03-02	3	208.6901	20.62111
+2015-05-03	3	243.97236	24.10742
+2012-05-14	3	1528.19514	151.00418
+2016-06-08	3	279.28628	27.59686
+2011-11-26	3	1693.28794	167.31735
+2013-04-04	3	515.21607	50.90958
+2010-02-03	3	999.79098	98.79145
+2013-02-03	3	773.18493	76.40003
+2013-07-15	3	234.37461	23.15905
+2014-01-22	3	165.88255	16.3912
+2014-05-13	3	143.68982	14.19829
+2013-02-20	3	1017.1073	100.50251
+2013-08-20	3	198.06411	19.57113
+2011-01-21	3	1090.54069	107.75862
+2014-04-18	3	484.76214	47.90037
+2012-05-09	3	1166.3716	115.25163
+2017-04-14	3	362.23412	35.79312
+2013-01-28	3	802.66101	79.31262
+2009-03-18	3	2783.08303	275.00229
+2010-02-28	3	845.55932	83.5515
+2011-05-11	3	1382.41749	136.59958
+2009-07-23	3	2631.36183	260.0104
+2009-11-01	3	1196.76191	118.25456
+2013-03-14	3	966.2228	95.47451
+2014-06-30	3	134.77271	13.31718
+2016-06-07	3	288.64601	28.52172
+2010-02-13	3	1405.19545	138.85032
+2010-11-21	3	1440.12204	142.30149
+2014-01-25	3	227.4973	22.47949
+2011-07-12	3	1813.00925	179.14726
+2012-03-31	3	1456.4957	143.91941
+2013-05-12	3	1021.41881	100.92854
+2009-07-21	3	1942.70878	191.96314
+2015-09-22	3	182.10346	17.99403
+2012-10-15	2	721.73853	71.3165
+2009-06-16	2	904.07518	89.33357
+2015-10-29	2	128.20951	12.66865
+2016-11-21	2	205.80215	20.33574
+2014-02-13	2	99.04013	9.78636
+2015-03-13	2	130.61969	12.90681
+2014-05-29	2	99.21296	9.80344
+2016-06-26	2	242.57763	23.96961
+2014-07-08	2	70.50721	6.96697
+2014-11-15	2	147.50139	14.57492
+2013-06-24	2	138.23073	13.65887
+2017-01-08	2	237.8765	23.50508
+2016-03-08	2	172.1023	17.00579
+2015-05-16	2	176.10179	17.40099
+2013-07-10	2	149.3164	14.75427
+2017-02-17	2	199.53897	19.71687
+2015-04-02	2	143.96782	14.22576
+2014-12-11	2	126.86826	12.53612
+2012-07-04	2	1203.71307	118.94142
+2013-04-09	2	586.42431	57.94582
+2016-04-29	2	187.05465	18.48326
+2016-03-09	2	166.55779	16.45793
+2017-04-28	2	293.97872	29.04866
+2015-08-23	2	176.07575	17.39842
+2014-06-12	2	87.5228	8.64831
+2013-10-07	2	133.90251	13.23119
+2015-12-28	2	197.01021	19.46699
+2013-08-30	2	140.28094	13.86145
+2016-10-15	2	230.28233	22.75468
+2010-03-08	2	707.11414	69.87144
+2015-11-18	2	121.04003	11.96022
+2013-11-07	2	121.01904	11.95815
+2013-12-06	2	127.42736	12.59137
+2014-03-21	2	111.18186	10.98611
+2016-06-29	2	212.24843	20.97271
+2014-06-11	2	84.23091	8.32303
+2016-10-13	2	178.27799	17.61602
+2016-02-07	2	207.49631	20.50315
+2016-11-16	2	196.3699	19.40372
+2016-09-20	2	217.17205	21.45923
+2015-02-01	2	150.9185	14.91258
+2017-05-28	2	363.27216	35.89569
+2016-09-19	2	190.86647	18.85992
+2011-07-05	2	716.12069	70.76139
+2009-06-09	2	733.6149	72.49003
+2016-10-08	2	256.01036	25.29692
+2016-05-29	2	246.90082	24.39679
+2015-04-01	2	168.9547	16.69477
+2013-10-10	2	116.98524	11.55956
+2017-03-31	2	254.25127	25.1231
+2015-11-07	2	160.20988	15.83068
+2014-09-14	2	92.49472	9.1396
+2015-04-21	2	123.20543	12.17419
+2014-01-30	2	75.55079	7.46533
+2016-07-30	2	222.80677	22.01601
+2016-02-28	2	196.97378	19.46339
+2013-08-18	2	161.27451	15.93587
+2014-01-23	2	106.82942	10.55604
+2013-09-08	2	148.41314	14.66501
+2014-04-08	2	113.85935	11.25068
+2016-05-31	2	174.05438	17.19868
+2015-04-24	2	138.67206	13.70248
+2016-12-04	2	239.10733	23.6267
+2015-06-24	2	156.61002	15.47497
+2015-04-22	2	128.91422	12.73829
+2016-03-02	2	178.27328	17.61556
+2014-06-17	2	72.2349	7.13768
+2016-08-02	2	246.90684	24.39738
+2013-11-18	2	149.91138	14.81306
+2016-12-31	2	258.25117	25.51834
+2009-12-12	2	869.28514	85.89589
+2015-08-26	2	142.96314	14.12649
+2017-02-11	2	280.33456	27.70045
+2014-11-01	2	180.86028	17.87118
+2015-09-12	2	161.01279	15.91001
+2013-11-01	2	184.96747	18.27702
+2013-04-16	2	812.2165	80.25682
+2011-02-22	2	791.97227	78.25645
+2015-09-01	2	119.95469	11.85298
+2015-01-31	2	161.34136	15.94248
+2013-10-08	2	130.34547	12.87971
+2009-11-22	2	988.10951	97.63718
+2017-02-27	2	233.6801	23.09042
+2004-08-11	2	1302.22191	128.67529
+2014-08-16	2	134.03019	13.24381
+2013-12-20	2	135.39749	13.37891
+2016-04-20	2	170.32672	16.83034
+2014-09-30	2	94.43453	9.33127
+2010-03-07	2	920.60562	90.96698
+2014-11-20	2	117.64138	11.62439
+2016-07-09	2	249.35857	24.63965
+2015-01-15	2	256.11726	25.30749
+2010-05-29	2	1010.30424	99.83029
+2016-11-07	2	226.7277	22.40344
+2013-01-13	2	477.43632	47.17649
+2014-04-14	2	347.00467	34.28826
+2016-09-01	2	202.9625	20.05515
+2011-03-28	2	644.78466	63.71253
+2010-09-15	2	751.76182	74.28317
+2015-03-10	2	101.00925	9.98094
+2014-07-14	2	71.8393	7.09859
+2012-06-10	2	872.31975	86.19575
+2015-07-14	2	154.23869	15.24065
+2009-06-12	2	1276.9185	126.175
+2011-02-10	2	775.58475	76.63716
+2010-10-24	2	987.14569	97.54194
+2016-11-26	2	242.79879	23.99146
+2013-09-06	2	128.84201	12.73115
+2011-05-13	2	1148.65417	113.50094
+2012-07-18	2	787.81081	77.84524
+2008-01-28	2	774.42743	76.5228
+2015-04-26	2	171.99408	16.9951
+2015-03-05	2	114.13865	11.27828
+2013-08-27	2	119.4711	11.80519
+2011-10-13	2	871.45592	86.11039
+2012-07-02	2	977.46826	96.5857
+2010-01-28	2	742.35963	73.35412
+2016-05-23	2	163.53529	16.15927
+2013-10-14	2	120.49599	11.90646
+2016-03-19	2	229.44437	22.67188
+2014-09-19	2	76.67441	7.57636
+2016-09-24	2	262.04264	25.89298
+2017-02-05	2	250.51904	24.75431
+2014-06-26	2	88.88963	8.78337
+2010-03-13	2	406.0105	40.11875
+2015-02-12	2	126.72131	12.5216
+2014-10-13	2	126.27149	12.47715
+2011-05-05	2	568.10473	56.13562
+2016-05-06	2	198.43175	19.60746
+2015-12-01	2	128.60378	12.70761
+2015-09-14	2	143.33571	14.1633
+2014-01-07	2	99.66337	9.84795
+2014-08-15	2	110.52013	10.92073
+2009-05-21	2	1257.71672	124.27764
+2014-01-11	2	127.69266	12.61758
+2015-01-25	2	136.4398	13.4819
+2015-07-20	2	141.07094	13.93952
+2011-01-27	2	518.13525	51.19803
+2012-02-20	2	807.06708	79.748
+2015-06-01	2	140.90006	13.92263
+2014-04-30	2	114.20434	11.28477
+2014-03-03	2	56.1011	5.54347
+2010-09-02	2	621.0437	61.36663
+2016-02-24	2	169.50795	16.74944
+2013-11-29	2	112.09687	11.07653
+2015-03-04	2	92.39381	9.12963
+2015-05-04	2	123.80228	12.23316
+2014-01-17	2	113.69179	11.23412
+2015-01-02	2	163.28067	16.13411
+2017-01-15	2	279.15916	27.5843
+2013-04-22	2	847.30556	83.72405
+2010-06-17	2	804.05336	79.4502
+2011-03-06	2	1379.7161	136.33265
+2011-02-18	2	745.14727	73.62957
+2005-11-23	2	3296.48782	325.7329
+2009-07-03	2	741.21783	73.24129
+2013-12-27	2	159.58587	15.76902
+2014-07-09	2	76.97651	7.60621
+2014-10-10	2	118.3935	11.69871
+2014-09-01	2	74.69677	7.38095
+2014-09-11	2	65.46764	6.469
+2014-06-25	2	111.39603	11.00728
+2013-11-11	2	296.5675	29.30446
+2009-12-22	2	1156.66239	114.29225
+2010-08-05	2	1171.72833	115.78094
+2013-03-28	2	588.88119	58.18859
+2014-04-04	2	111.20935	10.98883
+2014-03-28	2	86.61974	8.55908
+2014-02-25	2	114.51513	11.31548
+2011-10-24	2	610.23985	60.29908
+2014-03-19	2	86.42372	8.53971
+2015-01-05	2	137.09688	13.54683
+2010-06-19	2	710.09105	70.16559
+2014-07-29	2	89.18967	8.81302
+2013-09-09	2	139.58247	13.79244
+2014-03-30	2	127.20393	12.56929
+2014-02-18	2	84.65649	8.36509
+2015-12-24	2	190.46595	18.82034
+2014-07-05	2	129.73973	12.81986
+2015-09-05	2	134.43256	13.28356
+2014-09-25	2	68.93036	6.81115
+2016-03-14	2	206.1837	20.37345
+2015-09-04	2	129.21544	12.76805
+2012-01-02	2	395.40595	39.07089
+2009-04-14	2	587.76964	58.07875
+2010-01-17	2	1109.24729	109.60706
+2014-06-19	2	78.25173	7.73222
+2014-07-22	2	93.47377	9.23634
+2012-08-08	2	568.98308	56.22242
+2015-11-29	2	140.33638	13.86693
+2014-10-17	2	114.11484	11.27593
+2014-03-27	2	106.31207	10.50492
+2010-11-07	2	799.19589	78.97023
+2015-02-07	2	148.40987	14.66469
+2011-10-14	2	882.32063	87.18396
+2015-08-13	2	156.72522	15.48635
+2016-01-10	2	169.67278	16.76572
+2013-02-12	2	547.77903	54.1272
+2012-05-24	2	823.01611	81.32395
+2014-02-19	2	87.94224	8.68976
+2010-11-01	2	626.60006	61.91567
+2014-09-22	2	77.32913	7.64105
+2014-08-25	2	90.28935	8.92168
+2014-03-08	2	108.78504	10.74928
+2012-04-10	2	735.13367	72.6401
+2009-04-19	2	1237.64432	122.29424
+2014-05-18	2	105.00656	10.37592
+2014-03-14	2	116.5588	11.51742
+2011-10-15	2	1416.30643	139.94822
+2012-06-02	2	551.96169	54.5405
+2015-09-23	2	118.85583	11.74439
+2014-08-04	2	217.09285	21.4514
+2015-05-15	2	121.78434	12.03377
+2012-08-06	2	762.84006	75.37783
+2015-06-29	2	160.6371	15.87289
+2013-11-06	2	125.80998	12.43155
+2009-12-03	2	684.63115	67.64984
+2014-09-10	2	66.15019	6.53644
+2010-05-03	2	969.83398	95.83134
+2014-03-07	2	113.83886	11.24866
+2011-01-29	2	675.44668	66.74231
+2014-02-01	2	133.61787	13.20306
+2015-10-07	2	122.88603	12.14263
+2013-10-05	2	170.97128	16.89403
+2013-05-30	2	548.20929	54.16971
+2013-10-03	2	120.48452	11.90533
+2014-05-08	2	103.6366	10.24055
+2009-04-15	2	729.4902	72.08246
+2011-02-27	2	616.65403	60.93288
+2015-04-29	2	161.27965	15.93638
+2011-11-20	2	915.69106	90.48136
+2015-11-16	2	139.01016	13.73589
+2013-03-18	2	846.45514	83.64001
+2015-12-22	2	150.20397	14.84197
+2012-09-10	2	762.23677	75.31822
+2015-11-02	2	148.29244	14.65309
+2014-10-07	2	125.71152	12.42182
+2013-01-23	2	431.07864	42.59579
+2010-09-18	2	836.79656	82.68563
+2016-04-03	2	211.71118	20.91963
+2011-07-20	2	892.00279	88.14067
+2012-08-20	2	911.23875	90.04142
+2015-03-19	2	128.05782	12.65366
+2014-03-09	2	162.94154	16.1006
+2014-06-21	2	111.76818	11.04405
+2016-10-29	2	263.86342	26.0729
+2015-08-05	2	131.96784	13.04002
+2014-12-17	2	130.87137	12.93168
+2010-10-28	2	807.61452	79.80209
+2009-02-16	2	1328.54842	131.27667
+2010-01-20	2	686.32584	67.8173
+2011-05-15	2	1573.05007	155.43639
+2015-03-27	2	351.98308	34.78019
+2013-01-09	2	602.26843	59.51141
+2011-08-30	2	738.94473	73.01668
+2015-12-27	2	265.14928	26.19996
+2017-06-12	2	256.94635	25.38941
+2013-02-08	2	221.07647	21.84503
+2012-04-04	2	608.91803	60.16847
+2014-07-15	2	73.35777	7.24864
+2015-09-24	2	128.71174	12.71828
+2009-11-08	2	1148.39349	113.47518
+2013-03-21	2	522.36077	51.61557
+2011-01-25	2	506.02353	50.00125
+2014-12-27	2	161.32979	15.94134
+2014-11-12	2	129.54376	12.80049
+2015-03-28	2	414.78852	40.98613
+2014-01-03	2	137.75188	13.61155
+2010-06-30	2	973.75326	96.21861
+2011-08-29	2	919.60178	90.86779
+2011-04-03	2	1231.24492	121.6619
+2013-10-12	2	153.67775	15.18522
+2013-09-16	2	111.51755	11.01928
+2003-08-31	2	3821.83444	377.6435
+2010-03-20	2	525.1527	51.89144
+2013-04-11	2	758.35276	74.93443
+2013-07-09	2	134.2854	13.26902
+2009-02-17	2	1307.01506	129.14891
+2010-01-25	2	836.45075	82.65146
+2016-01-29	2	171.0045	16.89732
+2014-05-24	2	243.14587	24.02576
+2013-07-27	2	242.18579	23.93089
+2016-02-13	2	314.26807	31.05349
+2013-09-02	2	124.36214	12.28848
+2017-03-24	2	240.7283	23.78687
+2015-06-23	2	145.64712	14.3917
+2015-12-21	2	142.37585	14.06846
+2016-06-22	2	177.8144	17.57021
+2013-09-11	2	153.18693	15.13672
+2015-05-21	1	58.77082	5.80727
+2015-01-06	1	51.80689	5.11915
+2014-11-19	1	62.23345	6.14942
+2014-03-01	1	40.35947	3.988
+2013-12-05	1	58.62545	5.7929
+2014-11-08	1	70.69215	6.98524
+2015-03-31	1	117.64002	11.62426
+2017-01-06	1	108.34307	10.70561
+2016-08-24	1	108.81018	10.75176
+2007-07-28	1	1330.20736	131.44059
+2017-04-13	1	119.47886	11.80596
+2016-02-03	1	95.42064	9.42871
+2013-08-14	1	74.01391	7.31347
+2016-10-25	1	105.05562	10.38077
+2016-03-13	1	105.83345	10.45763
+2017-01-20	1	105.13638	10.38875
+2016-04-24	1	88.55478	8.75028
+2015-01-01	1	89.86722	8.87997
+2014-12-30	1	71.13188	7.02869
+2016-05-27	1	96.7026	9.55539
+2013-07-25	1	121.11173	11.96731
+2014-07-25	1	50.2848	4.96875
+2016-08-27	1	152.07396	15.02675
+2016-03-28	1	110.36826	10.90572
+2014-11-03	1	68.65214	6.78366
+2017-06-22	1	142.36183	14.06707
+2014-01-29	1	47.54021	4.69755
+2015-12-29	1	90.49968	8.94246
+2016-04-25	1	99.62413	9.84407
+2017-03-02	1	95.79639	9.46584
+2016-03-01	1	81.08889	8.01256
+2016-05-10	1	88.69604	8.76424
+2016-05-16	1	98.23356	9.70666
+2014-09-04	1	32.30902	3.19252
+2015-12-13	1	80.59937	7.96419
+2014-05-17	1	70.926	7.00835
+2017-05-16	1	116.16011	11.47803
+2015-09-21	1	69.40308	6.85786
+2013-10-01	1	60.99383	6.02693
+2013-12-10	1	49.13657	4.85529
+2016-02-15	1	105.09162	10.38432
+2017-05-24	1	119.95327	11.85284
+2013-07-02	1	71.35859	7.05109
+2016-07-15	1	89.64433	8.85795
+2017-02-15	1	97.10717	9.59536
+2016-05-26	1	87.06238	8.60282
+2017-03-20	1	111.80461	11.04765
+2014-08-31	1	50.47918	4.98795
+2016-04-04	1	96.85531	9.57048
+2015-06-08	1	72.09519	7.12388
+2013-07-17	1	79.63972	7.86937
+2016-02-21	1	109.98085	10.86744
+2016-10-16	1	129.14206	12.7608
+2010-04-19	1	495.04562	48.9165
+2013-08-04	1	102.71934	10.14991
+2015-10-19	1	64.16165	6.33995
+2014-11-29	1	67.79988	6.69945
+2017-02-12	1	136.14337	13.45261
+2015-10-26	1	73.43815	7.25658
+2014-05-05	1	60.38856	5.96712
+2015-12-16	1	53.26402	5.26313
+2015-02-04	1	63.13929	6.23893
+2014-08-29	1	38.47392	3.80169
+2011-02-16	1	402.97116	39.81843
+2015-07-27	1	87.72042	8.66784
+2014-07-28	1	46.19185	4.56431
+2013-05-15	1	399.29839	39.45551
+2013-10-15	1	49.42985	4.88427
+2017-01-04	1	112.10929	11.07775
+2015-11-20	1	64.65808	6.389
+2016-09-17	1	125.63739	12.4145
+2014-11-21	1	57.41121	5.67292
+2013-06-27	1	65.39002	6.46133
+2015-01-20	1	76.73342	7.58219
+2016-11-30	1	101.8274	10.06178
+2016-09-27	1	104.7338	10.34897
+2016-07-25	1	113.18002	11.18356
+2005-08-18	1	1636.51643	161.70763
+2014-10-03	1	42.40078	4.18971
+2017-02-24	1	87.81328	8.67702
+2013-09-19	1	44.09373	4.35699
+2016-07-16	1	120.57639	11.91441
+2016-10-05	1	100.26569	9.90746
+2015-10-15	1	65.18743	6.44131
+2016-11-22	1	106.12978	10.48691
+2016-06-12	1	105.75272	10.44965
+2014-05-16	1	59.73202	5.90225
+2011-05-25	1	438.99786	43.3783
+2013-12-29	1	64.50724	6.3741
+2017-04-06	1	122.47631	12.10214
+2016-12-08	1	150.88813	14.90957
+2016-03-06	1	104.23435	10.29962
+2013-09-15	1	70.89618	7.0054
+2017-03-21	1	122.10393	12.06535
+2016-04-09	1	95.02373	9.3895
+2017-04-25	1	134.97403	13.33707
+2014-01-02	1	63.03036	6.22816
+2014-11-13	1	65.15259	6.43786
+2013-11-24	1	78.74982	7.78144
+2015-08-30	1	106.66559	10.53985
+2014-10-02	1	48.78577	4.82062
+2013-10-30	1	69.94124	6.91104
+2009-08-03	1	382.06802	37.75294
+2016-04-19	1	92.00198	9.09091
+2017-06-19	1	128.57928	12.70519
+2014-10-22	1	54.97549	5.43224
+2015-12-23	1	77.87059	7.69456
+2014-04-10	1	53.44038	5.28056
+2017-02-08	1	124.77921	12.3297
+2016-08-10	1	107.70543	10.6426
+2012-07-25	1	391.51293	38.68622
+2013-10-28	1	69.48265	6.86573
+2013-09-01	1	79.68989	7.87433
+2015-12-14	1	66.18847	6.54022
+2012-08-29	1	684.67746	67.65442
+2016-05-12	1	75.32502	7.44302
+2017-06-01	1	124.30562	12.2829
+2016-01-11	1	68.92848	6.81097
+2017-03-01	1	119.71205	11.829
+2015-09-02	1	75.47163	7.45751
+2016-08-04	1	104.15926	10.2922
+2017-02-19	1	163.35051	16.14101
+2016-04-12	1	86.68949	8.56597
+2013-08-09	1	68.98769	6.81682
+2016-09-28	1	107.46411	10.61875
+2015-05-22	1	68.53359	6.77195
+2016-04-14	1	79.1712	7.82307
+2017-05-17	1	126.46952	12.49672
+2013-06-19	1	83.64162	8.2648
+2013-12-30	1	71.77459	7.0922
+2016-11-04	1	119.97318	11.8548
+2016-06-11	1	110.44896	10.91369
+2009-08-26	1	396.45151	39.17421
+2012-01-06	1	386.23836	38.16503
+2016-04-08	1	84.16401	8.31642
+2015-04-28	1	75.49866	7.46018
+2015-08-21	1	78.61523	7.76814
+2016-12-12	1	125.26107	12.37731
+2017-04-21	1	118.20751	11.68033
+2013-04-20	1	482.85785	47.7122
+2011-06-22	1	303.78272	30.01741
+2013-09-07	1	83.51806	8.2526
+2017-02-18	1	116.84679	11.54588
+2014-08-05	1	72.08081	7.12246
+2015-11-22	1	160.36347	15.84585
+2016-02-06	1	124.92399	12.344
+2016-11-24	1	90.23823	8.91663
+2016-05-02	1	104.36765	10.31279
+2013-12-02	1	65.0663	6.42934
+2016-07-22	1	104.82601	10.35808
+2015-06-12	1	70.96927	7.01262
+2016-03-21	1	84.18642	8.31864
+2012-06-22	1	346.49973	34.23837
+2016-09-22	1	99.64767	9.8464
+2013-08-08	1	73.80555	7.29288
+2016-02-08	1	92.20819	9.11129
+2014-10-19	1	77.80414	7.68799
+2014-06-06	1	54.18575	5.35421
+2016-12-19	1	110.25163	10.8942
+2014-03-26	1	49.51982	4.89316
+2012-03-01	1	433.59973	42.8449
+2017-02-26	1	139.41422	13.77581
+2015-11-21	1	66.45665	6.56672
+2016-03-27	1	107.26933	10.59951
+2009-03-08	1	869.73338	85.94019
+2017-05-05	1	140.09936	13.84351
+2015-03-08	1	79.72316	7.87761
+2017-04-18	1	130.21884	12.8672
+2012-04-24	1	476.5595	47.08985
+2015-02-08	1	86.03871	8.50167
+2014-08-20	1	40.12361	3.9647
+2016-07-19	1	108.93082	10.76368
+2014-10-05	1	79.30397	7.83619
+2014-11-26	1	64.15759	6.33955
+2013-12-25	1	87.83691	8.67935
+2014-05-01	1	73.80555	7.29288
+2015-02-16	1	70.7861	6.99452
+2014-05-31	1	72.71943	7.18556
+2016-08-06	1	121.33826	11.98969
+2015-03-12	1	63.70406	6.29473
+2013-08-28	1	59.42757	5.87216
+2006-12-15	1	1089.83606	107.68899
+2013-11-30	1	75.56744	7.46698
+2014-11-22	1	76.72179	7.58104
+2013-08-12	1	74.8238	7.3935
+2016-02-01	1	88.14215	8.70951
+2017-05-02	1	168.97445	16.69672
+2014-04-25	1	85.88975	8.48695
+2017-06-06	1	138.5041	13.68588
+2014-01-13	1	58.00083	5.73118
+2014-10-26	1	76.23459	7.5329
+2014-02-05	1	49.51764	4.89294
+2009-05-06	1	436.96967	43.17789
+2012-10-06	1	402.66652	39.78833
+2008-12-11	1	417.03621	41.20823
+2016-03-26	1	115.29464	11.39251
+2014-10-29	1	70.27734	6.94425
+2017-01-23	1	109.87696	10.85717
+2017-03-22	1	105.14184	10.38929
+2015-05-23	1	57.02398	5.63466
+2016-01-31	1	126.04737	12.45501
+2015-09-20	1	68.27421	6.74632
+2015-05-08	1	63.7932	6.30354
+2017-05-10	1	133.94327	13.23522
+2017-04-12	1	132.88973	13.13111
+2015-11-11	1	59.53209	5.88249
+2007-07-04	1	1021.31573	100.91836
+2006-02-03	1	1027.53758	101.53315
+2011-01-19	1	289.74512	28.63033
+2013-03-20	1	261.95785	25.88461
+2014-07-23	1	49.07153	4.84886
+2012-01-12	1	321.76706	31.79448
+2005-06-01	1	1077.07723	106.42827
+2015-12-11	1	60.37415	5.9657
+2008-12-12	1	971.88299	96.0338
+2012-11-27	1	265.1076	26.19584
+2011-02-20	1	391.24048	38.6593
+2015-06-19	1	74.10496	7.32247
+2004-07-29	1	658.43966	65.06181
+2014-03-25	1	44.34219	4.38154
+2012-07-24	1	407.285	40.24469
+2003-04-13	1	2625.21858	259.40337
+2014-12-22	1	65.83069	6.50487
+2008-02-01	1	529.96531	52.36699
+2016-10-01	1	147.88937	14.61326
+2011-02-01	1	343.83915	33.97547
+2013-06-01	1	138.96244	13.73117
+2016-05-03	1	92.37905	9.12817
+2008-03-03	1	852.30062	84.21762
+2016-11-17	1	101.74141	10.05328
+2014-12-24	1	77.92755	7.70019
+2014-09-15	1	39.20331	3.87376
+2007-02-19	1	1150.80937	113.7139
+2015-12-19	1	74.65655	7.37697
+2010-08-14	1	440.086	43.48582
+2009-09-17	1	438.10466	43.29004
+2009-09-13	1	713.54563	70.50694
+2015-06-16	1	74.18209	7.33009
+2010-07-11	1	749.59022	74.06859
+2013-02-13	1	331.19147	32.72573
+2010-07-16	1	1073.30763	106.05579
+2011-10-19	1	414.35545	40.94333
+2013-06-20	1	68.56562	6.77511
+2014-03-05	1	49.4021	4.88153
+2014-09-03	1	36.29321	3.58621
+2012-11-26	1	163.37688	16.14361
+2011-09-18	1	309.51517	30.58385
+2014-12-19	1	61.75798	6.10244
+2011-02-28	1	425.4695	42.04154
+2010-11-18	1	269.63519	26.64322
+2012-12-13	1	310.81749	30.71253
+2010-06-11	1	946.96525	93.57163
+2016-03-23	1	85.12038	8.41092
+2010-05-12	1	382.58799	37.80432
+2015-05-05	1	62.92063	6.21732
+2003-02-11	1	1772.98837	175.19271
+2010-08-09	1	407.21944	40.23821
+2012-06-21	1	271.29769	26.8075
+2009-08-30	1	899.415	88.87309
+2012-01-19	1	470.40149	46.48136
+2006-08-21	1	1444.71343	142.75517
+2013-09-10	1	101.08694	9.98861
+2014-10-28	1	59.35542	5.86503
+2012-03-13	1	405.24637	40.04325
+2011-07-13	1	620.18738	61.28202
+2010-03-12	1	399.80317	39.50539
+2010-01-13	1	485.33558	47.95703
+2015-11-27	1	67.69331	6.68892
+2013-06-10	1	98.39497	9.72261
+2011-12-07	1	373.97796	36.95355
+2017-04-19	1	110.54548	10.92323
+2013-11-20	1	60.09024	5.93764
+2013-03-09	1	323.63983	31.97953
+2011-07-06	1	378.21278	37.372
+2009-10-06	1	414.89905	40.99705
+2013-02-27	1	439.89471	43.46692
+2010-12-20	1	582.52562	57.56058
+2010-12-22	1	393.78279	38.91051
+2011-11-27	1	355.2574	35.10373
+2010-10-11	1	288.74483	28.53148
+2015-03-14	1	85.12754	8.41163
+2012-10-30	1	440.91045	43.56729
+2016-06-02	1	96.5292	9.53825
+2012-12-14	1	312.76749	30.90521
+2015-11-25	1	60.54645	5.98272
+2012-01-27	1	357.39018	35.31448
+2012-12-04	1	453.31322	44.79283
+2012-12-07	1	289.10777	28.56735
+2009-11-25	1	495.04562	48.9165
+2013-12-24	1	77.53411	7.66131
+2014-11-23	1	87.30045	8.62634
+2013-04-25	1	380.1449	37.56292
+2017-02-09	1	112.89594	11.15549
+2015-03-20	1	239.97481	23.71242
+2008-11-27	1	422.85621	41.78331
+2014-02-17	1	49.44748	4.88601
+2009-08-01	1	895.99093	88.53475
+2015-06-06	1	101.89609	10.06857
+2017-01-16	1	101.64127	10.04339
+2014-12-02	1	59.45026	5.87441
+2008-09-23	1	845.46513	83.54219
+2013-07-04	1	69.32986	6.85063
+2016-06-23	1	99.84528	9.86592
+2010-02-16	1	295.94741	29.24319
+2014-12-01	1	56.21968	5.55519
+2013-07-08	1	73.25688	7.23867
+2016-11-12	1	136.91882	13.52924
+2010-01-29	1	271.39954	26.81756
+2013-01-07	1	234.15047	23.1369
+2008-08-09	1	856.8468	84.66684
+2017-06-16	1	123.24445	12.17804
+2010-02-15	1	403.43702	39.86446
+2016-02-12	1	108.20753	10.69221
+2010-11-14	1	364.75825	36.04253
+2008-12-31	1	864.97586	85.47009
+2015-03-21	1	215.25508	21.26981
+2015-01-29	1	52.16204	5.15424
+2013-02-19	1	276.66742	27.33809
+2017-03-19	1	152.19974	15.03918
+2016-10-06	1	98.67896	9.75068
+2015-06-28	1	96.7442	9.5595
+2015-12-10	1	59.12067	5.84184
+2012-09-17	1	199.47211	19.71026
+2014-12-28	1	74.79559	7.39071
+2015-06-13	1	105.28294	10.40323
+2013-06-18	1	79.8244	7.88762
+2015-01-22	1	57.67952	5.69943
+2014-06-15	1	63.58239	6.28271
+2010-07-03	1	522.17211	51.59692
+2013-09-05	1	56.65368	5.59807
+2014-07-18	1	46.57642	4.60231
+2013-10-16	1	57.91752	5.72295
+2015-05-13	1	65.40016	6.46233
+2016-01-04	1	82.26482	8.12876
+2013-06-07	1	96.92117	9.57698
+2013-05-18	1	471.49728	46.58964
+2010-10-20	1	301.87077	29.82849
+2014-08-06	1	82.52375	8.15435
+2014-02-24	1	53.97363	5.33325
+2015-09-19	1	64.24678	6.34836
+2016-03-12	1	100.68967	9.94936
+2012-05-12	1	567.94532	56.11987
+2017-05-19	1	131.32395	12.9764
+2016-02-23	1	72.00952	7.11541
+2009-01-26	1	478.47466	47.27909
+2010-09-28	1	687.88864	67.97172
+2012-01-23	1	408.04038	40.31933
+2014-09-13	1	42.70855	4.22012
+2015-11-23	1	92.54801	9.14486
+2012-06-23	1	496.0891	49.01961
+2014-03-17	1	58.17253	5.74815
+2016-06-01	1	95.51881	9.43841
+2008-09-25	1	1171.86401	115.79435
+2004-07-23	1	1143.65664	113.00712
+2014-02-14	1	62.75559	6.20101
+2008-11-03	1	466.0044	46.04688
+2014-02-26	1	48.04098	4.74703
+2009-04-29	1	469.76826	46.41879
+2013-10-02	1	65.66325	6.48832
+2013-04-06	1	270.75332	26.75371
+2013-06-26	1	73.18853	7.23191
+2015-08-03	1	81.85362	8.08813
+2014-05-25	1	80.143	7.9191
+2015-01-09	1	146.62732	14.48855
+2009-02-02	1	299.65409	29.60945
+2013-11-08	1	166.68672	16.47067
+2014-12-13	1	74.63783	7.37512
+2014-01-09	1	56.23093	5.5563
+2012-08-14	1	379.7455	37.52345
+2017-01-31	1	90.25191	8.91798
+2016-05-08	1	114.77163	11.34083
+2014-03-15	1	64.26473	6.35013
+2015-12-06	1	79.9158	7.89665
+2010-06-03	1	429.04094	42.39444
+2013-08-24	1	87.45964	8.64207
+2013-05-17	1	256.21453	25.3171
+2015-11-26	1	56.26125	5.55929
+2017-01-26	1	89.04174	8.7984
+2016-05-07	1	108.43478	10.71467
+2016-03-18	1	83.50566	8.25137
+2015-04-07	1	60.35507	5.96381
+2015-07-23	1	67.30076	6.65013
+2013-09-21	1	70.32813	6.94927
+2015-04-15	1	67.19977	6.64015
+2015-01-12	1	137.80065	13.61637
+2015-11-17	1	57.04263	5.6365
+2013-12-26	1	88.79175	8.7737
+2014-05-07	1	48.47985	4.7904
+2011-11-13	1	307.41852	30.37667
+2013-07-30	1	71.58978	7.07394
+2006-04-21	1	1101.94007	108.88502
+2012-06-11	1	365.97178	36.16244
+2008-12-27	1	886.02851	87.55034
+2015-01-19	1	96.10478	9.49632
+2016-06-20	1	100.5666	9.9372
+2015-10-14	1	60.27742	5.95614
+2012-08-15	1	178.14462	17.60284
+2014-05-27	1	46.64813	4.6094
+2009-02-21	1	1051.23274	103.87452
+2014-04-12	1	224.11182	22.14496
+2012-09-01	1	424.73738	41.96919
+2012-03-26	1	425.72007	42.0663
+2012-07-13	1	435.46547	43.02926
+2010-07-08	1	495.1425	48.92607
+2013-01-04	1	264.38041	26.12398
+2013-09-14	1	69.53612	6.87101
+2016-04-26	1	81.94176	8.09684
+2010-09-14	1	332.10441	32.81594
+2008-01-13	1	854.09888	84.39531
+2013-09-22	1	61.57311	6.08417
+2014-12-31	1	81.1383	8.01745
+2014-02-08	1	66.37383	6.55854
+2013-01-24	1	206.1438	20.3695
+2011-01-07	1	213.13349	21.06017
+2015-07-06	1	72.49491	7.16338
+2010-09-25	1	411.54152	40.66528
+2011-03-20	1	449.26829	44.39315
+2016-06-18	1	228.74167	22.60245
+2008-02-05	1	481.06753	47.53529
+2009-01-28	1	370.82619	36.64212
+2012-11-25	1	433.80418	42.8651
+2015-09-29	1	67.41374	6.66129
+2015-02-10	1	60.27491	5.95589
+2016-05-19	1	87.31853	8.62813
+2015-07-29	1	144.75652	14.3037
+2013-01-27	1	281.39073	27.80481
+2013-08-02	1	68.78092	6.79639
+2010-11-24	1	405.21392	40.04004
+2015-08-08	1	101.91661	10.07059
+2015-09-25	1	67.95695	6.71497
+2012-05-27	1	745.55898	73.67025
+2012-08-23	1	360.20137	35.59226
+2011-10-07	1	410.5565	40.56795
+2015-10-30	1	67.2261	6.64275
+2015-06-17	1	77.16815	7.62515
+2012-09-15	1	428.45968	42.337
+2014-07-07	1	43.81085	4.32904
+2009-10-23	1	554.35022	54.77651
+2012-12-22	1	392.11971	38.74617
+2017-01-30	1	122.50003	12.10449
+2010-12-08	1	330.31587	32.63921
+2011-08-10	1	535.34795	52.89886
+2015-06-30	1	70.69314	6.98534
+2016-06-05	1	125.1774	12.36904
+2011-05-04	1	369.70182	36.53101
+2010-11-23	1	361.74641	35.74492
+2014-02-11	1	44.50952	4.39808
+2012-10-10	1	430.64756	42.55319
+2016-11-27	1	129.99303	12.84489
+2011-06-26	1	506.34	50.03252
+2015-09-16	1	59.21546	5.8512
+2011-12-16	1	431.51058	42.63847
+2009-06-11	1	354.6101	35.03977
+2013-07-12	1	75.20076	7.43075
+2009-01-17	1	860.7091	85.04848
+2011-04-05	1	416.96748	41.20143
+2008-12-14	1	344.11975	34.0032
+2010-10-17	1	374.2684	36.98225
+2017-04-24	1	136.87252	13.52466
+2016-02-04	1	82.49146	8.15116
+2017-05-30	1	132.87229	13.12939
+2014-04-05	1	66.94063	6.61454
+2015-06-03	1	67.26364	6.64646
+2017-01-22	1	141.90669	14.0221
+2017-04-01	1	155.86591	15.40144
+2012-10-04	1	431.67623	42.65484
+2011-12-14	1	220.37362	21.77558
+2014-11-18	1	57.95533	5.72669
+2010-01-27	1	504.29627	49.83058
+2011-08-03	1	412.69952	40.77971
+2016-01-12	1	84.07941	8.30806
+2013-02-25	1	498.80317	49.28779
+2008-06-11	1	563.4865	55.67929
+2016-08-16	1	117.61677	11.62196
+2009-06-17	1	513.71663	50.76142
+2014-07-30	1	51.62586	5.10126
+2015-11-01	1	78.40025	7.74689
+2014-02-07	1	48.74512	4.81661
+2015-01-18	1	135.43463	13.38258
+2017-06-11	1	190.97272	18.87042
+2014-12-15	1	66.23656	6.54497
+2011-11-28	1	310.16972	30.64852
+2015-05-20	1	67.60694	6.68038
+2015-11-05	1	63.76306	6.30056
+2014-07-16	1	43.35756	4.28425
+2009-05-03	1	712.54084	70.40766
+2015-08-19	1	70.45494	6.9618
+2016-04-02	1	88.73803	8.76839
+2015-08-20	1	68.42655	6.76137
+2012-03-02	1	326.61667	32.27368
+2014-06-03	1	46.89346	4.63364
+2004-09-20	1	2552.38779	252.20681
+2010-10-16	1	625.7477	61.83145
+2007-11-07	1	787.38175	77.80285
+2014-02-02	1	58.03742	5.7348
+2012-11-17	1	456.87407	45.14469
+2013-08-16	1	68.24934	6.74386
+2016-07-20	1	98.53964	9.73691
+2009-03-23	1	507.63531	50.16051
+2017-03-04	1	146.95094	14.52053
+2009-12-11	1	464.05987	45.85473
+2014-10-06	1	60.01647	5.93035
+2013-01-22	1	297.17274	29.36426
+2013-06-30	1	80.79498	7.98352
+2014-12-10	1	65.08974	6.43165
+2003-02-12	1	1532.90179	151.46925
+2013-03-10	1	211.55628	20.90432
+2015-10-02	1	70.74602	6.99056
+2003-06-17	1	2531.95337	250.18764
+2010-03-09	1	332.9457	32.89907
+2013-08-06	1	67.21673	6.64183
+2014-04-20	1	172.31182	17.02649
+2015-08-31	1	69.35409	6.85302
+2015-08-22	1	103.893	10.26589
+2010-07-19	1	330.75849	32.68294
+2015-09-28	1	73.09286	7.22246
+2011-07-26	1	270.40607	26.71939
+2014-05-30	1	55.29599	5.46391
+2014-09-26	1	51.14605	5.05385
+2012-09-21	1	241.46349	23.85952
+2011-06-08	1	497.40576	49.14971
+2014-06-08	1	60.23652	5.9521
+2012-02-12	1	463.91096	45.84002
+2008-05-27	1	562.79711	55.61117
+2013-01-18	1	158.52471	15.66416
+2013-12-03	1	55.80797	5.5145
+2012-03-23	1	401.80322	39.70302
+2015-02-20	1	173.3567	17.12974
+2008-09-21	1	374.60089	37.0151
+2016-06-30	1	97.3023	9.61465
+2011-06-07	1	444.94252	43.96571
+2011-06-15	1	586.13562	57.91729
+2009-03-04	1	497.91969	49.20049
+2009-01-08	1	240.6596	23.78008
+2015-06-22	1	78.36504	7.74341
+2010-10-18	1	436.21628	43.10345
+2012-06-20	1	328.47185	32.45699
+2008-11-09	1	629.21025	62.17359
+2011-01-30	1	373.78458	36.93444
+2009-10-13	1	450.44811	44.50973
+2015-07-15	1	73.57483	7.27008
+2009-11-09	1	475.6859	47.00353
+2015-05-28	1	72.27952	7.14209
+2013-11-13	1	131.44847	12.9887
+2016-06-19	1	179.58295	17.74497
+2016-05-04	1	96.93974	9.57882
+2016-05-01	1	127.64514	12.61289
+2011-07-31	1	646.28761	63.86104
+2015-12-26	1	101.34203	10.01382
+2013-09-04	1	56.31729	5.56483
+2013-08-05	1	82.68625	8.1704
+2014-07-21	1	49.19892	4.86145
+2009-11-11	1	625.09065	61.76652
+2013-06-28	1	69.28524	6.84622
+2014-06-13	1	46.64899	4.60948
+2009-04-08	1	624.08841	61.66749
+2009-05-07	1	662.9253	65.50504
+2012-05-07	1	307.24119	30.35915
+2009-06-05	1	702.35392	69.40107
+2015-09-30	1	66.1517	6.53659
+2010-03-02	1	457.63849	45.22022
+2017-03-16	1	111.98152	11.06513
+2011-07-24	1	378.62313	37.41255
+2014-06-28	1	50.4344	4.98353
+2012-08-04	1	607.38312	60.0168
+2013-02-18	1	328.21618	32.43173
+2010-11-25	1	551.27016	54.47216
+2015-07-12	1	86.80772	8.57765
+2013-06-29	1	83.3022	8.23127
+2009-11-17	1	473.7486	46.8121
+2014-08-02	1	150.3479	14.85619
+2016-10-27	1	100.98304	9.97835
+2009-07-08	1	471.16801	46.5571
+2016-07-06	1	89.89596	8.88281
+2011-05-30	1	562.57811	55.58953
+2014-06-07	1	67.45867	6.66573
+2009-07-27	1	310.55997	30.68708
+2015-04-27	1	90.32199	8.92491
+2012-04-02	1	431.52898	42.64029
+2015-03-06	1	63.19567	6.2445
+2015-07-28	1	128.21763	12.66945
+2015-12-08	1	64.74619	6.39771
+2013-05-08	1	290.82757	28.73728
+2010-03-18	1	491.79792	48.59559
+2016-07-29	1	101.71277	10.05045
+2014-11-16	1	86.64496	8.56157
+2016-05-24	1	93.803	9.26887
+2013-03-05	1	388.04515	38.34356
+2010-04-18	1	549.92217	54.33897
+2014-11-24	1	64.38576	6.36209
+2014-01-15	1	58.44837	5.77541
+2015-10-23	1	60.74852	6.00269
+2016-09-03	1	133.19756	13.16153
+2013-12-19	1	64.88359	6.41128
+2016-09-16	1	90.9846	8.99038
+2016-11-03	1	102.00187	10.07902
+2017-05-04	1	119.06699	11.76526
+2014-07-31	1	53.2055	5.25735
+2015-10-05	1	75.01403	7.41229
+2013-11-04	1	67.10219	6.63051
+2015-07-05	1	87.11034	8.60756
+2016-10-21	1	105.6324	10.43776
+2015-10-12	1	71.21497	7.0369
+2016-10-22	1	134.81221	13.32108
+2015-10-09	1	65.40016	6.46233
+2014-12-08	1	64.65766	6.38896
+2016-07-05	1	99.0159	9.78397
+2017-02-02	1	118.39143	11.69851
+2016-01-01	1	118.94524	11.75323
+2017-02-20	1	103.58568	10.23552
+2014-03-18	1	53.6037	5.29669
+2017-05-08	1	128.31354	12.67893
+2017-04-30	1	191.4315	18.91575
+2015-10-16	1	67.21851	6.642
+2016-06-24	1	75.4767	7.45801
+2017-05-23	1	117.62634	11.62291
+2017-01-01	1	163.00059	16.10643
+2015-02-27	1	82.06868	8.10938
+2017-05-03	1	143.02375	14.13248
+2017-05-15	1	142.14388	14.04554
+2014-12-06	1	73.21024	7.23406
+2016-03-22	1	72.35911	7.14996
+2016-07-17	1	132.64762	13.10719
+2016-02-27	1	79.36305	7.84203
+2015-01-30	1	56.75504	5.60808
+2014-11-05	1	58.59965	5.79035
+2015-01-24	1	79.13777	7.81977
+2015-05-17	1	89.7644	8.86981
+2014-01-18	1	69.59972	6.8773
+2013-12-01	1	70.20616	6.93722
+2016-11-01	1	140.4279	13.87598
+2014-10-20	1	62.66854	6.19241
+2015-02-25	1	107.63097	10.63524
+2014-10-14	1	59.70031	5.89911
+2015-07-24	1	76.81788	7.59054
+2014-04-01	1	51.52808	5.0916
+2016-09-07	1	95.38467	9.42516
+2016-09-26	1	115.26181	11.38926
+2015-03-18	1	66.70149	6.59092
+2015-08-24	1	72.94429	7.20778
+2016-05-25	1	88.07235	8.70261
+2013-07-13	1	103.88661	10.26525
+2016-12-10	1	140.31887	13.8652
+2015-10-24	1	74.43964	7.35554
+2017-05-26	1	118.68856	11.72787
+2016-03-20	1	108.2191	10.69336
+2016-03-25	1	86.42077	8.53942
+2014-04-02	1	47.44994	4.68863
+2014-11-28	1	70.83515	6.99937
+2015-08-06	1	83.54426	8.25518
+2016-08-25	1	91.53846	9.04511
+2013-08-31	1	79.81811	7.887
+2017-02-14	1	108.88042	10.7587
+2016-03-29	1	97.04571	9.58929
+2017-06-08	1	125.01659	12.35315
+2015-12-31	1	106.43673	10.51724
+2014-04-24	1	105.07634	10.38281
+2014-04-22	1	86.54345	8.55154
+2015-08-04	1	74.38438	7.35008
+2016-01-28	1	90.26399	8.91917
+2015-12-20	1	60.40803	5.96904
+2016-06-21	1	101.63514	10.04278
+2016-03-24	1	77.14698	7.62306

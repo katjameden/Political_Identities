@@ -58,15 +58,13 @@ Same order and raw frequencies as from the broadest query, but of course represe
 
 Much more limited words forms, lower frequencies, which is understandable as this pattern only generates 88 hits.
 
--   naši , vaši (20, 0.24, 22.73%)
+- naše in vaše (74, 0.91, 16.89%)
 
--   vaši in naši (12, 0.15, 13.64%
+- vaše in naše (44, 0.54, 10.05 %)
 
--   naši in vaši (11, 0.13, 12.50%)
-
--   naši -- vaši (10, 0.12, 11.36%)
-
--   vaši , naši (8, 0.10, 9.09%)
+- naše, vaše (23, 0.28, 5.25%)
+- naši, vaši (20, 0.24, 4.57 %)
+- naših in vaših (12, 0.15, 2.74%)…
 
 UD POS Tag
 
@@ -215,7 +213,12 @@ Observations: A brief manual check of the hits revealed that the context of most
 
 ### Word forms
 
-Lower number of unique word forms (which makes sense with the specific query and no. of hits).\ naši , vaši (36, 0.13, 22.50%)\ naši in vaši (24, 0.09, 15.00%)\ vaši , naši (21, 0.08, 13.13%)\ vaši in naši (20, 0.07, 12.50%)\ naši -- vaši (18, 0.07, 11.25%)
+Lower number of unique word forms (which makes sense with the specific query and no. of hits).
+- naši , vaši (36, 0.13, 22.50%)
+- naši in vaši (24, 0.09, 15.00%)
+- vaši , naši (21, 0.08, 13.13%)
+- vaši in naši (20, 0.07, 12.50%)
+- naši -- vaši (18, 0.07, 11.25%)
 
 ### Text types
 

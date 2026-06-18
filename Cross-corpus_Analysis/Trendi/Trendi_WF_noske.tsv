@@ -1,0 +1,26 @@
+method name: freqml			
+corpus: trendi			
+subcorpus: -			
+concordance size: 2980			
+"query: Query:([lemma=""""naš""""][]{1,3}[lemma=""""vaš""""])|([lemma=""""vaš""""][]{1,3}[lemma=""""naš""""])within<s/>"			
+word	Frequency	Freq. per million	% of concordance
+naše  in  vaše	358	0.27897	12.01342
+vaše  in  naše	119	0.09273	3.99329
+Naša  prihodnost  bo  tudi  vaša	108	0.08416	3.62416
+"naše  ""  in  ""  vaše"	81	0.06312	2.71812
+vašo  plačo  z  našim	67	0.05221	2.24832
+vaši  uporabi  našega	67	0.05221	2.24832
+naših  in  vaših	53	0.0413	1.77852
+naši  -  vaši	50	0.03896	1.67785
+naši  in  vaši	45	0.03507	1.51007
+našega  in  vašega	39	0.03039	1.30872
+Vaš  boj  je  naš	34	0.02649	1.14094
+naš  in  vaš	32	0.02494	1.07383
+našo  in  vašo	29	0.0226	0.97315
+vaš  in  naš	28	0.02182	0.9396
+vašega  in  našega	27	0.02104	0.90604
+našim  in  vašim	22	0.01714	0.73826
+našimi  in  vašimi	21	0.01636	0.7047
+vaša  ,  zlata  naša	21	0.01636	0.7047
+vaši  in  naši	18	0.01403	0.60403
+Vaš  boj  je  tudi  naš	18	0.01403	0.60403

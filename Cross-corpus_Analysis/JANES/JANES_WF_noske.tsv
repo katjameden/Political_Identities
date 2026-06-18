@@ -1,0 +1,26 @@
+method name: freqml			
+corpus: janes			
+subcorpus: -			
+concordance size: 2499			
+"query: Query:([lemma=""""naš""""][]{1,3}[lemma=""""vaš""""])|([lemma=""""vaš""""][]{1,3}[lemma=""""naš""""])within<s/>"			
+word	Frequency	Freq. per million	% of concordance
+vaša  vprašanja  in  naše	861	3.40445	34.45378
+naše  in  vaše	167	0.66033	6.68267
+vaše  in  naše	80	0.31633	3.20128
+naši  in  vaši	55	0.21747	2.20088
+naši  /  vaši	44	0.17398	1.7607
+naših  in  vaših	42	0.16607	1.68067
+"naše  ""  in  ""  vaše"	23	0.09094	0.92037
+naši  ,  vaši	22	0.08699	0.88035
+naš  in  vaš	19	0.07513	0.7603
+vaši  in  naši	16	0.06327	0.64026
+Naši  in  vaši	15	0.05931	0.60024
+Naši  ,  vaši	15	0.05931	0.60024
+vaši  /  naši	15	0.05931	0.60024
+našo  pomoč  v  vaši	13	0.0514	0.52021
+naša  in  vaša	13	0.0514	0.52021
+naše  ,  vaše	12	0.04745	0.48019
+naše  /  vaše	12	0.04745	0.48019
+naši  -  vaši	11	0.04349	0.44018
+Naše  nasilje  in  vaše	10	0.03954	0.40016
+vaše  /  naše	10	0.03954	0.40016

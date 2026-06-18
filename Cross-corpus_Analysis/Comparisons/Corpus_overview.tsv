@@ -1,0 +1,6 @@
+Corpus	Period covered/ data collection	Corpus type	Tokens (M)	Hits	% of Corpus	H/MT
+ParlaMint-SI 5.1	2000 -2022	Parliamentary (plenary only)	81.6	869.0	0.001064	10,64
+siParl 4.0	1990 - 2022	Parliamentary (plenary + working bodies)	273.0	1922.0	0.000704	7,04
+Trendi (2026-05)	2019 - 2026	Web	1.283	2980.0	0.0002322	2,32
+CLASSLA-web.sl 2.0	2024	Web	2.748	19.533	0.0007107	7,11
+JANES	2013 - 2017	Social media	252.0	2499.0	0.0009881	9,88
