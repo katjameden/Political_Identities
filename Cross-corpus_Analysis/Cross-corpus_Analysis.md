@@ -1,21 +1,26 @@
-# Title
+# Cross-corpus Comparison - Text type Analysis
+
+This document records observations pertaining to the Text types of the observed corpora.  
+As the text types (or corpus metadata) are different for each corpus, these serve to provide basic charateristics of the corpus and text in it, which help contextualise other comparisons (i.e. word forms and collocations), which can be compared. 
+For each corpus, we select 2-5 text types, that could provide additional information on the texts. 
 
 ## Settings
 
+<!-- Move entire Settings into README for the Comparisons folder; here keep only the settings pertaining to the Text type Analysis -->
+
 - **CQL query**: ``([lemma="naš"][]{1,3}[lemma="vaš"])|([lemma="vaš"][]{1,3}[lemma="naš"])within<s/>``
 - Word forms: top 20 (metric: % of concordance)
-- Text types: 3-4 major, most representative and descriptive types per corpus (metric: relative density)
+- Text types: 3-4 major, most representative and descriptive types per corpus (metric: relative density, RD)
 - Collocations: range L5R5, min frequency in corpus: 5, min. frequency in range: 3 (default); top 20 collocates
 - Additional explanations from initial experiments with more restricted queries.
 
 
+## ParlaMint-SI
 
-## ParlaMint-SI 
+Together with siParl, these are the only two corpora, which we are able to (to some degree) compare the concordances as they include (mostly) the same metadata (however, ParlaMint-SI only includes plenary and siPar includes also working bodies). 
+However, for ParlaMint-SI, we add the information on Sentiment categories, which are not present in the siParl corpus. 
 
-### Text types analysis
-
-
-#### Legislative period
+### Legislative period
 
 |Term | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -27,31 +32,42 @@
 | 3. Term | 69 | 54.75986 | 5.8257 |
 
 
-#### Speaker role: 
+Observations: 
+- The concordances seem to be more typical of Term 5 (2008-10-15 - 2011-12-15); Term 8 and Term 6 (highest RD); 
+- RD for Term 7 (90.8%) hovers slightly below 100%, signifying lower, but still somewhat typicality of the concordances.
+
+### Speaker role: 
 
 | Speaker_role | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
-| Navadni | 862 | **108.04856** | 11.4949 |
-| Predsedujoči | 7 | 9.83001 | 1.04578 |
+| Regular | 862 | **108.04856** | 11.4949 |
+| Chairperson | 7 | 9.83001 | 1.04578 |
 
-#### Gender
+- The concordances are more typical of regular speaker, and not at all for Chairperson speeches. 
+    - Interestingly, the RD is only slightly above 100% for Regular speeches.
+
+### Gender
 
 | Gender | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
 | M | 672 | 97.3606 | 10.35784 |
 | F | 197 | **110.1898** | 11.72269 |
 
+- RD shows that while the raw frequency is much higher for Male speakers, the conconrdances are more typical for Female speakers (through the difference is not too great)
+- For Male speakers, RD shows that concordance is still somewhat typical also for Male speakers.
 
-#### Sentiment (3-class)
+
+### Sentiment (3-class)
 
 | Senti_3 | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
-| Negative | 725 | 131.06137 | 13.94314 |
+| Negative | 725 | **131.06137** | 13.94314 |
 | Neutral | 78 | 35.32901 | 3.75853 |
 | Positive | 66 | 69.44277 | 7.38776 |
 
+- Concordances are much more typical for Negative speeches; and not at all typical for Neutral or Positive ones.
 
-#### Speaker party
+### Speaker party
 
 | Speaker_party | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -62,8 +78,8 @@
 | NSi | 49 | 73.67464 | 7.83798 |
 | PS | 43 | 264.30653 | 28.11862 |
 | LMŠ | 40 | **195.24641** | 20.77156 |
-| SLS | 39 | **111.38868** | 11.85024 |
-| Levica | 31 | 123.8562 | 13.17661 |
+| SLS | *39* | **111.38868** | 11.85024 |
+| Levica | *31* | **123.8562** | 13.17661 |
 | SMC | 29 | 58.18213 | 6.18979 |
 | Zares | 28 | 135.62591 | 14.42875 |
 | SNS | 27 | 70.96779 | 7.55001 |
@@ -80,8 +96,13 @@
 | IMNS | 1 | 30.90593 | 3.28797 |
 | SLS+SKD | 1 | 40.01302 | 4.25684 |
 
+- Concordances are typical for:
+    - a) two of the larger parties; both with also the highest no. of speeches (Frequency) -  SDS and SD; which sit at the polar opposite political orientations
+    - b) LMŠ (with reported highest RD), SLS and Levica; though the Frequency of speeches are much more limited (only around 40 speeches)
+    - c) Other parties (Zares, SAB, ZaAB, NP), for which the Frequency of speeches are too low for interpretation.
 
-#### Party status
+
+### Party status
 
 | Party_status | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -89,12 +110,16 @@
 | Coalition | 290 | 81.35291 | 8.65484 |
 | - | 95 | 71.85697 | 7.6446 |
 
+- Concordance seems to be much more typical for Opposition speeches.
+
 
 ## siParl 
 
-### Text type analysis
+- Overall comparison with ParlaMint-SI: While frequencies are quite higer for siParl, the patterns are not too different and match quite closely for both corpora (with only minor differences in RD scores)
+    - With the only exception being the differences in Speaker parties, where smaller parties (or parties with lower no. of speeches achieve very high RD)
 
-#### Legislative period
+
+### Legislative period
 
 | Legislative period (in English) | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -108,22 +133,28 @@
 | Term 1 (1992-12-23 - 1996-11-27) | 41 | 43.68335 | 3.07517 |
 | Term 11 (1990-05-08 - 1992-12-23) | 21 | 23.43999 | 1.6501 |
 
+<!-- Check this implication; reword-->
 
-#### Speaker role
+- As with ParlaMint-SI, concordances seem to be more typical for Terms 5 - 8 (2008 - 2018); with highest RD once again reported for Term 6
+  - This could imply that working bodies and language in them are not too drastically different from plenary ones; at least not in term of presence of these concordances. 
+
+### Speaker role
 
 | Type of speaker (in English) | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
 | Regular | 1798 | 111.78523 | 7.86932 |
 | Chairperson | 124 | 39.54604 | 2.78391 |
 
+- As with ParlaMint-SI; concordances are typical for speeches, spoken by Regular speakers
 
-#### Gender
+### Gender
 
 | Speaker gender | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
 | M | 1461 | 95.28363 | 6.70766 |
 | F | 461 | 118.62641 | 8.35091 |
 
+- As with ParlaMint-SI; while much more present in Male speeches (Frequency), the concordances are more typical for Female speakers.
 
 ### Speaker party
 
@@ -137,7 +168,7 @@
 | PS | 89 | **331.69796** | 23.35046 |
 | Levica | 84 | **172.22087** | 12.12379 |
 | SLS | 73 | 87.92188 | 6.18942 |
-| LMŠ | 66 | 210.38512 | 14.81043 |
+| LMŠ | 66 | **210.38512** | 14.81043 |
 | SMC | 63 | 86.51532 | 6.0904 |
 | Zares | 47 | 166.42933 | 11.71608 |
 | SNS | 44 | 110.22059 | 7.75917 |
@@ -164,12 +195,15 @@
 | ZSMS | 1 | 68.71046 | 4.83699 |
 | SMS | 1 | 48.15746 | 3.39013 |
 
+<!--Check in concordancer -->
+- The trends differ from those identified within ParlaMint-SI: 
+- Higest reported RD belong to PS (Pozitivna Slovenija, 331.69%) with a frequency of 89 speeches; followed by LMŠ (210.8%; only 66 speeches) and Levica (with also a lower frequency of speeches; 84; RD: 172.2%)
+- Next, concordances are more typical also of SD and SDS speeches (and highest frequency of speeches; **as in ParlaMint-SI**); additionally also somewhat typical of NSi (91 speeches, RD: 105.09%)
 
-## Trend
+## Trendi
 
-### Text type analysis
 
-#### Topic
+### Topic
 
 | text.topic | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -186,8 +220,27 @@
 | Zdravje | 61 | 35.27973 | 0.81925 |
 | Črna kronika | 32 | 23.02058 | 0.53458 |
 
+<!--Check-->
+* **Izobraževanje (Education)**: highest RD reported; however, this largely corresponds to repeated texts and text headers: 
+  - "Naša prihodnost bo tudi vaša. Hvala vam! 🙏" (“**Our future will also be yours**. Thank you! 🙏”)
+  - "Izračunajte si **vašo plačo z našim** kalkulatorjem!" (“Calculate **your salary with our** calculator!”)
+  - "Za znanje in zdravje **naših otrok in vašega** strokovnega dela" (“For the knowledge and health of **our children and your** professional work”)
+  - "Cockta, pijača **naše in vaše** mladosti" (“Cockta, the drink of **our and your** youth”)
+    * However, the Cockta tagline illustrates the dual nature of the concordance, highlighting its positive and unifying aspect through references to shared nostalgic experiences.
 
-#### Text source
+* **Znanost (Science)**, **Kultura (Culture)**, and **Prosti čas (Leisure)** also show high reported RD values (and a high number of texts), similar repeated texts as in Izobraževanje can also be found here.
+* **Politika (Politics)**: also shows a relatively high RD score (151.1%). While some repetition of texts is present, these cases mostly reflect the publication of the same texts, excerpts, or news items by different outlets and platforms.
+* The texts, and the concordances within them, are predominantly related to political polarization (i.e. a political context), as illustrated by examples such as:
+
+  * "ne pa deliti ljudi na **naše in vaše**, leve in desne" ("rather than dividing people into **ours and yours**, left and right")
+  * "ni šlo za to, kdo je '**naš ali vaš**'" ("it was not about who is '**ours or yours**'")
+  * "(po logiki '**naši**' vs. '**vaši**')" ("according to the logic of '**ours**' vs. '**yours**'")
+
+
+
+
+
+### Text source
 
 Text source (e.g. domain from which texts were extracted); cut-offed at frequency 30; italic - density above 100%, 
 more typical, could be fairly intepreted; 
@@ -223,12 +276,25 @@ bold - extremley high density (above 200%), could potentially signify noise (con
 | lokalec.si | 35 | *113.42173*| 2.63384 |
 | prlekija-on.net | 33 | **244.56382** | 5.67918 |
 
+<!-- Check! -->
+- The highest RD reported belong to domains with repeated text with noise/header texts (data.si, molitev.si, si.aleteia.org):   
+    - Example: molitev.si: "analiziramo informacije o vaši uporabi našega spletnega mesta" (of 62 texts, there is only 1 concordance that does not belong to this cookies banner text)
+- The first platform, that does not suffer of the overwhelming amount of repeated texts is casnik.si; the concordances here mostly relate to political polarisation:
+    - "Preseganje delitev na naše in vaše je odmev..." (“Overcoming divisions between **ours and yours** is resonating...”)
+    - "stvari naenkrat niso več črno-bele, ne gre več za **naše in vaše**" (“Things are suddenly no longer black and white; it is no longer about **ours and yours**.”)
+    - "Kdo nas bo osvobodil bremena naše preteklosti, ki zadeva **naše in vaše**, leve in desne?" (“Who will free us from the burden of our past, which concerns ours and yours, the left and the right?”)
+    
+- RD for domains with actual texts without major noise fluctuates between 100% and 200%: demokracija.si, nova24tv.si, ekipa.svet24.si, reporter.si, primorske.si, etc.   
+Ekipa.svet24ur, and to a lesser extent on other platforms, we detected the presence of concordances referring to sports, with the terms either dividing or uniting people:
+  * "*Ob slovesu od moje, **naše in vaše** Olimpije bi se želel zahvaliti...*" (“As I bid farewell to my, **our and your** Olimpija, I would like to thank...”)
+  * "*...kako zelo težko je v teh časih ljudi predalčkati ter jih deliti na **naše in vaše***" (“...how very difficult it is these days to put people into boxes and divide them into **ours and yours**.”)
+  * "*Niti v sanjah to ni nekaj, s čimer bi apolitični, miroljubni, **naš in vaš** Luka želel ali moral imeti opravka.*" (“Not even in his dreams is this something that the apolitical, peace-loving, **our and your** Luka would want or should have anything to do with.”)
+  * Many direct references to the paper itself: "*Selektor je v pogovoru za **naš in vaš** časnik to potrdil,*" (“The coach confirmed this in an interview for **our and your** newspaper.”)
+
 
 ## CLASSLA-web.sl
 
-### Text types analysis
-
-#### Genre
+### Genre
 
 | text.genre | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -243,7 +309,20 @@ bold - extremley high density (above 200%), could potentially signify noise (con
 | Information/Explanation | 469 | 16.59253 | 1.17916 |
 | Prose/Lyrical | 92 | 47.31134 | 3.3622 |
 
-#### Topic
+
+The concordances are more typical for several text types: 
+- Promotion: highest RD score, which suffers from the same issue as Trendi, namely the presence of repeated texts and excerpts, although these relate more to the structure of promotional language:    
+    - "**Vaše zadovoljstvo je naše** poslanstvo. Veselimo se bodočega sodelovanja!*" (“**Your satisfaction is our** mission. We look forward to future cooperation!”)
+    - "**Vaše zadovoljstvo je naša** prioriteta številka ena*" (“**Your satisfaction is our** number one priority.”)
+    - "*...obenem pa bojo izpolnili vse **naše in vaše** želje.*" (“...while also fulfilling all **our and your** wishes.”)
+
+
+- Additionally, concordances also appear to be more typical of Other and Mix texts, which contain many texts not connected with promotional or informative banners.
+- However, for example, in the News or Opinion categories, where we would expect typicality, the RD scores are below 100% and refer mostly to political division. A very high proportion of such text comes from the site **vest.si**:
+    - "*Tako **naši in vaši** se ukvarjajo z lažjo. Dobr 'muštr' za Slovensko demokracijo.*" (“Both **ours and yours** engage in lying. A fine example for Slovenian democracy.”)
+    - "*Ko se gremo partizane-domobrance, leve-desne, rdeče-bele, **naše-vaše**, je komentarjev vsaj 10x toliko.*" (“When we talk about partisans–home guards, left–right, red–white, **ours–yours**, there are at least 10 times as many comments.”)   
+
+### Topic
 
 | text.topic | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -266,12 +345,17 @@ bold - extremley high density (above 200%), could potentially signify noise (con
 | Disaster, Accident and Emergency Incident | 174 | 44.54135 | 3.16535 |
 | Weather | 11 | 29.2839 | 2.08107 |
 
+<!-- Check-->
+Topics where the concordances appear more typical include:
+- Economy, Business, and Finance, where texts are often repetitive, featuring promotional or informative content.
+- Lifestyle and Leisure, which similarly consists mostly of noise or includes promotional material.
+- Mixed category, alongside Human Interest, which contains some texts (albeit a very small percentage) connected with the political context of terms.
+- **Politics**, which we would expect to exhibit higher RD (and thus higher typicality of the concordances), instead hovers just below 100 (98.5%), suggesting a somewhat equal typicality for the concordances in this domain.
+
 
 ## JANES
 
-### Text type Analysis
-
-#### Genre
+### Genre
 
 | group.type | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -282,7 +366,20 @@ bold - extremley high density (above 200%), could potentially signify noise (con
 | wiki | 9 | 18.18705 | 1.7971 |
 
 
-#### Source
+In terms of type/genre of texts in the corpus, the concordances seem to be more typical for forum and news texts:
+- Forum texts include high amount of noise texts (e.g. "vaša vprašanja in naše odgovore"; 861 texts or 91.01% of all Forum texts)
+- News: Texts almost exclusively refer to the political divisions, which are also much stronger, even violent, in negative sentiment..:
+    - Dokler bodo **vaše rakete pobijale naše ljudi**, bodo **naši noži rezali vratove vaših ljudi.**" ("As long as **your rockets kill our people**, **our knives will cut your people's** throats.") 
+   - "*Najprej preberi svoje komentarje in komentarje levičarjev na forumu in nato še desničarske komentarje in boš videla razliko med **vašim PLJUVANJEM in našo normalno in POŠTENO KRITIKO**.*" (“First read your comments and those of the leftists on the forum, then the right-wing comments, and you will see the difference between **your SPITTING and our normal and HONEST criticism.**”)
+    - "*Ukradli in uničili ste prihodnost Slovenije! NAM, **NAŠIM IN VAŠIM OTROKOM!!***" (“You have stolen and destroyed the future of Slovenia! TO US, **OUR AND YOUR CHILDREN**!!”)
+    - "*Ni treba mi logike, pamet na pašo, očistil bom ulico, našo in vašo!*" (“I don’t need logic, mind on pasture, I will clean the street, **ours and yours!**”)
+    -  There are also references to sport-related divisions, but more limited:  
+        -  "*Na našo srečo in vašo nesrečo pa sodnik ni piskal.*" (“To our luck and your misfortune, the referee did not blow the whistle.”)
+        - **Naša liga** je dost močnejša od **vaše\...\"** (\"**Our league** is much stronger than **yours**\...\").
+    
+
+
+### Source
 
 | group.platform | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -297,25 +394,29 @@ bold - extremley high density (above 200%), could potentially signify noise (con
 | reporter | 4 | **117.37668** | 11.59824 |
 | pagetalk | 2 | 13.09788 | 1.29423 |
 
-#### Language
+In terms of platforms from which the texts were collected, concordances appear to be most typical for:
 
-| text.lang | Frequency | Relative density | Relative in text types |
-| --- | --- | --- | --- |
-| slv | 2468 | **107.16083** | 10.58879 |
-| hbs | **27** | **142.93681** | 14.12389 |
-| eng | 3 | 1.88457 | 0.18622 |
-| und | 1 | 5.60459 | 0.5538 |
+- **MedOverNet**, which stands out with a very high relative density (664.45) and a large share of text types (65.66%).
+- **Mladina**, which shows a relatively high relative density (184.12). In addition to the medium volume of texts, this platform also contains many references to political division.
 
+- **Reporter**, despite showing a high relative density (117.38), is based on a very small number of texts (N = 4), which makes the result unstable and not reliably interpretable.
 
-#### Source 
+By contrast:
+
+- **Twitter**, while contributing the largest number of texts (frequency = 1091), shows lower relative typicality of concordances, suggesting that the phenomenon is less specific or less concentrated in this platform.
+
+- **RTVSLO** has an RD score of 95.76, indicating a somewhat equal typicality of concordances within this text type. Most occurrences relate to political polarisation and include strongly negative and violent content, *consistent with patterns described for the News genre*.
+
+### Source 
 
 | text.source | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
 | private | 2137 | *99.5219* | 9.83397 |
 | corporate | 362 | **102.91897** | 10.16964 |
 
+- Exploring the sources of text in the corpus suggests that concordances are more typical of corporate texts and somewhat equally typical of private texts. This could potentially be influenced by noise, as shown in other text types.
 
-#### Sentiment
+### Sentiment
 
 | text.sentiment | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -323,5 +424,6 @@ bold - extremley high density (above 200%), could potentially signify noise (con
 | negative | 808 | 75.04687 | 7.41554 |
 | neutral | 635 | 75.76832 | 7.48683 |
 
-- Explain with the link to Negative sentiment with the semi-restricted and restricted queries with the initial experiments, 
-which show the closer image of prevailing Negative sentiment after additional restriction of noise.
+- The RD score for the **positive category** is highly surprising, as it suggests that concordances are highly typical in this category.   
+    - This can be explained by the effects of repetitive, positive, promotional taglines (e.g. *Cockta – pijača naše in vaše mladosti*). 
+    - As shown in the initial experiments with semi-restricted and restricted query settings, this pattern is largely driven by noise, while a clearer picture of the prevailing sentiment emerges once such noise is reduced, revealing a stronger presence of negative sentiment.
