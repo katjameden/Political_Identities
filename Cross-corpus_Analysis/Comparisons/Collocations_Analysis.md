@@ -3,7 +3,7 @@
 The document records observation on the collocations when compared among the corpora. 
 
 ## Settings: 
-- CQL query: ([lemma="naš"][]{1,3}[lemma="vaš"])|([lemma="vaš"][]{1,3}[lemma="naš"])within<s/>
+- CQL query: ``([lemma="naš"][]{1,3}[lemma="vaš"])|([lemma="vaš"][]{1,3}[lemma="naš"])within<s/>``
 - lowercase lemma, range L5R5, min frequency in corpus: 5, min. frequency in range: 3 (default); top 20 collocates
 - Comparison of the top 10 collocates in each corpus; additionally, common collocates that appeared outside the top 10 were also identified and matched with the existing set where relevant.
 

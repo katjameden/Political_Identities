@@ -3,7 +3,7 @@
 The documents records observations on the patterns of word forms across all of the corpora compared. 
 
 ## Settings
-- CQL query: ([lemma="naš"][]{1,3}[lemma="vaš"])|([lemma="vaš"][]{1,3}[lemma="naš"])within<s/>
+- CQL query: ``([lemma="naš"][]{1,3}[lemma="vaš"])|([lemma="vaš"][]{1,3}[lemma="naš"])within<s/>``
 - Word forms: top 20 (metric: % of concordance)
 - Comparison table: Matching top 5 word forms (due to very small numbers) and their percentages of concordance lines (``% of concordance``) among the corpora.
     
