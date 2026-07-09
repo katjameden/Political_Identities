@@ -4,7 +4,7 @@ This repository contains the analyses of the Slovenian parliamentary corpus Parl
 
 The framework for this study encomapsses three individual analyses of markers of political identity-building categories in Slovenian parliamentary debates, which includes a [metadata-focused approach](./Metadata_Analysis/) to facilitate the discovery of various trends in parliamentary activity during the period covered by the corpus (2000–2022), as well as [concordancer-assisted discourse analysis](./Discourse_Analysis/) that enables the investigation of expressions of political identities through the concept of Us vs. Them, or more specifically, the pronouns "vaši" ("your") and "naši" ("our"). Lastly, the co-occurences of the terms "vaši" and "naši" are [explored in web and social media corpora](./Cross-corpus_Analysis/).
 
-The results of the discourse analysis are described in the following publications: 
+The results of the analyses are described in the following publications: 
 ```
 @inproceedings{meden2026ours,
   title={Ours and Yours: A Discourse Analysis of Political Identity Markers in Slovenian Parliamentary Discourse},
