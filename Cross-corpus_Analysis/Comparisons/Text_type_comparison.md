@@ -13,14 +13,84 @@ For each corpus, we select 2-5 text types, that could provide additional informa
 - Text types: 3-4 major, most representative and descriptive types per corpus (metric: relative density, RD)
 - Collocations: range L5R5, min frequency in corpus: 5, min. frequency in range: 3 (default); top 20 collocates
 - Additional explanations from initial experiments with more restricted queries.
-
+- Political identity-building categories and sentiment: 
+    -  Membership (Political parties/parliamentary groups), 
+    - Group relations (Party status), 
+    - Ideology (Political orientation) and 
+    - Power resources (legislative period/terms)
 
 ## ParlaMint-SI
 
-Together with siParl, these are the only two corpora, which we are able to (to some degree) compare the concordances as they include (mostly) the same metadata (however, ParlaMint-SI only includes plenary and siPar includes also working bodies). 
+Together with siParl, these are the only two corpora, which we are able to (to some degree) compare the concordances as they include (mostly) the same metadata. 
 However, for ParlaMint-SI, we add the information on Sentiment categories, which are not present in the siParl corpus. 
 
-### Legislative period
+
+### Membership - Political parties / parliamentary groups 
+
+
+| speech.speaker_party | Frequency | Relative density | Relative in text types |
+| --- | --- | --- | --- |
+| **SDS** | **258** | **122.09782** | **12.98955** |
+| **SD** | **129** | **126.49786** | **13.45765** |
+| LDS | 64 | 90.08924 | 9.58427 |
+| - | 53 | 58.84749 | 6.26057 |
+| NSi | 49 | 73.67464 | 7.83798 |
+| PS | 43 | 264.30653 | 28.11862 |
+| LMŠ | 40 | 195.24641 | 20.77156 |
+| SLS | 39 | 111.38868 | 11.85024 |
+| Levica | 31 | 123.8562 | 13.17661 |
+| SMC | 29 | 58.18213 | 6.18979 |
+| Zares | 28 | 135.62591 | 14.42875 |
+| SNS | 27 | 70.96779 | 7.55001 |
+| DeSUS | 24 | 53.62128 | 5.70457 |
+| SAB | 16 | 147.72767 | 15.71621 |
+| NP | 12 | 107.76227 | 11.46444 |
+| ZL | 7 | 53.09814 | 5.64892 |
+| ZLSD | 5 | 27.99563 | 2.97835 |
+| ZaAB | 4 | **232.07558** | 24.68968 |
+| DL | 4 | 52.45309 | 5.58029 |
+| NeP | 2 | 55.17389 | 5.86975 |
+| Lipa | 2 | 80.76869 | 8.59269 |
+| SMS | 1 | 39.54887 | 4.20746 |
+| IMNS | 1 | 30.90593 | 3.28797 |
+| SLS+SKD | 1 | 40.01302 | 4.25684 |
+
+Observations: 
+- highest RD observed for PS and ZaAB (the latter only includes 4 speeches, making it unreliable for interpretation)
+- High RD also observed for LMŠ, SAB, Zares (based on around 15 - 40 speeches). However, these represent the two parties with the highest percentage of the speeches in the corpus (as seen in the Metadata analysis - SDS: 26%, SD: 12%).
+- For the party that represents the next largest share of speeches in the corpus, LDS (10.1%), this concordance (or co-occurrence of terms) seems to be only maybe somewhat typical (RD: 90.08).
+- In terms of frequnecy, SDS and SD seem to be the parties where the co-occurrence of these terms seems to be most frequent (SDS: 258; SD:129 speeches). Additionally, for these parties, based on high RD (SDS: 122.09%; SD: 126.49%) this co-occurence (or collocation) also seems to be more typical.
+
+
+### Group relations - Party status
+
+
+| speech.party_status | Frequency | Relative density | Relative in text types |
+| --- | --- | --- | --- |
+| **Opposition** | 484 | **127.26081** | 13.53882 |
+| Coalition | 290 | 81.35291 | 8.65484 |
+| - | 95 | 71.85697 | 7.6446 |
+
+- Concordance seems to be more present and more typical for opposition speeches. 
+
+
+### Ideology - Political orientation 
+
+| speech.party_orientation | Frequency | Relative density | Relative in text types |
+| --- | --- | --- | --- |
+| **Right** | 258 | **121.72656** | 12.95005 |
+| *Centre to centre-left*| 200 | 98.815 | 10.51257 |
+| **Centre-left**  | 183 | **117.63511** | 12.51477 |
+| Centre right  | 89 | 85.56017 | 9.10244 |
+| - | 70 | 63.32797 | 6.73723 |
+| *Left* | 38 | 99.44479 | 10.57957 |
+| Right to far right| 27 | 70.96779 | 7.55001 |
+| Centre to centre right | 4 | 52.45309 | 5.58029 |
+
+- The concordance seems to be more typical of the Right and Centre-left (SAB, SD, SMS, ZLSD, ZaAB and Zares) orientations and somewhat typical for Left (ZL and Levica; basically one party: ZL/Levica; RD: 99.44%) and Centre to centre-left (LDS, PS, LMŠ, SMC, DeSUS; RD: 98.81%).
+- From metadata analysis we know that the Right encompasses DLGV and SDS parties. However, checking the parties of the Right orientations, we found that in the case of these concordances are present in SDS speeches; or rather, two --Slovenska demokratska stranka (247 speeches, Socialdemokratska stranka Slovenije -- 11 speeches)
+
+### Power resources -- Legislative period
 
 |Term | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -31,30 +101,9 @@ However, for ParlaMint-SI, we add the information on Sentiment categories, which
 | 4. Term | 123 | 75.85621 | 8.07007 |
 | 3. Term | 69 | 54.75986 | 5.8257 |
 
-
 Observations: 
 - The concordances seem to be more typical of Term 5 (2008-10-15 - 2011-12-15); Term 8 and Term 6 (highest RD); 
 - RD for Term 7 (90.8%) hovers slightly below 100%, signifying lower, but still somewhat typicality of the concordances.
-
-### Speaker role: 
-
-| Speaker_role | Frequency | Relative density | Relative in text types |
-| --- | --- | --- | --- |
-| Regular | 862 | **108.04856** | 11.4949 |
-| Chairperson | 7 | 9.83001 | 1.04578 |
-
-- The concordances are more typical of regular speaker, and not at all for Chairperson speeches. 
-    - Interestingly, the RD is only slightly above 100% for Regular speeches.
-
-### Gender
-
-| Gender | Frequency | Relative density | Relative in text types |
-| --- | --- | --- | --- |
-| M | 672 | 97.3606 | 10.35784 |
-| F | 197 | **110.1898** | 11.72269 |
-
-- RD shows that while the raw frequency is much higher for Male speakers, the conconrdances are more typical for Female speakers (through the difference is not too great)
-- For Male speakers, RD shows that concordance is still somewhat typical also for Male speakers.
 
 
 ### Sentiment (3-class)
@@ -67,96 +116,35 @@ Observations:
 
 - Concordances are much more typical for Negative speeches; and not at all typical for Neutral or Positive ones.
 
-### Speaker party
 
-| Speaker_party | Frequency | Relative density | Relative in text types |
+### Speaker role: 
+
+| Speaker_role | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
-| SDS | 258 | **122.09782** | 12.98955 |
-| SD | 129 | **126.49786** | 13.45765 |
-| LDS | 64 | 90.08924 | 9.58427 |
-| - | 53 | 58.84749 | 6.26057 |
-| NSi | 49 | 73.67464 | 7.83798 |
-| PS | 43 | 264.30653 | 28.11862 |
-| LMŠ | 40 | **195.24641** | 20.77156 |
-| SLS | *39* | **111.38868** | 11.85024 |
-| Levica | *31* | **123.8562** | 13.17661 |
-| SMC | 29 | 58.18213 | 6.18979 |
-| Zares | 28 | 135.62591 | 14.42875 |
-| SNS | 27 | 70.96779 | 7.55001 |
-| DeSUS | 24 | 53.62128 | 5.70457 |
-| SAB | 16 | 147.72767 | 15.71621 |
-| NP | 12 | 107.76227 | 11.46444 |
-| ZL | 7 | 53.09814 | 5.64892 |
-| ZLSD | 5 | 27.99563 | 2.97835 |
-| ZaAB | 4 | 232.07558 | 24.68968 |
-| DL | 4 | 52.45309 | 5.58029 |
-| NeP | 2 | 55.17389 | 5.86975 |
-| Lipa | 2 | 80.76869 | 8.59269 |
-| SMS | 1 | 39.54887 | 4.20746 |
-| IMNS | 1 | 30.90593 | 3.28797 |
-| SLS+SKD | 1 | 40.01302 | 4.25684 |
+| Regular | 862 | **108.04856** | 11.4949 |
+| Chairperson | 7 | 9.83001 | 1.04578 |
 
-- Concordances are typical for:
-    - a) two of the larger parties; both with also the highest no. of speeches (Frequency) -  SDS and SD; which sit at the polar opposite political orientations
-    - b) LMŠ (with reported highest RD), SLS and Levica; though the Frequency of speeches are much more limited (only around 40 speeches)
-    - c) Other parties (Zares, SAB, ZaAB, NP), for which the Frequency of speeches are too low for interpretation.
+- The concordances are more typical of regular speaker, and not at all for Chairperson speeches. 
+    - Interestingly, the RD is only slightly above 100% for Regular speeches.
 
+### Gender:
 
-### Party status
-
-| Party_status | Frequency | Relative density | Relative in text types |
+| Gender | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
-| Opposition | 484 | **127.26081** | 13.53882 |
-| Coalition | 290 | 81.35291 | 8.65484 |
-| - | 95 | 71.85697 | 7.6446 |
+| M | 672 | 97.3606 | 10.35784 |
+| F | 197 | **110.1898** | 11.72269 |
 
-- Concordance seems to be much more typical for Opposition speeches.
+- RD shows that while the raw frequency is much higher for Male speakers, the conconrdances are more typical for Female speakers (through the difference is not too great)
+- For Male speakers, RD shows that concordance is still somewhat typical also for Male speakers.
 
-
+--------------
 ## siParl 
 
 - Overall comparison with ParlaMint-SI: While frequencies are quite higer for siParl, the patterns are not too different and match quite closely for both corpora (with only minor differences in RD scores)
     - With the only exception being the differences in Speaker parties, where smaller parties (or parties with lower no. of speeches achieve very high RD)
 
 
-### Legislative period
-
-| Legislative period (in English) | Frequency | Relative density | Relative in text types |
-| --- | --- | --- | --- |
-| Term 8 (2018-06-22 - 2022-05-12) | 447 | **142.50409** | 10.03183 |
-| Term 7 (2014-08-01 - 2018-06-21) | 320 | **102.86892** | 7.24164 |
-| Term 5 (2008-10-15 - 2011-12-15) | 299 | **129.55467** | 9.12023 |
-| Term 6 (2011-12-16 - 2014-07-31) | 296 | **161.01967** | 11.33526 |
-| Term 4 (2004-10-22 - 2008-10-14) | 234 | 92.37429 | 6.50285 |
-| Term 3 (2000-10-27 - 2004-10-21) | 159 | 73.66623 | 5.18586 |
-| Term 2 (1996-11-28 - 2000-10-26) | 105 | 45.64685 | 3.21339 |
-| Term 1 (1992-12-23 - 1996-11-27) | 41 | 43.68335 | 3.07517 |
-| Term 11 (1990-05-08 - 1992-12-23) | 21 | 23.43999 | 1.6501 |
-
-<!-- Check this implication; reword-->
-
-- As with ParlaMint-SI, concordances seem to be more typical for Terms 5 - 8 (2008 - 2018); with highest RD once again reported for Term 6
-  - This could imply that working bodies and language in them are not too drastically different from plenary ones; at least not in term of presence of these concordances. 
-
-### Speaker role
-
-| Type of speaker (in English) | Frequency | Relative density | Relative in text types |
-| --- | --- | --- | --- |
-| Regular | 1798 | 111.78523 | 7.86932 |
-| Chairperson | 124 | 39.54604 | 2.78391 |
-
-- As with ParlaMint-SI; concordances are typical for speeches, spoken by Regular speakers
-
-### Gender
-
-| Speaker gender | Frequency | Relative density | Relative in text types |
-| --- | --- | --- | --- |
-| M | 1461 | 95.28363 | 6.70766 |
-| F | 461 | 118.62641 | 8.35091 |
-
-- As with ParlaMint-SI; while much more present in Male speeches (Frequency), the concordances are more typical for Female speakers.
-
-### Speaker party
+### Membership - Speaker party
 
 | Party | Frequency | Relative density | Relative in text types |
 | --- | --- | --- | --- |
@@ -197,8 +185,47 @@ Observations:
 
 <!--Check in concordancer -->
 - The trends differ from those identified within ParlaMint-SI: 
-- Higest reported RD belong to PS (Pozitivna Slovenija, 331.69%) with a frequency of 89 speeches; followed by LMŠ (210.8%; only 66 speeches) and Levica (with also a lower frequency of speeches; 84; RD: 172.2%)
+- Highest reported RD belong to PS (Pozitivna Slovenija, 331.69%) with a frequency of 89 speeches; followed by LMŠ (210.8%; only 66 speeches) and Levica (with also a lower frequency of speeches; 84; RD: 172.2%)
 - Next, concordances are more typical also of SD and SDS speeches (and highest frequency of speeches; **as in ParlaMint-SI**); additionally also somewhat typical of NSi (91 speeches, RD: 105.09%)
+
+
+### Power relations - Legislative period
+
+| Legislative period (in English) | Frequency | Relative density | Relative in text types |
+| --- | --- | --- | --- |
+| Term 8 (2018-06-22 - 2022-05-12) | 447 | **142.50409** | 10.03183 |
+| Term 7 (2014-08-01 - 2018-06-21) | 320 | **102.86892** | 7.24164 |
+| Term 5 (2008-10-15 - 2011-12-15) | 299 | **129.55467** | 9.12023 |
+| Term 6 (2011-12-16 - 2014-07-31) | 296 | **161.01967** | 11.33526 |
+| Term 4 (2004-10-22 - 2008-10-14) | 234 | 92.37429 | 6.50285 |
+| Term 3 (2000-10-27 - 2004-10-21) | 159 | 73.66623 | 5.18586 |
+| Term 2 (1996-11-28 - 2000-10-26) | 105 | 45.64685 | 3.21339 |
+| Term 1 (1992-12-23 - 1996-11-27) | 41 | 43.68335 | 3.07517 |
+| Term 11 (1990-05-08 - 1992-12-23) | 21 | 23.43999 | 1.6501 |
+
+<!-- Check this implication; reword-->
+
+- As with ParlaMint-SI, concordances seem to be more typical for Terms 5 - 8 (2008 - 2018); with highest RD once again reported for Term 6
+  - This could imply that working bodies and language in them are not too drastically different from plenary ones; at least not in term of presence of these concordances. 
+
+### Speaker role
+
+| Type of speaker (in English) | Frequency | Relative density | Relative in text types |
+| --- | --- | --- | --- |
+| Regular | 1798 | 111.78523 | 7.86932 |
+| Chairperson | 124 | 39.54604 | 2.78391 |
+
+- As with ParlaMint-SI; concordances are typical for speeches, spoken by Regular speakers
+
+### Gender
+
+| Speaker gender | Frequency | Relative density | Relative in text types |
+| --- | --- | --- | --- |
+| M | 1461 | 95.28363 | 6.70766 |
+| F | 461 | 118.62641 | 8.35091 |
+
+- As with ParlaMint-SI; while much more present in Male speeches (Frequency), the concordances are more typical for Female speakers.
+
 
 ## Trendi
 
