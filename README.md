@@ -15,7 +15,6 @@ The results of the discourse analysis are described in the following publication
 }
 
 @inproceedings{meden2026metadata,
-    keywords = {myconf},
     author = {Meden, Katja and Erjavec, Tomaž},
     title = {{Tracing Political Identities Through Metadata in Slovenian Parliamentary Debates}},
     note = {In print},
