@@ -2,7 +2,7 @@
 
 This repository contains the analyses of the Slovenian parliamentary corpus ParlaMint-SI, focusing on the exploration of markers of political identity.
 
-The framework for this study encomapsses three individual analyses of markers of political identity-building categories in Slovenian parliamentary debates, which includes a [metadata-focused approach](./Metadata_Analysis/) to facilitate the discovery of various trends in parliamentary activity during the period covered by the corpus (2000–2022), as well as [concordancer-assisted discourse analysis](./Discourse_Analysis/) that enables the investigation of expressions of political identities through the concept of Us vs. Them, or more specifically, the pronouns "vaši" ("your") and "naši" ("our"). Lastly, the co-occurences of the terms "vaši" and "naši" are [explored in web and social media corpora](./Cross-corpus_Analysis/).
+The framework for this study encomapsses three individual analyses of markers of political identity-building categories in Slovenian parliamentary debates, which includes a [metadata-focused approach](./Metadata_Analysis/) to facilitate the discovery of various trends in parliamentary activity during the period covered by the corpus (2000–2022), as well as [concordancer-assisted discourse analysis](./Discourse_Analysis/) that enables the investigation of expressions of political identities through the concept of Us vs. Them, or more specifically, the pronouns "vaši" ("your") and "naši" ("our"). Lastly, the co-occurrences of the terms "vaši" and "naši" are [explored in web and social media corpora](./Cross-corpus_Analysis/).
 
 The results of the analyses are described in the following publications: 
 ```
@@ -43,6 +43,10 @@ The corpus also incorporates data from the [Chapel Hill Expert Survey dataset](h
 
 Other PI-building categories proposed by van Dijk (2010)—**Activities/Discourse**, **Aims**, and **Norms & Values**—are more directly expressed through parliamentary speech and are therefore examined primarily through discourse analysis.
 
+### References: 
+- Van Dijk, T. A. (2010). *Political identities in parliamentary debates*. European parliaments under scrutiny: Discourse strategies and interaction practices, 29-56.
+- Jolly, S., Bakker, R., Hooghe, L., Marks, G., Polk, J., Rovny, J., ... & Vachudova, M. A. (2022). *Chapel Hill expert survey trend file, 1999–2019*. Electoral studies, 75, 102420. DOI: [https://doi.org/10.1016/j.electstud.2021.102420](https://doi.org/10.1016/j.electstud.2021.102420)
+
 ## Discourse analysis
 [Discourse analysis](./Discourse_Analysis/) focuses on parliamentary speech and examines identity markers through a corpus-assisted approach. It combines text-type analysis, collocation analysis, and keyword analysis to investigate patterns of identity construction in parliamentary discourse.
 The analysis draws on the concept of **Us versus Them** and examines how collective identities are constructed through the use of possessive pronouns, particularly *naš* ("our") and *vaš* ("your").
@@ -50,6 +54,16 @@ The analysis draws on the concept of **Us versus Them** and examines how collect
 The analysis was conducted using the [NoSketch Engine](https://www.clarin.si/ske/#open) concordancer for the ParlaMint-SI 5.1 version of the corpus. 
 
 
-## Context analysis
-[Cross-corpus analysis](./Cross-corpus_Analysis/) examines the co-occurrence of *naši*...*vaši* (“"ours...yours"), a common linguistic pattern used to express political division in Slovenian discourse. The findings are then compared with patterns observed in web and social media discourse, which provide a broader perspective on the use of this dichotomy and its possible derivatives.
+## Cross-corpus context analysis
+The [cross-corpus context analysis](./Cross-corpus_Analysis/) examines the co-occurrence of *naši*...*vaši* (“"ours...yours"), a common linguistic pattern used to express political division in Slovenian discourse in parliamentary, web and social media discourse, which provide a broader perspective on the use of this dichotomy and its possible derivatives.
+
+The cross-corpus context analysis compares the co-occurrences of pronouns across several types of corpora:
+ - Parliamentary corpora: 
+    - ParlaMint-SI 5.1 (beta);
+    - Slovenian parliamentary corpus siParl 4.0 ([http://hdl.handle.net/11356/1936](http://hdl.handle.net/11356/1936))
+- Web corpora: 
+    - The monitor corpus of Slovene Trendi (version 2026-05) ([http://hdl.handle.net/11356/2219](http://hdl.handle.net/11356/2219))
+    - The Slovenian web corpus CLASSLA-web.sl 2.0 ([http://hdl.handle.net/11356/2079](http://hdl.handle.net/11356/2079))
+- Social media corpus: 
+    - [Corpus of texts from Slovene social media sites Janes](https://nl.ijs.si/janes/viri/avtomatsko-oznaceni-korpusi/#Janes) 
 

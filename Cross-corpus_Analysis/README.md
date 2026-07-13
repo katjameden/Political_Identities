@@ -1,4 +1,11 @@
-# Cross corpus analysis
+# Context analysis
 
-- [Cross corpus analysis](./Cross-corpus_Analysis/): Outputs of the comparison of "naš" and "vaš" terms within different (parliamentary, web and social media) corpora and the results of the analysis (TSV). 
-The repository also includes two Markdown files ([Discourse_Analysis](./Discourse_Analysis/Discourse_Analysis.md), [Cross-corpus comparison](./Discourse_Analysis/Cross-corpus%20comparison.md)), which includes the notes and detailed documentation of the discourse and cross-corpus analysis setup and results, as well as documentation of initial experiments, which helped in setting the parameters for the analysis.
+The analysis files are organized into the following folders:
+
+* [Initial_experiments](./Initial_experiments/): Contains documentation and observations from the initial experiments used to establish the analysis parameters.
+* Folders named after the respective corpora ([**ParlaMint-SI**](./ParlaMint-SI/), [**siParl**](./siParl/), [**CLASSLA**](./CLASSLA-Web_sl/), [**Trendi**](./Trendi/), and [**JANES**](./JANES/)) contain data exported from the NoSketch Engine concordancer. Each corpus folder includes the following TSV files:
+
+  * `[Corpus name]_WF_noske`: Word form data.
+  * `[Corpus name]_TT_noske`: Text-type data.
+  * `[Corpus name]_collocations_noske`: Collocation data.
+* [Comparisons](./Comparisons/): Contains cross-corpus comparisons of the word frequency, text-type, and collocation analyses in Markdown format, together with the corresponding TSV files. The folder also includes `Corpus_overview.tsv`, which provides an overview of corpus sizes and CQL query hit counts.
