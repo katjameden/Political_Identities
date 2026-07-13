@@ -1,0 +1,4 @@
+# Cross corpus analysis
+
+- [Cross corpus analysis](./Cross-corpus_Analysis/): Outputs of the comparison of "naš" and "vaš" terms within different (parliamentary, web and social media) corpora and the results of the analysis (TSV). 
+The repository also includes two Markdown files ([Discourse_Analysis](./Discourse_Analysis/Discourse_Analysis.md), [Cross-corpus comparison](./Discourse_Analysis/Cross-corpus%20comparison.md)), which includes the notes and detailed documentation of the discourse and cross-corpus analysis setup and results, as well as documentation of initial experiments, which helped in setting the parameters for the analysis.

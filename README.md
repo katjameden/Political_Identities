@@ -24,22 +24,32 @@ The results of the analyses are described in the following publications:
 
 ```
 
-## Data
-The analysis is based on the ParlaMint-SI 5.1.ana corpus, a linguistically annotated dataset of parliamentary proceedings of Slovenian Parliament (Državni zbor), which is currently available only in beta form, to be made available in the next official ParlaMint release. Replication with [ParlaMint-SI.ana 5.0](http://hdl.handle.net/11356/2005) yields minor frequency differences but does not affect the overall conclusions.
-The corpus also incorporates data from the Chapel Hill Expert Survey dataset, which was filtered for Slovenian data only and matched with ParlaMint-SI party IDs.
+## Repository data and methods
 
+This repository contains the code, data, and outputs for a mixed-method analysis of parliamentary identity construction, combining metadata analysis of parliamentary structures with corpus-assisted discourse analysis of parliamentary speeches.
+The analyses are based on the ParlaMint-SI 5.1.ana corpus, a linguistically annotated dataset of parliamentary proceedings of Slovenian Parliament (Državni zbor), which is currently available only in beta form, to be made available in the next official ParlaMint release. Replication with [ParlaMint-SI.ana 5.0](http://hdl.handle.net/11356/2005) yields minor frequency differences but does not affect the overall conclusions.
+The corpus also incorporates data from the [Chapel Hill Expert Survey dataset](https://www.chesdata.eu/ches-europe) (using the 1999-2019 trend file, [Jolly et al.](https://doi.org/10.1016/j.electstud.2021.102420)), which was filtered for Slovenian data only and matched with ParlaMint-SI party IDs.
 
 ## Metadata analysis
-- [Sample](./Sample/): Sample data, available to run the metadata analysis (for demonstration purposes). 
-- [Notebooks](./Notebooks/): Jupyter notebooks with step-by-step analysis (analysis outputs are based on the full dataset, but can be used to run the sample for demonstration purposes).
-- [Results](./Results/): Outputs of the (sample) analysis (figures, tables, reports, included in Chapter III of the Thesis)
+[Metadata analysis](./Metadata_Analysis/) provides an overview of trends across the legislative period represented in the corpus (2000–2022, from the 3rd to the 8th legislative period). The metadata analysis examines four categories of political identity (PI) building proposed by van Dijk (2010): **Membership**, **Ideology**, **Group relations**, and **Power resources**. Within this study, the categories primarily relate to the following parliamentary structures:
+
+- **Membership**: Political parties, and by extension parliamentary groups, constitute the primary unit of analysis. This category captures the composition and organisation of parliamentary actors.
+
+- **Group relations**: This category primarily concerns the coalition and opposition status of parties, as well as the relationships between them.
+
+- **Ideology**: Although a distinction should be made between ideology and political orientation, the two overlap to some extent. Party positions are captured using three CHES variables: the general left–right dimension (`lrgen`), the economic left–right dimension (`lrecon`), and the cultural dimension (`galtan`). Together, these measures situate parties within the broader ideological landscape.
+
+- **Power resources**: This category is examined through key parliamentary processes, including changes across legislative periods and shifts in government structures.
+
+Other PI-building categories proposed by van Dijk (2010)—**Activities/Discourse**, **Aims**, and **Norms & Values**—are more directly expressed through parliamentary speech and are therefore examined primarily through discourse analysis.
 
 ## Discourse analysis
-The discourse analysis was conducted using the [NoSketch Engine](https://www.clarin.si/ske/#open) concordancer for the ParlaMint-SI 5.1 version of the corpus. The folder includes: 
-- [Collocation Analysis](./Discourse_Analysis/Collocation_Analysis/): Analysis of the L0R1 collocations of all subcorpora and their results in TSV file format.
-- [Keyword Analysis](./Discourse_Analysis/Keyword_Analysis/): Analysis of the representative keywords for each subcorpus and the concordancer outputs in TSV file format.
+[Discourse analysis](./Discourse_Analysis/) focuses on parliamentary speech and examines identity markers through a corpus-assisted approach. It combines text-type analysis, collocation analysis, and keyword analysis to investigate patterns of identity construction in parliamentary discourse.
+The analysis draws on the concept of **Us versus Them** and examines how collective identities are constructed through the use of possessive pronouns, particularly *naš* ("our") and *vaš* ("your").
+
+The analysis was conducted using the [NoSketch Engine](https://www.clarin.si/ske/#open) concordancer for the ParlaMint-SI 5.1 version of the corpus. 
+
 
 ## Context analysis
+[Cross-corpus analysis](./Cross-corpus_Analysis/) examines the co-occurrence of *naši*...*vaši* (“"ours...yours"), a common linguistic pattern used to express political division in Slovenian discourse. The findings are then compared with patterns observed in web and social media discourse, which provide a broader perspective on the use of this dichotomy and its possible derivatives.
 
-- [Cross corpus analysis](./Cross-corpus_Analysis/): Outputs of the comparison of "naš" and "vaš" terms within different (parliamentary, web and social media) corpora and the results of the analysis (TSV). 
-The repository also includes two Markdown files ([Discourse_Analysis](./Discourse_Analysis/Discourse_Analysis.md), [Cross-corpus comparison](./Discourse_Analysis/Cross-corpus%20comparison.md)), which includes the notes and detailed documentation of the discourse and cross-corpus analysis setup and results, as well as documentation of initial experiments, which helped in setting the parameters for the analysis.
